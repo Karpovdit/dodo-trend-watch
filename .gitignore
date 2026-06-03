@@ -5,3 +5,5 @@ public/
 # Quartz plugin internal artifacts that get regenerated
 .quartz/plugins/*/test/
 .quartz/plugins/*/vitest.config.ts
+# Source maps — large, regenerated on build
+*.js.map

@@ -4,8 +4,8 @@
     "alias-redirects": {
       "source": "github:quartz-community/alias-redirects",
       "resolved": "https://github.com/quartz-community/alias-redirects.git",
-      "commit": "c46bc82fb9c93612902de6ab6880d28d7789b471",
-      "installedAt": "2026-06-03T12:15:32.257Z"
+      "commit": "ced441508c05eaf79bd3b9d864aaeb851746eae9",
+      "installedAt": "2026-06-03T13:10:51.610Z"
     },
     "article-title": {
       "source": "github:quartz-community/article-title",
@@ -82,8 +82,8 @@
     "created-modified-date": {
       "source": "github:quartz-community/created-modified-date",
       "resolved": "https://github.com/quartz-community/created-modified-date.git",
-      "commit": "c003199fb842969d43ee9e0f54120a85e588260e",
-      "installedAt": "2026-06-03T12:15:28.620Z"
+      "commit": "ced441508c05eaf79bd3b9d864aaeb851746eae9",
+      "installedAt": "2026-06-03T13:10:52.055Z"
     },
     "darkmode": {
       "source": "github:quartz-community/darkmode",
@@ -142,8 +142,8 @@
     "graph": {
       "source": "github:quartz-community/graph",
       "resolved": "https://github.com/quartz-community/graph.git",
-      "commit": "26deebbebbe304c197ba7c53f788ec85dca71ac1",
-      "installedAt": "2026-06-03T12:15:34.562Z"
+      "commit": "ced441508c05eaf79bd3b9d864aaeb851746eae9",
+      "installedAt": "2026-06-03T13:10:53.127Z"
     },
     "hard-line-breaks": {
       "source": "github:quartz-community/hard-line-breaks",
@@ -208,14 +208,14 @@
     "roam": {
       "source": "github:quartz-community/roam",
       "resolved": "https://github.com/quartz-community/roam.git",
-      "commit": "b2aad70fdf548d07b8fd28df9edbdba7f256f166",
-      "installedAt": "2026-06-03T12:15:29.369Z"
+      "commit": "ced441508c05eaf79bd3b9d864aaeb851746eae9",
+      "installedAt": "2026-06-03T13:10:53.331Z"
     },
     "search": {
       "source": "github:quartz-community/search",
       "resolved": "https://github.com/quartz-community/search.git",
-      "commit": "e0ebef9f80b23a015a9252d4ab98b889b08dc8b7",
-      "installedAt": "2026-06-03T12:15:34.537Z"
+      "commit": "ced441508c05eaf79bd3b9d864aaeb851746eae9",
+      "installedAt": "2026-06-03T13:10:53.752Z"
     },
     "spacer": {
       "source": "github:quartz-community/spacer",
