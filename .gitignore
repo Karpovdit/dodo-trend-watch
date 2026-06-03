@@ -2,3 +2,6 @@ node_modules/
 public/
 .DS_Store
 *.log
+# Quartz plugin internal artifacts that get regenerated
+.quartz/plugins/*/test/
+.quartz/plugins/*/vitest.config.ts
