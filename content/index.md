@@ -1,5 +1,6 @@
 ---
 title: Trend-watch QSR
+publish: true
 ---
 
 # Trend-watch QSR
@@ -19,40 +20,21 @@ title: Trend-watch QSR
 - 🇷🇺 **Локальный рынок РФ** — конкуренты Dodo Pizza и Drinkit, регуляторика, operator-голоса
 - 🌍 **Международные сети** — McDonald's, Mixue, Starbucks, Toast, Olo стратегии
 
-## 🔥 Свежие дайджесты (3 июня 2026)
+## 🔥 Свежие отчёты (3 июня 2026)
 
 - [[digests/2026-06-03_combined-ru|Combined RU+International — неделя + месячный взгляд на рынок РФ]]
 - [[digests/2026-06-03_ai-restaurant-management-map|Карта AI для управления ресторанами]]
 - [[digests/2026-06-03_tech-focus-ru|Технологический дайджест: IT-решения для общепита]]
 - [[digests/2026-06-03_tier_1_must_read|Tier-1 Must-Read Newsletters / Substacks]]
 
-## Недельные отчёты
-
-- [[digests/2026-06-02_weekly-ru|Что важного произошло в ресторанной отрасли (26 мая — 2 июня)]]
-- [[digests/2026-06-03_weekly-ru-v2|Weekly RU v2 (27 мая – 2 июня)]]
-- [[digests/2026-05-29-weekly|Weekly — 22-28 мая]]
-- [[digests/2026-05-28_week-22_proof-of-concept|Week 22 — Proof of Concept]]
-
 ## Месячные отчёты
 
 - [[digests/2026-06-03_monthly-ru|Monthly RU — 4 мая – 3 июня 2026]]
-- [[digests/2026-05_monthly-ru-v4-tech-first|Monthly RU v4 — tech-first]]
-- [[digests/2026-05_monthly-ru-v3-final|Monthly RU v3 (final)]]
-- [[digests/2026-05_monthly-ru-v2-shareable|Monthly RU v2 — shareable]]
-- [[digests/2026-05_monthly-ru|Monthly RU]]
-- [[digests/2026-05-28_month-april-may|Month April-May 2026]]
+- [[digests/2026-05_monthly-ru-v4-tech-first|Monthly RU (май 2026) — tech-first]]
 
-## Тематические срезы и саммари
+## Недельные отчёты
 
-- [[digests/2026-06-03_batch12-content-sample|Sample: 40 новых tier-1 newsletters — что дают]]
-- [[digests/2026-06-03_new-int-sources-sample|Sample: новые международные источники]]
-- [[digests/2026-06-03_china-latam-japan-sample|Sample: China / LatAm / Japan]]
-- [[digests/2026-06-02_linkedin-summary-v2|LinkedIn-обсуждения v2]]
-- [[digests/2026-06-02_linkedin-summary|LinkedIn-обсуждения v1]]
-- [[digests/2026-05-29-weekly-synthesis-ru|Weekly synthesis RU]]
-- [[digests/2026-05-29_apify-v22-summary|Apify v22 summary]]
-- [[digests/2026-05-29_night-expansion-summary|Ночной expansion summary]]
-- [[digests/2026-05_share-message|Share message]]
+- [[digests/2026-06-02_weekly-ru|Что важного произошло в ресторанной отрасли (26 мая — 2 июня)]]
 
 ## Методология
 
@@ -62,4 +44,4 @@ title: Trend-watch QSR
 
 ---
 
-*Архив автоматически обновляется при коммите новых .md файлов в [GitHub репозиторий](https://github.com/Karpovdit/dodo-trend-watch).*
+*Архив обновляется при публикации новых утверждённых отчётов в [GitHub репозитории](https://github.com/Karpovdit/dodo-trend-watch). На сайте видны только утверждённые версии — экспериментальные и superseded остаются в репозитории, но не публикуются.*

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Месячный RU отчёт — 04 мая – 03 июня 2026
 
 **Pipeline:** 320 источников (276 RU Telegram + 44 RSS/Brand-Monitor). 2102 поста за 30 дней (1863 RU + 38 Brand mentions).

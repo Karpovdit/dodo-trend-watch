@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Tier 1: Must-Read Newsletters / Substacks для Dodo Brands
 
 **Date:** 2026-06-03. **Discovered via 4 parallel agents** (Substack search + catalogs + LinkedIn + recommendation graph).
