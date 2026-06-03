@@ -1,0 +1,228 @@
+# Что важного произошло в ресторанной отрасли (26 мая — 2 июня 2026) + расширенный месячный взгляд на рынок РФ
+
+> Обзор для руководителей Dodo Brands. Каждое утверждение — со ссылкой на первичный источник.
+
+---
+
+## Краткое содержание
+
+**Международная отрасль за неделю.** McDonald's объявил новую глобальную стратегию «> NEXT», заменяющую программу 2020 года — фокус смещается с цифровых каналов и доставки на качество блюд, гостеприимство и упрощение кухни. На этом фоне отраслевая статистика подтверждает разворот лидера: 83% сетей быстрого питания в США за последний год теряют гостей несмотря на массовые скидки. Для Drinkit два сигнала — Botrista (автоматы готовых напитков) зашёл в парки развлечений как новый канал, а биржевые цены на зелёный кофе ушли в минимум с ноября 2024 года, открывая окно для перезаключения закупочных контрактов. Из китайского сегмента — Mixue (крупнейшая в мире сеть напитков нижнего ценового сегмента) развернулась с агрессивной зарубежной экспансии на оптимизацию точек, что говорит о потолке роста для такого формата.
+
+**Локальный рынок РФ за месяц.** Рынок проходит фазу сжатия: «Шоколадница» закрыла около 50 точек, «Кутята» закрыли флагман после 8 лет, в Подмосковье из-за нового закона про алкоголь во дворах закрылось 140+ заведений, Москва теряет легендарные рестораны старше 25 лет. Искусственный интеллект перешёл из темы хайпа в операционную плоскость — X5 впервые в России публично назвал цифру операционной прибыли от ИИ (около 5 млрд ₽ за 2025), «Пятёрочка» внедрила computer vision для контроля выкладки в 100 магазинах Москвы, рестораторы публично обсуждают нейросети на кухне. Drinkit стал главным AI-узнаваемым кейсом российского кофе — нейробариста, подбирающий напиток по описанию настроения. Сам Dodo Brands сильно в инфополе: Гоша Зосидзе вошёл в Forbes 30 Under 30, vc.ru сделал материал про экспансию в Дубае. Параллельно за две недели прошла распродажа четырёх франшизных пиццерий в малых городах — нужно понять нарратив. Регуляторика: Россельхознадзор со 2 июня запретил армянские косточковые, мировые цены на чай +20% за месяц, ФНС упростила НДС-возврат для общепита с ИП.
+
+**Структура документа.** Сначала пять главных событий международной отрасли за неделю с реакциями из LinkedIn, потом российский рынок за месяц (топ-новости, технологические сигналы, нетехнологические сигналы). Затем — сводная таблица того, что не вошло в топ-блоки, и единый список действий для команд Dodo.
+
+> **Обозначение:** 🔒 в ссылках = источник за paywall, по ссылке доступен только превью (~100 символов). Для глубокого изучения нужна подписка либо смотреть бесплатные аналоги (в action items указаны).
+
+---
+
+## 🌍 Международная картина — топ-5 событий недели
+
+### 1. McDonald's > NEXT — стратегический разворот всей отрасли
+
+1 июня McDonald's представил новую глобальную стратегию, **заменяющую программу «Accelerating the Arches» 2020 года, которая делала ставку на цифровые каналы, доставку и драйв-тру**. Это не косметика, а смена приоритетов. Четыре опоры: новый дизайн ресторанов с упрощённой кухонной частью; лучшее качество блюд с фокусом на курицу (новые соусы, расширение McCrispy), говядину и напитки McCafe; инновации по запросу гостей через формат «co-creation»; «переопределение гостеприимства» — обучение сотрудников взаимодействию с гостями.
+
+Важное уточнение про систему **ARCHY** — это AI-ассистент для автоматизации приёма заказов, который сейчас на пилоте только в 5 точках США. Не «полная автоматизация кухни», как звучит в обсуждениях. US same-store sales Q1 2026 +3,9%. Конкретные цели и сроки McDonald's обещает раскрыть на Investor Day в сентябре.
+
+[Mike Gordon, лидер технической команды McDonald's](https://www.linkedin.com/posts/mike-gordon-2021209_mcdonalds-worldwide2026-technology-activity-7467288107588173824-3Qbf) показывает масштаб новой технической базы: *«Более 50 сотрудников разворачивали технологию для конвенции McDonald's Worldwide 2026 — 42 километра сетевого кабеля, 6 кластеров Google Edge, IoT-телеметрия с сотен подключённых устройств. Edge computing — основа технического стека»*. McDonald's строит **новую техническую базу под новую стратегию** — на ней будут жить ARCHY и будущая автоматизация.
+
+[Joe Tagliente](https://www.linkedin.com/posts/josephdtagliente_mcdonalds-unveils-new-global-growth-strategy-activity-7467565303804116993-7_AM) добавляет ключевую цитату CEO Кемпчинского: *«В мире, где каждый ресторан в одном свайпе, не существует такой вещи, как второе место. Бренды, которые выигрывают в 2026 году — это те, кого гости выбирают первыми»*.
+
+**Что это значит для Dodo:** когда лидер индустрии разворачивает 5-летнюю стратегию — это сигнал отрасли в целом. Стоит обсудить переоценку веса digital и delivery vs. качество блюд и опыт гостя в нашей собственной стратегии. Edge computing + IoT + Google Edge кластеры — направление, в которое индустрия движется на инфраструктурном уровне.
+
+Источники: [Restaurant Dive, 2 июня](https://www.restaurantdive.com/news/mcdonalds-next-strategy-growth-productivity/821684/) · [CNBC, 1 июня](https://www.cnbc.com/2026/06/01/mcdonalds-mcd-unveils-growth-strategy.html) · [QSR Magazine](https://www.qsrmagazine.com/story/mcdonalds-launches-new-global-strategy-to-stay-ahead-of-competition/).
+
+### 2. 83% сетей быстрого питания в США потеряли удерживаемость гостей
+
+Свежая отраслевая статистика подтверждает разворот McDonald's: **большинство сетей быстрого питания в США за последний год теряют гостей**, несмотря на массовые скидки и промо-акции. Restaurant Dive [называет это «QSR value wars»](https://www.restaurantdive.com/spons/the-qsr-value-wars-are-buying-traffic-not-loyalty/821059/) — *«скидки покупают трафик, но не лояльность»*. Параллельно [Restaurant Dive op-ed](https://www.restaurantdive.com/news/restaurant-industrys-real-crisis-financing-access/820877/) формулирует более жёстко: **главный кризис отрасли — это не себестоимость продуктов, а доступ к финансированию**.
+
+[Warren Jansons на LinkedIn](https://www.linkedin.com/posts/warrenjansons_restaurants-strategy-leadership-activity-7464958428020477954-Mc7Q) переводит retention-проблему в конкретную математику: средний срок работы сотрудника в QSR составляет 4 месяца, на сеть из 50 точек это даёт ~$1,5 миллиона потерь в год. *«Проблема с кадрами — это не наём, это удержание»*.
+
+**Что это значит для Dodo:** скидочные модели как основной retention-механизм перестают работать у конкурентов в США. Если мы видим аналогичный паттерн в России (где QSR-конкуренты сейчас активно играют entry-level price war — Burger King 199,99 ₽, ROSTIC'S 149 ₽), то наш ответ должен быть не в ценовой гонке, а в качестве и retention-механизмах.
+
+### 3. Mixue развернулся с агрессивной экспансии на оптимизацию точек
+
+Крупнейшая мировая сеть напитков нижнего ценового сегмента **Mixue** (Китай, ~46 000 точек) объявила о развороте стратегии — с агрессивной зарубежной экспансии на оптимизацию существующих точек ([The Spoon](https://thespoon.tech/mixue-pivots-from-aggressive-expansion-to-store-optimization/)). Это сигнал, что у глобальных игроков такого формата (ультра-плотное размещение + дешёвая масштабируемая модель + концепты вокруг напитков) есть **потолок роста через скорость открытия**.
+
+[Pedro Gan, отраслевой консультант](https://www.linkedin.com/posts/pedro-gan-74504923_franchise-activity-7466687415789719552-lRdF), даёт стратегическую рамку про новую битву в мировой ресторанной индустрии: *«Mixue уже обогнал McDonald's по числу точек, Luckin Coffee — 33 000+ точек за несколько лет. США пока доминируют во франшизе как технологии управления. Китай переопределяет правила: скорость повторения формата, дешёвые масштабируемые модели точек, цифровая интеграция, концепты вокруг напитков, ультра-плотное размещение»*.
+
+**Что это значит для Dodo:** мы конкурируем не только с пицца-сетями в нашей географии, но и с китайскими моделями сетей напитков, которые меняют правила игры в дешёвом масштабировании. Особенно актуально для Drinkit. Mixue уже в Казахстане с апреля 2025 — стоит изучить позиционирование и ценовую политику в нашей географии.
+
+### 4. Botrista — пошёл в парки развлечений + цены на зелёный кофе на минимуме с ноября 2024
+
+Два сигнала недели для направления Drinkit. Первый — **Botrista** (Сан-Франциско, основан в 2017) делает автоматы для специальных напитков (один автомат за 20 секунд готовит ~2 000 рецептов без бариста, бизнес-модель «pay per drink»). На прошлой неделе ([пост Jason V., 28 мая](https://www.linkedin.com/posts/ugcPost-7465028321014120448-rqj6)) они зашли в SeaWorld Orlando — открыли «Bubbles Boba Bar», где напиток становится частью аттракциона. Раньше Botrista стоял в кафе и ресторанах, теперь — в развлекательных площадках. Если Drinkit рассматривает pop-up формат в парках, кинотеатрах или на крупных событиях — Botrista даёт готовое референсное решение.
+
+Второй сигнал — **биржевые цены на зелёный кофе ушли в минимум с ноября 2024 года** ([Daily Coffee News](https://dailycoffeenews.com/2026/06/01/arabica-coffee-prices-hit-lows-not-seen-since-november-2024/)). Открыто окно для перезаключения закупочных контрактов с поставщиками на более выгодных условиях. Параллельно [NCA 2026 Specialty Coffee Report](https://dailycoffeenews.com/2026/06/02/specialty-coffee-holds-lead-over-traditional-coffee-in-the-u-s/) подтверждает, что specialty coffee удерживает лидерство над traditional coffee в США — фундаментальный спрос на сегмент держится.
+
+**Что это значит для Dodo:** окно для пересмотра закупочных контрактов на зелёный кофе для Drinkit — горящее, но конкретное действие. Botrista как референс для pop-up формата стоит положить в наблюдение для команды стратегии Drinkit.
+
+### 5. Mainstream QSR откатывает хайповые ставки — Picnic, Starbucks AI, White Castle × Impossible
+
+За одну неделю три независимых сигнала формируют общий тренд: крупные ресторанные сети **возвращают назад решения, которые на пике хайпа казались стратегическими**. Это не косметика — это переоценка того, что реально работает в production.
+
+**Закрывается Picnic, pizza-robot стартап** ([AgFunderNews](https://agfundernews.com/agrifood-signals-elbit-acquires-bluewhite-more-funding-for-virtual-fencing-anheuser-busch-awards-80k-grant)) — $53M инвестиций, партнёрство с Domino's. Вместе с ранее закрытым **Zume Pizza** (~$500M потрачено) формируется жёсткий сегментный сигнал: **pure-play pizza-robotics экономически не выживает**. Параллельно Gartner прогнозирует, что **40% AI-проектов в QSR закроется к 2027** (в контексте проблем внедрения у Pizza Hut, Uber, Starbucks).
+
+**Starbucks свернул AI-инструмент для подсчёта инвентаря в магазинах** ([Food On Demand, 2 июня](https://foodondemand.com/06022026/starbucks-pulls-back-ai-inventory-counting-tool/)). Pilot должен был автоматизировать одну из самых трудоёмких ежедневных задач для бариста, но не масштабировался и был остановлен. Это происходит у одной из самых tech-зрелых ресторанных компаний мира — то есть проблема не в «недостатке инвестиций в AI», а в фундаментальной сложности scaling новых технологий across restaurant operations.
+
+**White Castle заменил Impossible Foods на Dr Praeger's в новом Southwest Veggie Slider** ([Green Queen, 2 июня](https://www.greenqueen.com.hk/white-castle-southwest-veggie-slider-dr-praegers-impossible-foods/)). Это символическое событие — Impossible Foods был одним из главных foodtech-стартапов десятилетия с $2 млрд+ инвестиций, а White Castle был один из его первых fast-food клиентов. Замена на более дешёвый и менее хайповый продукт от Dr Praeger's означает, что **mainstream QSR пересматривает экономику alt-protein**, особенно когда consumer demand не подтверждает premium pricing.
+
+**Что это значит для Dodo:** три сигнала одной недели — это не совпадение, это **сдвиг от «хайповых ставок» к «измеримой экономике»** на уровне отрасли. Для Smart Tracking и архитектуры Dodo IS — если мы строим kitchen automation, делать это через AI-слой поверх существующего стэка (как Toast IQ — экономия $4 000 на труде, +8% спайки продаж — [Walchef Substack](https://restauranttechnology.substack.com/p/the-future-of-tech-is-agentic-how), или Byte by Yum — production на 38 000 ресторанов), не через отдельный робот или standalone AI-сервис. **Pull-back Starbucks** — конкретный proof-point: когда у Drinkit нейробариста работает в production, а у Starbucks AI-инвентаризация откатилась — это не маркетинг, это фактическая разница в качестве внедрения. Для бренд-маркетинга — отдельная история: если мы упоминаем «инновации» в коммуникации, нужно стоять за конкретными результатами, а не за хайпом.
+
+---
+
+## 🇷🇺 Российский рынок — месячный срез
+
+**Окно:** 04 мая – 03 июня 2026.
+
+### 🔝 Топ-новости месяца
+
+#### 1. Рынок проходит фазу сжатия
+
+За месяц закрылась сеть «Шоколадница» в объёме ~50 точек, флагман сети «Кутята» закрылся после 8 лет работы на Новослободской, в Подмосковье из-за нового закона про продажу алкоголя во дворах закрылось **140+ заведений** (около 30% от попавших под закон). Параллельно [@burovdt из ресторанной группы Дримтим](https://t.me/burovdt/997) фиксирует, что **Москва теряет легенды старше 25 лет** — Бочка (29 лет), Шинок (28), Vаниль (24), чебуречная на Брестской (35). Канал [@raidedrests](https://t.me/raidedrests/8042) почти ежедневно фиксирует новые закрытия в Москве: Da Cicco на Профсоюзной, French Bakery SeDelice, Blau, корнер «Ливан Хаус» в Метрополисе.
+
+[«Кутята» в прощальном сообщении](https://t.me/raidedrests/8051) объясняют закрытие так: *«сейчас мы понимаем, что не можем воплотить в кофейне на Новослободской то, что видим. Ко всему прочему упал потребительский спрос, открылись конкуренты»*. Это иллюстрация трёх факторов сжатия одновременно — внутренний (qualitative gap), внешний потребительский, конкурентный.
+
+**Что это значит для Dodo:** рынок в фазе санации, выживают концепции с product-market fit, не локации. Это может быть **окно для нашего coffee-portfolio Drinkit** — освобождающиеся локации/команды у конкурентов. Стоит мониторить.
+
+#### 2. Искусственный интеллект перешёл из хайпа в операционку
+
+Главный месячный сигнал — AI окончательно вышел из обсуждений и попал в реальные операционные процессы российских компаний. **X5 впервые в России публично назвал цифру операционной прибыли от ИИ — около 5 миллиардов рублей за 2025 год** ([Foodtech RU](https://t.me/foodtechonline/6680)). Внедрено в коммерции, логистике, клиентском сервисе и корпоративных функциях. Это первая публичная цифра российского ритейлера такого масштаба, и она работает как proof-point для отрасли.
+
+«Пятёрочка» развернула **computer vision Shelf Sense в 100 магазинах Москвы** ([Foodtech RU](https://t.me/foodtechonline/6673)) — нейросеть отслеживает ценники и пустоты на полках. Шефы публично выходят на дискуссии: 15 мая прошла панель *«Искусственный интеллект на кухне»* с Константином Опескиным, Курсантом Нурадиновым и Евгением Козубовым ([@opeskink](https://t.me/opeskink/944)). Сам Константин Опескин запустил «Ресториум в web-версии» ([@opeskink 08.05](https://t.me/opeskink/943)) — выход из ТГ-формата в полноценное приложение для рестораторов.
+
+Малые предприниматели публично пишут про AI как стандартный рабочий инструмент. [@starostin_creator](https://t.me/starostin_creator/2756) ищет тестировщика в свой проект: *«Claude Code за $200 и токены — без ограничений»* — то есть рассматривает Claude Code как стандартный софт для сотрудника. Его же кейс [«Как нейронки спасли ларёк шаурмы от банкротства»](https://t.me/starostin_creator/2759) — ребрендинг шаурмичной в Новосибирске за 3 месяца через AI-инструменты (регламенты, ТТК, дизайн).
+
+**Что это значит для Dodo:** AI больше не в категории «исследуем», а в категории «лидеры уже считают ROI». Цифра X5 (5 млрд ₽) — готовый proof-point для нашего AI-roadmap. Computer vision Пятёрочки — бенчмарк для аналогичного применения в kitchen automation Drinkit (контроль стопп-листа, контроль выкладки в витрине).
+
+#### 3. Drinkit — главный AI-узнаваемый кейс российского кофе
+
+Нейробариста Drinkit (фича подбора напитка по описанию настроения гостя) вышел в массовое инфополе. Канал [@dododev](https://t.me/dododev/1771) описывает фичу 22 мая. Через неделю [Night2Day (51,5K подписчиков)](https://t.me/night2daymoscow/13913) публикует реальный пользовательский отзыв — *«попросили подобрать напиток — получили "Ночное манго"»*. AI-канал [@data_fish](https://t.me/data_fish) комментирует кейс как пример осмысленной отраслевой интеграции: *«Нейробариста: когда ИИ знает, что вам нужно, лучше вас»*. [BuyBrand](https://buybrand.ru/news/v-top-10-samykh-bystrorazvivayushchikhsya-setey-obshchepita-9-masshtabiruyutsya-po-franshize/) упомянул нейробариста как причину, по которой Дринкит был лидером рейтинга быстрорастущих сетей общепита в 2025 году.
+
+Параллельно прошёл [запуск сезона манго в приложении Drinkit](https://redspecial.ru/link/2026-06-02-v-drinkite-nachalsya-sezon-mango), [@mobilefiction](https://t.me/mobilefiction/427) (разработчик Drinkit) описал переход на Kotlin Multiplatform и публично продвигает AI Lab команды на Mobius 2026 Spring.
+
+**Что это значит для Dodo:** нейробариста становится главным узнаваемым AI-маркером в кофе РФ. Используем как differentiator в pitches, интервью, отраслевых дискуссиях. **Важно подсвечивать конкретные результаты** (как нейробариста помогает гостю), а не просто факт «у нас есть AI» — индустрия устала от AI-маркетинга и хочет конкретики.
+
+#### 4. Drive-thru возрождается в РФ + Dodo и Rosinter изучают
+
+Системный сигнал по двум независимым каналам ([@foodtechonline](https://t.me/foodtechonline/6676) и [@lemmagroup](https://t.me/lemmagroup/8276)): **БлинБери запустила первую автоточку и тестирует формат для СушиВесла**. В одной строке с этим — **Dodo Pizza и Rosinter официально изучают масштабирование автопиццерий**.
+
+**Что это значит для Dodo:** наше внутреннее обсуждение драйв-тру вышло в trade press — пора формализовать публичный pov по направлению. Какие пилоты делаем? Что именно изучаем? Как Smart Tracking и УТ 2.0 должны адаптироваться под drive-thru-flow заказов? Если есть конкретные шаги — стоит проактивно говорить про них в инфополе, потому что иначе нарратив сформируется без нас.
+
+#### 5. Регуляторный пакет — три давления одновременно
+
+За месяц на отрасль наложилось три регуляторных изменения. **Россельхознадзор со 2 июня запретил ввоз косточковых и винограда из Армении** — вишня, черешня, абрикосы, слива, персики, нектарины, виноград ([@lemmagroup](https://t.me/lemmagroup/8284)). Это заденет летнее меню десертов и фрешей у всех сетей. **Мировые цены на чай выросли на 20% за месяц** на фоне проблем в Индии, Кении и Шри-Ланке ([@foodtechonline](https://t.me/foodtechonline/6674)). И параллельно — **ФНС упростила НДС-возврат для общепита с ИП**: ресторанам, восстановившим освобождение от НДС с 1 апреля 2026, не нужно править кассовые чеки задним числом ([@lemmagroup](https://t.me/lemmagroup/8280)).
+
+**Что это значит для Dodo:** замена поставщика косточковых для летнего меню десертов и фрешей — горящая задача для команды учёта и закупок. Чайный рост +20% будет давить на себестоимость в течение лета. НДС-изменение снимает комплаенс-риск с QSR-сетей с ИП-юрлицами — для нас это, скорее всего, нейтральное упрощение.
+
+---
+
+### 💻 Технологические сигналы
+
+**SaaS-конкуренты в B2B HoReCa-аналитике.** За месяц три российских инструмента для рестораторов вышли на новый уровень присутствия. **Mozg** (Сергей Ицков) публикует «Индекс Цезаря» как отраслевой метрики ([@itskovserge](https://t.me/itskovserge/314) — *«Тупик финансовой модели ресторана. Часть 1. Впервые за 4 месяца замеры показали -1% выручки»*). **Ресториум** (Константин Опескин, CHEF.X) перешёл из ТГ-формата в полноценное веб-приложение. **CHEF.X** активно продвигается через интенсивы и панели. Эти три инструмента — растущая конкурентная карта для нашей операторской платформы Dodo IS.
+
+**Vendor / B2B обновления.** [iiko](https://t.me/iiko_russia/1439) пишет про дизайн меню как тихий driver среднего чека — *«меню не бывает рассеянным и не забудет скрипты допродаж, если заложить их в дизайн»*. Yandex AI Studio добавил интерфейс для голосовых ИИ-агентов (модель Yandex Speech Realtime с On-Premise предложением). Битрикс выкатил **«Вайбкод AI beta»** — vibe-coding внутри корпоративного CRM, уникальное предложение для российского B2B. NeuroHoReCa выпустил образовательный пост *«4 задачи, которые ИИ уже делает быстрее шефов»* с конкретными цифрами (закупка ингредиентов из ТТК: час → 5 минут).
+
+**Платежи и финтех в HoReCa.** ВТБ запустил эквайринг с QR + «Волной» + биоэквайрингом на собственном ПО для POS-терминалов ([@foodtechonline](https://t.me/foodtechonline/6685)) — биометрию для оплаты вкатили в массовый канал. Cofix запустил [интеграцию с Yandex Pay](https://t.me/cofix_russia/1671) — *«4-й напиток за 1 ₽ при оплате 3 заказов через Yandex Pay»* — пример прямой интеграции HoReCa-loyalty в финтех-сервис.
+
+**Engineering / mobile dev сигналы.** [@mobilefiction](https://t.me/mobilefiction/427) (разработчик Drinkit) публично продвигает AI Lab команды и переход на Kotlin Multiplatform на Mobius 2026 Spring. [@dododev](https://t.me/dododev/1790) (Dodo Engineering) опубликовал технический разбор Swagger-генерации в Kotlin — стабильный поток tech-контента, работающий на HR-бренд.
+
+---
+
+### 🏪 Нетехнологические сигналы
+
+**Конкуренты Dodo Pizza.** За месяц прошла **ценовая война на entry-level**: Burger King объявил [Биг Кинг за 199,99 ₽](https://t.me/burgerkingrus/2486) и идёт meme-toned контент-стратегией для Gen-Z (розыгрыш iPhone 17 Pro Max за «супермегапупергигадлинный заказ»). ROSTIC'S дал [Шефбургер/Шефролл по 149 ₽ через приложение](https://t.me/ROSTICSru/1929) и **Ланчбаскет 5 позиций за 250 ₽**. Параллельно ROSTIC'S активно запускал летние новинки — фисташковое мороженое, милкшейк «арбуз+дыня», Мега Ролл с тремя стрипсами, co-brand с Союзмультфильм (Лео+Тиг для детского комбо). **Папа Джонс** пошёл в продуктовое движение: пицца [«Крем-чиз с грибами»](https://t.me/papajohns_russia/858), концепт [«Папа Микс»](https://t.me/papajohns_russia/863) (4 вкуса в одной пицце), «Сет на одного» как соло-комбо. **MYBOX** позиционирует «MYBOX маркет» как ответ длинной доставке: *«еда подстраивается под скорость, не тормозит»*. **Sushi Fixprice ребрендится в МОРЕ НОРИ**.
+
+**Конкуренты Drinkit.** Самым активным конкурентом месяца оказался **Skuratov Coffee Roasters** — летняя линейка «Луна-парк» с 26 мая (5 напитков-аттракционов, Колд брю со сливочной пеной), камерные презентации меню в МЕГА Химки и Омске, **шахматные вечера в МЕГА Химки**, 8-й сезон **Skuratov Running Club**, партнёрство с шоссейными велосипедистами в Омске, открытие в Аграрном университете Омска + производственный хаб, экспорт зерна в Корею. Это **сильный community-маркетинг** — Skuratov ставит не на ценовую конкуренцию, а на retention через identity и сообщество. **Surf Coffee** запустил [Blue Hawaii Roast](https://t.me/surfcoffeeru/662) — кенийский Muranga, выдержанный 40 дней в бочке из-под ирландского виски. **Duoclub** запустил [«тайные обвесы Ü»](https://t.me/duoclub/3731) — gamification-механика вокруг покупки. **Tasty Coffee** — каскара-концентрат как summer-only SKU, **Павел Кривцов стал «Обжарщик года» 2026**.
+
+**Operator POV — три ключевых наблюдения от индустриальных голосов.** [@sysoevfm (368K подписчиков)](https://t.me/sysoevfm/20718) фиксирует **сдвиг люкса от статуса к lifestyle**: *«В Петербурге в HIDEOUT появился фирменный номер BORK. Люкс всё реже про цену и статус, и всё чаще про образ жизни»*. [@work_hero «Работяга»](https://t.me/work_hero/545) даёт **реалистичный прогноз на лето 2026**: *«Лето будет неплохим по количеству гостей и чеков, но напряжённым по прибыли. Туризм внутри страны останется активным, но на этом заработать смогут не все»*. И там же — **анти-AI-нарратив** ([@work_hero 06.05](https://t.me/work_hero/537)): *«Ленты в соцсетях заполнены AI-фабрикой одинакового контента. Сделано человеком — новый люкс»*.
+
+**Кадровый рынок и retention.** HR-вакансии стабильно занимают около 40% всех публикаций в русскоязычном HoReCa-сегменте. Ставки за смену — 2500-7000 ₽, в премиум-сегменте до 10 000 ₽. ROSTIC'S запустил HR-кампанию [«до 111 000 ₽/мес»](https://t.me/RestoranHR/2114). Параллельно [@burovdt](https://t.me/burovdt/1003) бьёт по теоретическим HR-моделям: *«Теория, что нужно нанять сильного руководителя и он сам соберёт команду, популярна у HR-стратегов без реальной ответственности за бизнес»*.
+
+**Dodo Brands в инфополе — ключевые точки месяца.** Гоша Зосидзе вошёл в [Forbes 30 Under 30 2026](https://30-under-30.forbes.ru/2026/557808-georgij-zosidze). [Vc.ru сделал кейс про экспансию Dodo Brands в Дубае](https://vc.ru/marketing/2960459-dubai-marina-i-russkie-eksperty-uspeshnyj-dodo-brands) — Marina как «русский район», подтверждение работающей гипотезы expansion via экспат-комьюнити. Ольга Выродова (HRD Drinkit) модерировала HR-блок на онлайн-конференции [@scopening](https://t.me/scopening/2573) 4 июня. Параллельно по бренду Dodo за две недели прошла **активная распродажа четырёх франшизных пиццерий в малых городах** (Новотитаровская, Мирный — со снижением цены до 65 млн, Анжеро-Судженск) — это требует прозрачного объяснения нарратива.
+
+**Сигнал по D2C-стратегии для специалити-кофе.** [@mv4ru](https://t.me/mv4ru/613) Васильчиковы кофе **отказались от Wildberries/Ozon** из-за роста комиссий маркетплейсов в 2 раза за год — цены на собственном сайте теперь ниже маркетплейсов. Сигнал: для specialty-coffee формата D2C становится экономически разумнее маркетплейсов.
+
+---
+
+## 📋 Что ещё было — сводно
+
+| Дата | Регион | Тема | Источник |
+|---|---|---|---|
+| 2026-06-02 | US | Yum! Brands COO Tracy Skeans уходит после 25 лет | [QSR Magazine](https://www.qsrmagazine.com/news/yum-brands-executive-tracy-skeans-to-retire-after-25-years/) |
+| 2026-06-02 | US | Cafe Rio новый CEO Mike Burns (из &pizza) — «вернуть бренд к росту через скорость и качество» | [Restaurant Dive](https://www.restaurantdive.com/news/cafe-rio-new-ceo-mike-burns-and-pizza/821664/) |
+| 2026-06-02 | US | Erbert & Gerbert's: Mark Kocer CEO, фокус на franchise growth | [QSR Magazine](https://www.qsrmagazine.com/news/ebert-gerberts-names-mark-kocer-ceo/) |
+| 2026-06-02 | US | Pita Pit: John Csukor CEO | [FastCasual](https://www.fastcasual.com/news/john-csukor-named-ceo-of-pita-pit/) |
+| 2026-06-02 | US | Salt & Straw (60 локаций, $100M+ выручки) готовит продажу на $200M+ | [QSR Magazine](https://www.qsrmagazine.com/story/report-salt-straw-exploring-sale/) |
+| 2026-06-02 | US | Paris Baguette: 300-й US-ресторан, цель 400 + 150 новых в 2026 | [QSR Magazine](https://www.qsrmagazine.com/growth/fast-casual/paris-baguette-eyes-400-locations-as-north-american-growth-accelerates/) |
+| 2026-06-02 | US | Taco Bell: Ghai Restaurants купила 44 ресторана Houston у Mas Group | [Restaurant Dive](https://www.restaurantdive.com/news/mas-restaurant-group-bessemer-sells-44-taco-bells-to-ghai/821589/) |
+| 2026-06-02 | US | Pressed Juicery + CloudKitchens — запуск в 27 локациях | [QSR Magazine](https://www.qsrmagazine.com/news/pressed-juicery-to-launch-in-27-cloudkitchens-locations-nationwide/) |
+| 2026-06-02 | US | White Castle — Veggie Slider постоянным пунктом меню | [QSR Magazine](https://www.qsrmagazine.com/news/white-castle-makes-veggie-slider-permanent-menu-item/) |
+| 2026-06-02 | US | HME ClearSoundX — audio-feature для drive-thru на платформе NEXEO | [QSR Magazine](https://www.qsrmagazine.com/news/hme-launches-breakthrough-audio-feature-clearsoundx/) |
+| 2026-06-02 | US | Matternet — drone-delivery для ресторанов поднял $33M и вышел на биржу | [FastCasual](https://www.fastcasual.com/news/matternet-raises-33m-goes-public-to-expand-restaurant-drone-delivery/) |
+| 2026-06-02 | US | Del Taco запустил nationwide value menu с позициями от $1 | [QSRweb](https://www.qsrweb.com/news/del-taco-launches-nationwide-value-menu-with-items-starting-at-1/) |
+| 2026-06-02 | US | Atomic Wings — 100% unit growth в 2026 | [FastCasual](https://www.fastcasual.com/news/atomic-wings-moves-toward-100-unit-growth-in-2026/) |
+| 2026-06-02 | US | E. coli outbreak — The Kebab Shop, beef kofta, большинство пациентов — дети | [Food Safety News](https://www.foodsafetynews.com/2026/06/beef-kofta-samples-from-the-kebab-shop-match-outbreak-strain-of-e-coli/) |
+| 2026-06-02 | US | Salmonella в NY jail: 320 заболевших, источник — куриный салат | [Food Safety News](https://www.foodsafetynews.com/2026/06/lab-tests-show-chicken-salad-served-at-jail-was-responsible-for-outbreak/) |
+| 2026-06-01 | US | Champion Foods recall: Motor City Pizza Co. 5 Cheese Bread (Salmonella в молочном порошке поставщика) | [Food Safety News](https://www.foodsafetynews.com/2026/06/cheese-bread-sold-at-walmart-costco-and-other-stores-recalled-because-of-salmonella-risk/) |
+| 2026-06-01 | EU | DigitalFoodLab 9-й годовой отчёт: AgriFoodTech-стартапы -25% инвестиций в 2025 | [Отчёт](https://digitalfoodlab.com/la-foodtech-europeenne-resiste-et-se-reorganise/) |
+| 2026-06-01 | EU | Phytolon (IL) поднял $23.6M на yeast-fermented natural pigments | [DigitalFoodLab](https://digitalfoodlab.com/25-foodtech-insights-and-deals-to-know-this-week-2026-week-23/) |
+| 2026-06-02 | Global | Ryl Tea — $20M Series C на «modern tea movement» | [BevNET](https://www.bevnet.com/news/2026/ryl-tea-brings-in-20m-as-retailers-bet-on-modern-tea-movement) |
+| 2026-06-02 | Global | GLP-1 «companion nutrition» — food-бренды готовятся следовать за GLP-1 юзерами | [AgFunderNews](https://agfundernews.com/food-brands-prepare-to-follow-glp-1-users-on-and-off-the-drugs) |
+| 2026-06-02 | MENA | CargoX (UAE) поднял $250M на driverless logistics (CEO — экс-CEO Talabat) | [Wamda](http://wamda.com/2026/06/cargox-secures-250-million-led-bluefive-capital-driverless-logistics-expansion) |
+| 2026-06-02 | MENA | Saudi premium dining — рост сектора ~7% год к году через Vision 2030 | [Arab News](https://www.arabnews.com/node/2644921/business-economy) |
+| 2026-06-02 | RU | «Лента» закрывает сделку по покупке 100% «О'КЕЙ» — крупнейшая FMCG-консолидация | [Foodtech RU](https://t.me/foodtechonline/6684) |
+| 2026-06-02 | RU | Ozon fresh расширил Hot&fresh (dark-store готовая еда) в СПб и ЛО | [Foodtech RU](https://t.me/foodtechonline/6682) |
+| 2026-06-01 | RU | Арнест Юнирусь (бывший Unilever) выходит на рынок функциональных напитков с брендом Repeat | [Foodtech RU](https://t.me/foodtechonline/6678) |
+| 2026-06-01 | RU | ЕС запретит одноразовые упаковки с кетчупом/приправами в кафе | [Foodtech RU](https://t.me/foodtechonline/6679) |
+| 2026-05-31 | RU | Foodtech RU подтверждает: Dodo Pizza изучает масштабирование автопиццерий | [Foodtech RU](https://t.me/foodtechonline/6676) |
+| 2026-05-29 | RU | BeFit запускает замороженный SoloPasta (карбонара, паста с трюфелем) для ритейла и HoReCa | [Foodtech RU](https://t.me/foodtechonline/6669) |
+| 2026-05-28 | RU | «Балтика Brew» — премиальный крафтовый проект (мини-пивоварня + бар) в Севкабеле СПб | [Foodtech RU](https://t.me/foodtechonline/6668) |
+| 2026-05-28 | RU | Интервью Бориса Зарькова (White Rabbit) в Forbes Club: «охлаждение рынка — нормальный этап» | [@restovedofficial](https://t.me/restovedofficial/5682) |
+| 2026-05-28 | RU | NeuroHoReCa: «4 задачи, которые ИИ уже делает быстрее шефов» — закупка из ТТК (час → 5 мин) | [@neurohoreca](https://t.me/neurohoreca/1669) |
+| 2026-05-20 | RU | Денис Чернобаев (getplace.io): MRR упал с €60k до €45k, Q2 2026 в минусе впервые | [@pochemypotomychto](https://t.me/pochemypotomychto/192) |
+| 2026-05-15 | Global | Claude Code помог расшифровать кошелёк с 5 BTC, запертый 12 лет (вирусный кейс) | [@life_hack_ai](https://t.me/life_hack_ai/568) |
+| 2026-05-15 | Global | @productdo запустил курс Claude Code для продактов с симулятором Big Tech | [@productdo](https://t.me/productdo/918) |
+| 2026-05-14 | Global | LinkedIn / @restserov: ChatGPT добавил «Балтику 3» на вирусное видео — AI-маркетинг тренд | [@restserov](https://t.me/restserov/413) |
+| 2026-05-08 | Global | Anthropic строит AI-аналог McKinsey: $1.5B JV с Blackstone, Goldman Sachs | [@kgrbnv](https://t.me/kgrbnv/1145) |
+| 2026-05-04 | RU | @directorcoffee: апрель — 14.3M ₽ выручка, +23.56% YoY, но -5.97% MoM | [@directorcoffee](https://t.me/directorcoffee/737) |
+| 2026-06-02 | US | **Starbucks свернул AI-инструмент инвентаризации** — pilot не масштабировался | [Food On Demand](https://foodondemand.com/06022026/starbucks-pulls-back-ai-inventory-counting-tool/) |
+| 2026-06-02 | US | Matternet (drone-delivery) идёт на агрессивный scaling после UK approval + reverse merger | [Food On Demand](https://foodondemand.com/06022026/matternet-ceo-gives-birds-eye-view-of-aggressive-scaling-strategy/) |
+| 2026-06-02 | US | **Barry Diller (People Inc.) подал заявку на $18B go-private buyout MGM Resorts**: «MGM представляет редкий бизнес с реальными активами, которые AI не может replicate» | [Hotel Dive](https://www.hoteldive.com/news/people-inc-plots-18B-bid-MGM-Resorts/821703/) |
+| 2026-06-02 | US | CoStar/Tourism Economics upgrade US RevPAR forecast +2.8% YoY на 2026 | [Hotel Dive](https://www.hoteldive.com/news/costar-tourism-economics-hotel-revpar-forecast-2026/821683/) |
+| 2026-06-02 | US | **White Castle заменил Impossible Foods на Dr Praeger's** в новом Southwest Veggie Slider | [Green Queen](https://www.greenqueen.com.hk/white-castle-southwest-veggie-slider-dr-praegers-impossible-foods/) |
+| 2026-06-02 | US | SNAP waivers ограничат soda/candy/energy drinks — Numerator прогнозирует **$830M потерь** для категории | [C-Store Dive](https://www.cstoredive.com/news/snap-waivers-grocery-sales-loss-numerator/821520/) |
+| 2026-06-02 | EU | ЕС влил **€7M в Proscale microbial fermentation** project для proteins из food waste | [Green Queen](https://www.greenqueen.com.hk/proscale-microbial-fermentation-single-cell-proteins-eu-food-waste/) |
+| 2026-06-02 | US | Restaurant 101 (David Mann): *«I Almost Shrank the Burger. Here's Why I Raised the Price Instead»* — psychology shrinkflation vs price | [Restaurant 101](https://davidrmann3.substack.com/p/i-almost-shrank-the-burger-heres) |
+| 2026-06-02 | Global | Long Yield: AI-Revenue Wave Arrives — Dell +88% к кварталу, $43.8B; OpenAI оценен в $852B при -122% op margin | 🔒 [Long Yield](https://longyield.substack.com/p/earnings-week-recap-may-2630-2026) |
+| 2026-06-02 | Global | Michael Parekh: SpaceX/xAI + OpenAI + Anthropic — тройной mega-AI IPO одновременно | 🔒 [Michael Parekh](https://michaelparekh.substack.com/p/ai-anthropic-makes-three-filed-for) |
+| 2026-06-01 | US | **Ad Valorem playbooks: AI Sales Agents для SMB** — кейс: 5-rep team +31% сделок на $400 стэке | 🔒 [Ad Valorem](https://advalorem.substack.com/p/ai-guy-ep13-ai-sales-agents-for-small-4eb) |
+| 2026-06-01 | US | **Ad Valorem: AI Route Optimization + Dispatch** для SMB Logistics — vendor pricing, ROI models, 30-day rollout | 🔒 [Ad Valorem](https://advalorem.substack.com/p/ai-route-optimization-dispatch-for) |
+| 2026-06-01 | US | **Ad Valorem: AI for SMB HR** — Recruiting / Onboarding / Employee Support Automation 2026 | 🔒 [Ad Valorem](https://advalorem.substack.com/p/ai-for-smb-hr-recruiting-onboarding) |
+| 2026-06-02 | US | Food On Demand: разбор как World Cup влияет на food delivery demand | [Food On Demand](https://foodondemand.com/06022026/will-delivery-benefit-from-the-world-cup/) |
+| 2026-06-01 | Global | The Rotten Apple: «The Role of Money Laundering in Food Fraud» — supply chain integrity issue | [Rotten Apple](https://therottenapple.substack.com/p/the-role-of-money-laundering-in-food) |
+
+---
+
+## 🎯 Действия для команд Dodo
+
+| Кому | Что сделать | Зачем |
+|---|---|---|
+| Стратегия Dodo | Переосмыслить вес цифровых каналов и доставки в сравнении с качеством блюд и опытом гостя — McDonald's явно говорит, что приоритеты изменились | Когда лидер индустрии разворачивает пятилетнюю стратегию — это сигнал отрасли в целом |
+| Стратегия Dodo | Прозрачно объяснить нарратив активной распродажи 4 франшизных пиццерий в малых городах за 2 недели — норма оборота, выкуп или реструктуризация | Информационный вакуум вокруг распродажи может развернуться в негативный нарратив |
+| Smart Tracking + Архитекторы Dodo IS | Разобрать стратегию McDonald's «> NEXT» — особенно техническую базу (Edge computing, IoT, Google Edge кластеры) и пилотную систему ARCHY. Параллельно изучить **Byte by Yum** (production на 38 000 точек) как референс архитектуры | Лидер строит инфраструктурную базу под новую стратегию; Byte by Yum — крупнейший production-кейс AI поверх кассы |
+| Smart Tracking + Kitchen Experience | **Детально разобрать кейс Starbucks AI inventory pullback** (Food On Demand 2 июня) — почему свернули, что именно не масштабировалось (data quality? change management? UX в кухне?). Использовать как контр-кейс к нашему нейробариста | Самый сильный proof-point месяца для нашего нарратива «конкретные результаты AI» vs хайп конкурентов |
+| HR + Operations | Изучить playbooks AI для SMB (HR / dispatch / sales) — готовые материалы для onboarding франчайзи на AI-инструменты. Хуки от 🔒 [Ad Valorem](https://advalorem.substack.com) (за paywall) + бесплатные глубокие аналоги: [Use Apify Agentic AI Playbook](https://use-apify.com/blog/agentic-ai-smb-playbook-2026) (5 агентов за $20-70/мес), [Locus.sh AI Last-Mile 7 стратегий](https://locus.sh/blogs/ai-for-last-mile-delivery-costs/) (15-30% cost savings с цифрами), [Digital Applied Agentic HR Playbook](https://www.digitalapplied.com/blog/agentic-ai-hr-team-playbook-recruiting-onboarding-2026) (90-day rollout с legal review) | Не нужно изобретать playbooks для франчайзи — есть рабочие. Применимо для нашего B2B-direction (corporate orders, кейтеринг) |
+| AI-команда Dodo | **Активизировать backup-стратегию по LLM** — Anthropic + OpenAI + xAI одновременно подали на IPO; цены enterprise-tier по Claude Code могут вырасти не на 20-30%, а в разы. Прорабатывать Yandex GPT, GigaChat, Gemini как production-альтернативы | Anthropic IPO + Dell $43.8B AI server quarter — «AI как story» перешла в «AI как реальный P&L impact» |
+| Smart Tracking + Kitchen Experience | Computer vision кейс «Пятёрочки» Shelf Sense (100 магазинов Москвы) — применимость для контроля стопп-листа и выкладки в витрине Drinkit | Локальный кейс с реальной инсталляцией; референс для нашей kitchen automation |
+| Команда Drinkit, стратегия | Изучить Mixue в Казахстане (Алматы с апреля 2025) — позиционирование, ценовая политика, есть ли точки в России | Mixue в нижнем ценовом сегменте — потенциально системный конкурент в перспективе. Параллельно с разворотом Mixue на оптимизацию — важно понимать, что они делают в нашей географии |
+| Команда Drinkit, конкурентная аналитика | Разобрать community-маркетинг Skuratov за месяц (Луна-парк, Running Club, шахматы в МЕГА Химки, велоклуб в Омске) — сравнить с нашим engagement в Drinkit | Skuratov — самый активный прямой конкурент по контенту и community |
+| Закупки кофе для Drinkit | Проверить актуальные контракты на зелёный кофе — биржевые цены на минимуме с ноября 2024 года. Параллельно изучить кейс Васильчиковых (отказ от маркетплейсов из-за роста комиссий x2) для D2C-стратегии | Окно для перезаключения с поставщиками на более выгодных условиях + сигнал что D2C-формат для specialty-coffee экономически выгоднее маркетплейсов |
+| Команда учёта / закупки | Срочно найти замену поставщика косточковых для летнего меню десертов и фрешей — Россельхознадзор со 2 июня запретил армянские косточковые | Прямой удар по летнему ассортименту; supply risk требует быстрой реакции |
+| Маркетинг и коммуникации | Подсветить **конкретные результаты** AI (нейробариста Drinkit, Smart Tracking, Kitchen Advisor) — не сам факт его использования. Сбалансировать с «человеческой составляющей» — анти-AI нарратив «Сделано человеком — новый люкс» набирает силу | Индустрия устала от AI-маркетинга и хочет конкретики; чисто AI-история без человека выглядит холодно |
+| Маркетинг и B2C | Проверить, как Dodo Pizza и Drinkit показываются в ChatGPT и Gemini по запросу «пицца рядом» и «кофе рядом» в ключевых городах | 83% ресторанов невидимы для AI-поиска. Если мы среди них — это зреющая проблема discovery |
+| Архитекторы Dodo IS | Положить в наблюдение конкурентную карту SaaS для рестораторов: Mozg (Сергей Ицков), Ресториум (Константин Опескин), CHEF.X — все три перешли из ТГ-формата в полноценные приложения за месяц | Это операторские платформы в нашей территории — растущая конкуренция |
+| HR и Operations | Изучить тезис Warren Jansons про retention математику: средний срок работы 4 месяца = ~$1,5 миллиона в год на сеть из 50 точек. Применить к нашим цифрам | Проблема с кадрами — это удержание (retention), а не наём. Цифра помогает квантифицировать ROI retention-программ |
+
+---
+
+**Период:** международная часть — 26 мая — 2 июня 2026 (отраслевые издания, LinkedIn, регуляторные подачи в SEC); локальный рынок РФ — 04 мая – 03 июня 2026 (русскоязычные Telegram-каналы и отраслевые ленты новостей).
