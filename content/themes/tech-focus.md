@@ -1,12 +1,16 @@
 ---
 publish: true
+title: "Технологический дайджест: IT-решения для общепита"
+date: 2026-06-03
+tags: ["тема", "tech", "ai", "vendor", "pos"]
+description: "Toast IQ vs Picnic vs Byte by Yum, SpotOn Profit AI, vibe-coding в индустрии — IT-сигналы за май"
 ---
+
 
 # Технологический дайджест: что важного в IT-решениях для общепита и ритейла (май – начало июня 2026)
 
 > Тематическая выжимка из всех источников за период — фокус на IT-решениях, AI-инструментах, технологических игроках. Что прямо сейчас важно для PM AI-команд Dodo Brands.
 
----
 
 ## 🤖 AI для операторов: новая категория конкурентов
 
@@ -20,7 +24,6 @@ publish: true
 
 Sources: [SpotOn Profit AI launch](https://www.spoton.com/blog/spoton-introduces-profit-ai/) · [@itskovserge Mozg "Тупик финансовой модели"](https://t.me/itskovserge/314) · [@opeskink Ресториум Web](https://t.me/opeskink/943) · [@foodtechonline X5 AI ROI](https://t.me/foodtechonline/6680)
 
----
 
 ## 🍕 Kitchen automation и почему "AI поверх кассы" побеждает робототехнику
 
@@ -37,7 +40,6 @@ Sources: [SpotOn Profit AI launch](https://www.spoton.com/blog/spoton-introduces
 
 Sources: [@data_fish про Picnic + Zume](https://t.me/data_fish/1654) · [Toast IQ agentic case](https://restauranttechnology.substack.com/p/the-future-of-tech-is-agentic-how) · [@foodtechonline Shelf Sense](https://t.me/foodtechonline/6673) · [Mike Gordon про McDonald's edge](https://www.linkedin.com/posts/mike-gordon-2021209_mcdonalds-worldwide2026-technology-activity-7467288107588173824-3Qbf)
 
----
 
 ## 🎤 Voice AI и drive-thru: формируется отдельная вертикаль
 
@@ -54,7 +56,6 @@ Sources: [@data_fish про Picnic + Zume](https://t.me/data_fish/1654) · [Toas
 
 Sources: [Restaurant Dive — McDonald's NEXT](https://www.restaurantdive.com/news/mcdonalds-next-strategy-growth-productivity/821684/) · [QSR Magazine — HME ClearSoundX](https://www.qsrmagazine.com/news/hme-launches-breakthrough-audio-feature-clearsoundx/) · [@ict_moscow_ai Yandex AI Studio](https://t.me/ict_moscow_ai/5104) · [Inc42 — Sarvam Voice AI](https://inc42.com/buzz/exclusive-sarvam-ai-to-open-voice-ai-agents-platform-for-public-use/)
 
----
 
 ## 💳 Payments и POS: финтех заходит в HoReCa
 
@@ -69,7 +70,6 @@ Sources: [Restaurant Dive — McDonald's NEXT](https://www.restaurantdive.com/ne
 
 Sources: [@foodtechonline ВТБ биоэквайринг](https://t.me/foodtechonline/6685) · [@cofix_russia + Yandex Pay](https://t.me/cofix_russia/1671) · [Expedite — DoorDash isn't afraid](https://www.expedite.news/p/doordash-isnt-afraid-of-your-ai-agents) · [@kgrbnv про Битрикс Вайбкод](https://t.me/kgrbnv/1153)
 
----
 
 ## 🧠 AI infrastructure: Anthropic IPO + рынок выпрямляется
 
@@ -83,7 +83,6 @@ Sources: [@foodtechonline ВТБ биоэквайринг](https://t.me/foodtech
 
 Sources: [Crunchbase News — Anthropic IPO filing](https://news.crunchbase.com/public/ai-unicorn-anthropic-files-confidentially-for-ipo/) · [r/Foodservice — Tech CEOs canceling AI](https://www.reddit.com/r/FoodService/comments/1ttz6ke/why_tech_ceos_are_quietly_cancelling_their_ai/) · [@kgrbnv "ИИ у всех будет одинаковым"](https://t.me/kgrbnv/1152) · [@kgrbnv Anthropic AI McKinsey](https://t.me/kgrbnv/1145)
 
----
 
 ## 👨‍💻 Vibe-coding окончательно зашло в индустрию
 
@@ -99,7 +98,6 @@ Sources: [Crunchbase News — Anthropic IPO filing](https://news.crunchbase.com/
 
 **Что это значит для Dodo:** vibe-coding больше не "тренд для R&D команды", а **базовая компетенция**, ожидаемая от продактов, маркетологов и операторов. Для нашего AI-native PM воркшопа это важный аргумент — мы не учим людей чему-то экзотическому, мы догоняем индустрию. Для HR — стоит включать "владение Claude Code / vibe-coding" в job descriptions PM-позиций уже сейчас, а не через год.
 
----
 
 ## 🌍 Что строится в Азии и почему стоит мониторить
 
@@ -113,7 +111,6 @@ Sources: [Crunchbase News — Anthropic IPO filing](https://news.crunchbase.com/
 
 **Что это значит для Dodo:** мониторим как два главных tech-monopoly Китая (Tencent + Alibaba) переписывают discovery для рестораторов. Если их подход к AI-агентам станет стандартом — это придёт и в наши рынки в перспективе 12-24 месяцев. Vending как формат — стоит подключать к brainstorming Drinkit pop-up направления.
 
----
 
 ## ⚙️ Engineering culture в Drinkit — что выходит наружу
 
@@ -128,7 +125,6 @@ Sources: [Crunchbase News — Anthropic IPO filing](https://news.crunchbase.com/
 
 **Что это значит для Dodo:** Engineering-bren работает. Стоит продолжать координированный output (Mobius / @mobilefiction / @dododev / @drinkit_business) как один tier-1 канал. Главный вывод для маркетинга: **продолжаем подсвечивать конкретные результаты AI**, не сам факт его использования.
 
----
 
 ## TL;DR — 5 пунктов прямо сейчас важных
 
@@ -142,6 +138,5 @@ Sources: [Crunchbase News — Anthropic IPO filing](https://news.crunchbase.com/
 
 5. **Anthropic IPO** — стратегический watchpoint для нашей AI-команды. Прорабатывать backup-стратегию по LLM (Yandex GPT, GigaChat, Gemini) на случай enterprise-tier изменений после IPO.
 
----
 
 **Период:** май – начало июня 2026. Дайджест собран из всех источников trend-watch QSR за период (международные отраслевые издания, русскоязычные Telegram-каналы и ленты, LinkedIn-обсуждения, Reddit-сообщества, Substack-newsletters).

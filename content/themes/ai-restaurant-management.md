@@ -1,12 +1,16 @@
 ---
 publish: true
+title: "Карта AI для управления ресторанами"
+date: 2026-06-03
+tags: ["тема", "ai", "operator-ai", "kitchen-automation", "voice-ai", "vendor"]
+description: "362 упоминания AI в наших источниках — production-кейсы, vendor-launches, провалы, voice/drive-thru, vibe-coding"
 ---
+
 
 # Карта упоминаний AI для управления ресторанами
 
 > Агрегация **362 уникальных упоминаний** из наших материалов (digests + raw RSS + новые newsletter источники). Сгруппировано по типу кейса, с прямыми ссылками на первоисточники.
 
----
 
 ## 🏆 Production-инсталляции у крупных сетей (что уже работает в масштабе)
 
@@ -36,7 +40,6 @@ publish: true
 - *Применимо для kitchen automation Drinkit:* контроль стопп-листа, контроль выкладки в витрине.
 - Источник: [@foodtechonline](https://t.me/foodtechonline/6673)
 
----
 
 ## 🇷🇺 Российские AI-инструменты для HoReCa (SaaS-конкуренты)
 
@@ -95,7 +98,6 @@ publish: true
 - *«ChatGPT добавил "Балтику 3" на вирусное видео из тренда про стадионы»*. Тренд: люди генерят нейросетями реалистичные видео на стадионах + бренды.
 - Источник: [@restserov 14.05](https://t.me/restserov/413)
 
----
 
 ## 🆕 Production-инсталляции у крупных vendor (2026 запуски)
 
@@ -126,7 +128,6 @@ publish: true
 - *Что это значит:* через 12-24 месяца AI-агенты на платформах могут переписать discovery для ресторанов.
 - Источник: [TechNode](https://technode.com/2026/06/03/tencent-reportedly-developing-wechat-ai-agent-makes-it-a-top-priority/)
 
----
 
 ## 💥 Кейсы провала / отката (важный контр-нарратив)
 
@@ -159,7 +160,6 @@ publish: true
 - *«Ленты в соцсетях заполнены AI-фабрикой одинакового контента, поэтому именно "сделано человеком" становится новой роскошью.»*
 - Источник: [@work_hero 06.05](https://t.me/work_hero/537)
 
----
 
 ## 🤖 Drone delivery + кухонная робототехника (другие форматы)
 
@@ -175,7 +175,6 @@ publish: true
 - Бридж restaurant-quality food + convenience. От top chefs to homes.
 - *Что это значит:* конкурент-параллель в формате premium delivery.
 
----
 
 ## 📚 Industry-аналитика по AI в HoReCa
 
@@ -200,7 +199,6 @@ publish: true
 - Полезный фреймворк для оценки готовности.
 - Источник: [@dimatverdai 06.05](https://t.me/dimatverdai/118)
 
----
 
 ## 🌍 Глобальные кейсы (международные)
 
@@ -216,7 +214,6 @@ publish: true
 - AI забирает топовых квантов, а не junior'ов.
 - Источник: [@aialphacom 18.05](https://t.me/aialphacom/929)
 
----
 
 ## 📊 Сводно — на что обратить внимание
 
@@ -244,6 +241,5 @@ publish: true
 - **SpotOn Blog** (POS-vendor с AI)
 - 🔒 **Expedite (Kristen Hawley)** (top US journalist по AI в restaurants)
 
----
 
 **Источники:** агрегация из 70 файлов в репозитории (digests + cache + references). Период: май – начало июня 2026.

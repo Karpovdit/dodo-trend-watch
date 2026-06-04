@@ -1,6 +1,11 @@
 ---
 publish: true
+title: "Tier-1 Must-Read Newsletters / Substacks"
+date: 2026-06-03
+tags: ["методология", "newsletters", "substack", "сами-источники"]
+description: "Методологический отбор лучших newsletter-источников по индустрии — scoring-формула + критерии"
 ---
+
 
 # Tier 1: Must-Read Newsletters / Substacks для Dodo Brands
 

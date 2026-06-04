@@ -7,3 +7,5 @@ public/
 .quartz/plugins/*/vitest.config.ts
 # Source maps — large, regenerated on build
 *.js.map
+# Build cache — regenerated на каждом build
+quartz/.quartz-cache/
