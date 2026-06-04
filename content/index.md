@@ -1,38 +1,11 @@
 ---
 title: Trend-watch QSR
 publish: true
-description: "Открытый архив отраслевых дайджестов по индустрии общественного питания, restaurant tech, foodtech и QSR"
 ---
 
 # Trend-watch QSR
 
-Открытый архив отраслевых дайджестов по индустрии общественного питания, restaurant tech, foodtech и QSR. Готовится для PM-команды Dodo Brands, публичный доступ — для всех, кому полезно.
-
-## 🔥 Свежий обзор
-
-> Главное за последний период — **читай это, если у тебя 10 минут**.
-
-- [[reviews/2026-06-03-combined|Combined RU+International — неделя + взгляд на месяц (3 июня 2026)]]
-
-## 📊 Обзоры по периодам
-
-**Месячные**
-- [[reviews/2026-06-03-monthly|Monthly RU — 4 мая – 3 июня 2026]]
-- [[reviews/2026-05-monthly|Monthly RU — май 2026 (tech-first)]]
-
-**Недельные**
-- [[reviews/2026-06-02-weekly|Что важного произошло в ресторанной отрасли (26 мая — 2 июня)]]
-
-## 🎯 Тематические разборы
-
-Глубокие разборы по конкретной теме — собрано из всех релевантных сигналов pipeline.
-
-- [[themes/ai-restaurant-management|Карта AI для управления ресторанами]] — 362 упоминания, vendor-launches, production-кейсы, провалы
-- [[themes/tech-focus|Технологический дайджест: IT-решения для общепита]] — Toast IQ vs Picnic vs Byte by Yum, vibe-coding в индустрии
-
-## 📚 Методология
-
-- [[methodology/tier-1-newsletters|Tier-1 Must-Read Newsletters / Substacks]] — лучшие источники + критерии scoring
+Открытый архив отраслевых дайджестов по индустрии общественного питания, restaurant tech, foodtech и QSR. Готовится для PM-команды Dodo Brands, но публичный доступ — для всех, кому полезно.
 
 ## Что внутри
 
@@ -47,9 +20,25 @@ description: "Открытый архив отраслевых дайджест�
 - 🇷🇺 **Локальный рынок РФ** — конкуренты Dodo Pizza и Drinkit, регуляторика, operator-голоса
 - 🌍 **Международные сети** — McDonald's, Mixue, Starbucks, Toast, Olo стратегии
 
-### Pipeline
+## 🔥 Свежие отчёты (3 июня 2026)
 
-- ~450 источников: 276 RU Telegram + 30 RU RSS + ~95 INT publications/newsletters/podcasts + 8 X/Twitter via Nitter + 6 Reddit + 20 СНГ + 15 China/LatAm/Japan
+- [[digests/2026-06-03_combined-ru|Combined RU+International — неделя + месячный взгляд на рынок РФ]]
+- [[digests/2026-06-03_ai-restaurant-management-map|Карта AI для управления ресторанами]]
+- [[digests/2026-06-03_tech-focus-ru|Технологический дайджест: IT-решения для общепита]]
+- [[digests/2026-06-03_tier_1_must_read|Tier-1 Must-Read Newsletters / Substacks]]
+
+## Месячные отчёты
+
+- [[digests/2026-06-03_monthly-ru|Monthly RU — 4 мая – 3 июня 2026]]
+- [[digests/2026-05_monthly-ru-v4-tech-first|Monthly RU (май 2026) — tech-first]]
+
+## Недельные отчёты
+
+- [[digests/2026-06-02_weekly-ru|Что важного произошло в ресторанной отрасли (26 мая — 2 июня)]]
+
+## Методология
+
+- Pipeline ~450 источников: 276 RU Telegram + 30 RU RSS + ~95 INT publications/newsletters/podcasts + 8 X/Twitter via Nitter + 6 Reddit + 20 СНГ + 15 China/LatAm/Japan
 - Скрейпинг raw → regex-filter foodtech relevance → tier-scoring → синтез через LLM-агентов
 - Обозначение 🔒 = источник за paywall (по ссылке только превью)
 

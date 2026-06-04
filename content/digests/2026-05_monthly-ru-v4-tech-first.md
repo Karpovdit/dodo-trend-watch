@@ -1,16 +1,12 @@
 ---
 publish: true
-title: "Monthly RU — май 2026 (tech-first)"
-date: 2026-05-28
-tags: ["обзор", "monthly", "ru", "ai", "tech"]
-description: "Российский рынок за май с приоритетом на технологические сигналы"
 ---
-
 
 # Что важного произошло в ресторанной отрасли за май 2026
 
 > Отраслевой обзор для руководителей Dodo Brands. Период: 28 апреля — 28 мая 2026. Каждое утверждение — со ссылкой на первичный источник.
 
+---
 
 ## 🔥 Топ-10 технологических инсайтов месяца
 
@@ -103,6 +99,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 
 Параллельно **Pudu Robotics — $150 млн при оценке $1,5 млрд**, но **70 % выручки — клининг-роботы**, не доставка ([PR Newswire](https://www.prnewswire.com/news-releases/pudu-robotics-raises-nearly-usd-150-million-exceeds-usd-1-5-billion-valuation-302751124.html), [The Robot Report](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)). Сервис-роботы сегментируются: клининг — да, food prep — пока нет.
 
+---
 
 ### 🎖️ Honorable mentions (топ-15)
 
@@ -117,6 +114,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 - **Code Factory «Voicelaier» + Clover AI-biometrics** на NRA Show 2026 Kiosk Tech Hub
 - **Andreas Donner ввёл термин «Shadow AI»** — сотрудники используют AI до того, как у руководства появилась стратегия ([пост](https://www.linkedin.com/in/andreas-donner-peakcare))
 
+---
 
 ## 🌐 Сделки и события месяца
 
@@ -136,6 +134,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 
 **Compass Coffee — Chapter 11 6 января 2026 + Caffè Nero выиграл аукцион 20 февраля за $4,76 млн.** 17 точек в Вашингтоне продолжат работу под брендом Compass. Источники: [Coffee Geography Magazine](https://coffeegeography.com/2026/02/28/uks-caffe-nero-acquires-dcs-compass-coffee-out-of-bankruptcy/), [Global Coffee Report](https://www.gcrmag.com/caffe-nero-to-complete-compass-coffee-takeover/), [Washington Today — $4.76M winning bid](https://nationaltoday.com/us/dc/washington/news/2026/03/01/caffe-nero-acquires-bankrupt-compass-coffee-for-4-76-million/). Поучительный кейс — что бывает с premium-кофе при масштабировании на дорогой аренде.
 
+---
 
 ## 🍕 По вертикали пиццы
 
@@ -168,6 +167,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 **Анандхи Дукарам** ([LinkedIn](https://www.linkedin.com/in/anandhi-dhukaram)):
 > «AI больше не падает в экспериментах. Он падает внутри живых бизнес-систем. На этой неделе: Starbucks отозвал AI-инвентаризацию. Pizza Hut столкнулся с иском на $100 млн.»
 
+---
 
 ## ☕ По вертикали Drinkit
 
@@ -211,6 +211,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 - **La Marzocco IoT** — телеметрия эспрессо-машин
 - **Cropster** — стек обжарки и QC кофейной телеметрии
 
+---
 
 ## 🌍 По регионам — что нового
 
@@ -263,6 +264,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 - **Maestro Pizza** — прямой конкурент Dodo
 - **Gulfood Dubai 26–30 января 2026** — крон-жуэль MENA-события
 
+---
 
 ## 🎯 Что делать командам Dodo
 
@@ -282,6 +284,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 | 👀 12 | B2B Pizza / new markets | Изучить **Hyperpure (Eternal/Zomato)** как модель «supply chain как бизнес» внутри публичной компании |
 | 👀 13 | Strategic | Изучить **ONDC India** — комиссия 3–5 % vs 25–30 %. Quarterly monitoring |
 
+---
 
 ## Связанные глубокие материалы
 
@@ -294,6 +297,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 - Методика скоринга источников по 7 осям
 - Список рекомендованных LinkedIn-профилей для подписки
 
+---
 
 ## О документе
 
