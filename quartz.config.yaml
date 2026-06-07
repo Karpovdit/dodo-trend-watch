@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Fraunces
+      body: Inter
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#faf6f0"
+        lightgray: "#e8e0d4"
+        gray: "#8a8074"
+        darkgray: "#3a3530"
+        dark: "#1a1714"
+        secondary: "#c0392b"
+        tertiary: "#2e7d32"
+        highlight: rgba(192, 57, 43, 0.10)
+        textHighlight: "#f8d49788"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1a1c1f"
+        lightgray: "#2e3137"
+        gray: "#787c83"
+        darkgray: "#cdc8be"
+        dark: "#f0ead8"
+        secondary: "#e07a5f"
+        tertiary: "#81b29a"
+        highlight: rgba(224, 122, 95, 0.12)
+        textHighlight: "#a06e3088"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -146,15 +146,15 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
   - source: github:quartz-community/search
     enabled: true
     layout:
-      position: left
-      priority: 20
+      position: right
+      priority: 100
       group: toolbar
       groupOptions:
         grow: true
@@ -186,14 +186,14 @@ plugins:
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
-      position: left
-      priority: 30
+      position: right
+      priority: 95
       group: toolbar
   - source: github:quartz-community/reader-mode
     enabled: true
     layout:
-      position: left
-      priority: 35
+      position: right
+      priority: 90
       group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
@@ -249,7 +249,7 @@ plugins:
 layout:
   groups:
     toolbar:
-      priority: 35
+      priority: 5
       direction: row
       gap: 0.5rem
   byPageType:

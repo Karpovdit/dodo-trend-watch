@@ -1,8 +1,9 @@
 ---
 publish: true
+title: "Список Tier-1 источников · 22 newsletters/Substacks"
 ---
 
-# Tier 1: Must-Read Newsletters / Substacks для Dodo Brands
+*Лучшие newsletter-источники для команды Dodo Brands — scoring-формула и критерии отбора.*
 
 **Date:** 2026-06-03. **Discovered via 4 parallel agents** (Substack search + catalogs + LinkedIn + recommendation graph).
 **Found:** 22 tier-1 sources (score >= 75, active in last 30 days).
