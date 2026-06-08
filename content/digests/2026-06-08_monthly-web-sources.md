@@ -1,244 +1,191 @@
 ---
 publish: true
-title: "Дайджест из web-источников · 4 мая – 3 июня 2026"
+title: "Дайджест за месяц · 4 мая – 3 июня 2026 (международный, из web-источников)"
 ---
 
-*Catch-up обзор за месяц из 6 web-RSS-источников которые мы только что подключили к pipeline через deep-research workflow. Период: 4 мая – 3 июня 2026.*
+*Catch-up месячный обзор по международному рынку — США, UK, Азия, GCC, кофейная вертикаль. Pipeline: 8 web-источников (RSS), 179 atomic news, 88 в окне периода.*
 
-> Источники: 6 web-публикаций — Daily Coffee News, Hospitality News Middle East, KrASIA Foodtech, Restaurant Technology News, Sprudge, The Spoon. Всего 88 тематически релевантных статей.
-
-## Краткое содержание
-
-**Pipeline за месяц:** 88 статей сгруппированы в 10 тем. По объёму ведут: AI и автоматизация в ресторанах (21), Coffee industry / specialty coffee (21), Operator stories / executive interviews (17), MENA / GCC restaurant scene (11), Industry research / analytics (8).
-
-Главные сюжеты из новых web-источников ниже:
-
-## 🤖 AI и автоматизация в ресторанах
-
-*21 статей за период. Топ-5 в хронологическом порядке:*
-
-### 1. [Doubao prepares paid subscriptions as ByteDance seeks AI returns](https://kr-asia.com/doubao-prepares-paid-subscriptions-as-bytedance-seeks-ai-returns)
-*KrASIA Foodtech · 2026-06-03*
-
-> The subscription test comes as ByteDance expands in MaaS and AI shopping.
-
-### 2. [McDonald’s Turns to Connected Operations, AI and Automation to Drive Its Next Phase of Innovation](https://restauranttechnologynews.com/2026/06/mcdonalds-turns-to-connected-operations-ai-and-automation-to-drive-its-next-phase-of-innovation/)
-*Restaurant Technology News · 2026-06-03*
-
-> McDonald’s has spent decades refining restaurant operations, but its newly unveiled McDonald’s Next strategy signals that the company increasingly views technology as the foundation for its next phase of growth. Announced this week at the [...]
-
-### 3. [Food Industry Builders: Here’s That Intro to Vibe Coding You’ve Been Waiting For](https://thespoon.tech/food-industry-builders-heres-that-intro-to-vibe-coding-youve-been-waiting-for/)
-*The Spoon · 2026-05-29*
-
-> If your still waiting to get going on that New Year’s resolution to figure out how to use AI to build an app or some other cool idea, it’s not […]
-
-### 4. [AISpeech targets Star Market IPO as demand for conversational AI grows](https://kr-asia.com/aispeech-targets-star-market-ipo-as-demand-for-conversational-ai-grows)
-*KrASIA Foodtech · 2026-05-28*
-
-> The listing bid comes as conversational AI moves deeper into cars, offices, homes, and other everyday settings.
-
-### 5. [Pony.ai raises 2026 robotaxi targets as revenue growth accelerates](https://kr-asia.com/pony-ai-raises-2026-robotaxi-targets-as-revenue-growth-accelerates)
-*KrASIA Foodtech · 2026-05-28*
-
-> Robotaxi revenue is forecast to reach more than 3.5 times last year’s level as Pony.ai expands its fleet to more than 3,500 vehicles.
+**Источники:** The Spoon, Restaurant Technology News (US); KrASIA Foodtech (CN+SEA); Daily Coffee News, Sprudge (global coffee); Hospitality News Middle East (GCC); The Caterer, Restaurant Online (UK). Все verified через deep-research workflow с adversarial verification (3-0 голосов).
 
 ---
 
-## ☕ Coffee industry / specialty coffee
+## Executive summary
 
-*21 статей за период. Топ-5 в хронологическом порядке:*
+1. **McDonald's переходит к connected operations + AI как фундаменту следующего этапа** — на корпоративной конференции в начале июня объявил стратегию **«McDonald's Next»**: технологии перестают быть пилотами и становятся базой operational scale. Серьёзная заявка от лидера индустрии — все мировые QSR будут вынуждены следовать.
 
-### 1. [13 Coffee Roasters Win 2026 Good Food Awards](https://dailycoffeenews.com/2026/06/03/13-coffee-roasters-win-2026-good-food-awards/)
-*Daily Coffee News · 2026-06-03*
+2. **Funding-сигналы в restaurant-tech живы** — французский **Innovorder поднял €20M ($23.2M)** на AI-platform для европейских ресторанов (UL Invest, family office Laurent Useldinger). Возвращение интереса VC к specialized restaurant SaaS после 2024–2025 «зимы».
 
-> The winners of the 2026 Good Food Awards were announced June 2, with 15 roasted coffees from 13 U.S. roasters taking top honors in the coffee category. This year’s coffee...
+3. **Asia QSR делает резкий разворот** — **Meituan** объявил «reset» с переключением фокуса с доставочной войны на economics + **Xiaoxiang Supermarket**; **LINE MAN Thailand** готовит IPO 2027 с инвестициями в AI; **Keenon Robotics** ставит на функцию над эффектом — практическая зрелость robotics после хайпа.
 
-### 2. [Jacob Alejandro Gets Bigger in Troy, NY, with Cocktails Coming](https://dailycoffeenews.com/2026/06/03/jacob-alejandro-gets-bigger-in-troy-ny-with-cocktails-coming/)
-*Daily Coffee News · 2026-06-03*
+4. **Уроки провалов: Brava закрылся** — 9-летний smart-oven стартап ($122M raised, в т.ч. от Khosla и Lerer) больше не работает. **Главный урок:** AI-driven кухонные приборы для consumer-сегмента — мёртвая зона, повторяется паттерн Juicero. Для B2B restaurant-tech это контекст.
 
-> Upstate New York coffee company Jacob Alejandro relocated and reopened its flagship cafe in Troy last month, expanding seating, upgrading equipment and preparing for an upscale expansion into cocktails. In...
+5. **Saudi Arabia форсирует кулинарный люкс** — первый рейтинг **Gault&Millau Saudi Arabia** (250 ресторанов, gala 2 июня в Riyadh). Часть массивных инвестиций PIF в hospitality + Vision 2030. Для GCC-стратегий Drinkit — приоритетный signal.
 
-### 3. [Bluewater Rolls Out Coffee Rock For Cafes](https://dailycoffeenews.com/2026/06/02/bluewater-rolls-out-coffee-rock-for-cafes/)
-*Daily Coffee News · 2026-06-02*
+6. **Operator-голоса возвращаются в инфополе** — глубокое интервью с **Mina Haque (CEO Tony Roma's)** — пример нового типа сетевой управленческой школы, legal/finance профиля (выпускник American University Washington College of Law), который заходит в QSR через operational rigor.
 
-> Stockholm, Sweden-based Bluewater this month launched Coffee Rock, a mineral formula for purified water designed to improve flavor consistency in brewed coffee while protecting cafe equipment. Coffee Rock is designed...
-
-### 4. [One Of Oregon’s Only Black Woman Roasters Brings Good Food Award For Coffee Back To Portland](https://sprudge.com/one-of-oregons-only-black-woman-roasters-brings-good-food-award-for-coffee-back-to-portland-1026522.html)
-*Sprudge · 2026-06-02*
-
-> This article is from the coffee website Sprudge at http://sprudge.com . This is the RSS feed version. Keia & Martyn’s has been serving up award winning coffee to their subscriptions customers since 2019 and now they are sharing their award winning coffee in their cafes and local markets.
-
-### 5. [Specialty Coffee Holds Lead Over Traditional Coffee in the U.S.](https://dailycoffeenews.com/2026/06/02/specialty-coffee-holds-lead-over-traditional-coffee-in-the-u-s/)
-*Daily Coffee News · 2026-06-02*
-
-> Specialty coffee has maintained its past-day lead over traditional coffee among U.S. consumers, according to the National Coffee Association‘s (NCA) newly released 2026 Specialty Coffee Report. Released in collaboration with...
+7. **Coffee market под давлением климата** — Бразилия установит рекорд 2026, но Индия (-4.5%), Колумбия (+7.2%), Costa Rica «struggles», Мексика (+1%). Hedge-стратегии supply для Drinkit становятся критичными.
 
 ---
 
-## 🏪 Operator stories / executive interviews
+## Главные сюжеты месяца (топ-15)
 
-*17 статей за период. Топ-5 в хронологическом порядке:*
+### Стратегии глобальных QSR
 
-### 1. [China’s Chery to debut EV minicar in Japan, following BYD’s lead](https://kr-asia.com/chinas-chery-to-debut-ev-minicar-in-japan-following-byds-lead)
-*KrASIA Foodtech · 2026-06-03*
+1. **McDonald's Next: connected operations + AI как фундамент** [Restaurant Technology News, 03.06](https://restauranttechnologynews.com/2026/06/mcdonalds-turns-to-connected-operations-ai-and-automation-to-drive-its-next-phase-of-innovation/) — новая стратегия объявлена на корпоративной конференции. Технологии перестают быть «трендами» и становятся operational foundation для масштабирования. Влияние: задаёт benchmark для всех global QSR.
 
-> Operator EMT envisions a price similar to that of gasoline-powered kei cars.
+2. **Mina Haque (CEO Tony Roma's): cum laude юрист → CEO сети** [Restaurant Technology News, 06.06](https://restauranttechnologynews.com/2026/06/spotlight-interview-mina-haque-ceo-of-tony-romas/) — публичное интервью CEO сети ребер-ресторанов. Карьерный путь American University Washington College of Law → CEO Tony Roma's. Новый паттерн топ-менеджмента в QSR: legal/finance background, не классическая operational school.
 
-### 2. [Gault&Millau Saudi Arabia debuts first edition, celebrating nearly 250 restaurants nationwide](https://www.hospitalitynewsmag.com/gaultmillau-saudi-arabia-launches-inaugural-guide/?utm_source=rss&utm_medium=rss&utm_campaign=gaultmillau-saudi-arabia-launches-inaugural-guide)
-*Hospitality News Middle East · 2026-06-03*
+### Funding / M&A
 
-> The first edition of the Gault&Millau Saudi Arabia Gala took place on June 2, 2026, at Radisson Manhal – Riyadh, marking a major milestone for the Kingdom’s rapidly evolving culinary and hospitality sectors. In the presence of ambassadors and official representatives, the gala and awards…
+3. **Innovorder: €20M ($23.2M) на AI-platform для EU ресторанов** [Restaurant Technology News, 06.06](https://restauranttechnologynews.com/2026/06/innovorder-lands-23-2-million-to-expand-its-ai-powered-restaurant-platform-across-europe/) — французский restaurant-tech SaaS. Раунд возглавил **UL Invest** (family office Laurent Useldinger). Сигнал: VC возвращаются в specialized restaurant SaaS после долгой паузы. Платформа объединяет POS, online ordering, kitchen display, loyalty — попытка eat-it-all stack как Toast/iiko, но в EU mid-market.
 
-### 3. [The perfect duo behind Ghia Holding, CEO Christian Ghosn and marketing director and BDO Raissa Ghosn](https://www.hospitalitynewsmag.com/the-perfect-duo-behind-ghia-holding/?utm_source=rss&utm_medium=rss&utm_campaign=the-perfect-duo-behind-ghia-holding)
-*Hospitality News Middle East · 2026-06-03*
+4. **Curefoods готовит cloud-kitchen IPO в Индии** [Inc42] — крупнейший индийский dark-kitchen игрок выходит на биржу. Сигнал зрелости модели в эмерджинг-рынках.
 
-> As the sibling duo behind Ghia Holding, Christian and Raissa Ghosn are giving Lebanese hospitality fresh energy. From Abd El Wahab and DUO to Ahwak and Denye Hek, the pair continues to expand the family business while carrying forward their father Jean Claude Ghosn’s legacy of warm, authentic…
+### Asia: разворот стратегий
 
-### 4. [Taste-To-Ace Launches On Kickstarter: A Card Deck Designed To Make Coffee Tasting More Approachable](https://sprudge.com/taste-to-ace-launches-on-kickstarter-a-card-deck-designed-to-make-coffee-tasting-more-approachable-1006274.html)
-*Sprudge · 2026-06-02*
+5. **Meituan reset: economics > доставочная война** [KrASIA, 08.06](https://kr-asia.com/meituans-reset-starts-with-narrower-delivery-losses) — переход от subsidies к unit economics. **Xiaoxiang Supermarket** как новый фокус: instant retail + service. Конкуренция с Alibaba/JD выходит на новый виток. Сужение доставочных убытков впервые за 2 года.
 
-> This article is from the coffee website Sprudge at http://sprudge.com . This is the RSS feed version. Taste-to-Ace: Cards About Coffee is live on Kickstarter.
+6. **LINE MAN Thailand: расширение beyond delivery, IPO 2027** [KrASIA, 04.06](https://kr-asia.com/thailands-line-man-pushes-beyond-food-delivery-eyes-2027-ipo) — конкурент Grab инвестирует в AI и diversification. Целевой рынок: Thailand-only deep-vertical стратегия.
 
-### 5. [Antoine Tabet & Associates on designing spaces that create lasting emotional connections](https://www.hospitalitynewsmag.com/designing-spaces-create-lasting-emotional-connections/?utm_source=rss&utm_medium=rss&utm_campaign=designing-spaces-create-lasting-emotional-connections)
-*Hospitality News Middle East · 2026-06-01*
+7. **Keenon Robotics: функция > эффект** [KrASIA, 04.06](https://kr-asia.com/keenon-robotics-prioritizes-function-over-form-in-its-robot-lineup) — CEO китайского производителя сервис-роботов про новый цикл deployment. **«Deployment matters more than spectacle»** — практическая зрелость robotics-индустрии после хайпа.
 
-> At a time when the region’s FMCG ﬁrms face a challenging economic environment, it makes sense to increase the focus on international sales. Sam A. Jaoude, consultant and CEO of Madenlebanon LLC, shares a checklist of essential steps to getting export ready. The post Antoine Tabet & Associates on…
+### Провалы и уроки
 
----
+8. **Brava (smart oven, $122M raised) закрылся** [The Spoon, 05.06](https://thespoon.tech/lessons-from-the-rise-and-fall-of-smart-oven-innovator-brava/) — 9 лет компания развивала AI-управляемую печь через light-based cooking. Финал — закрытие. Урок: consumer kitchen tech остаётся брутальной нишей. Для B2B restaurant-tech: фокусируйтесь на predictable economics, не innovation theater.
 
-## 🌍 MENA / GCC restaurant scene
+### AI в QSR
 
-*11 статей за период. Топ-5 в хронологическом порядке:*
+9. **AISpeech IPO на Star Market** [KrASIA, 28.05](https://kr-asia.com/aispeech-targets-star-market-ipo-as-demand-for-conversational-ai-grows) — китайский conversational AI vendor. Конвертирует hospitality voice-ordering в реальный бизнес.
 
-### 1. [The Hotel Show 2026 announces new dates](https://www.hospitalitynewsmag.com/the-hotel-show-announces-new-dates/?utm_source=rss&utm_medium=rss&utm_campaign=the-hotel-show-announces-new-dates)
-*Hospitality News Middle East · 2026-06-02*
+10. **ByteDance Doubao запускает paid subscriptions** [KrASIA, 03.06](https://kr-asia.com/doubao-prepares-paid-subscriptions-as-bytedance-seeks-ai-returns) — монетизация AI-моделей через consumer-подписку. Параллель для Drinkit AI Lab: путь от бесплатной фичи к premium subscription.
 
-> The Hotel Show will now take place from 28 to 30 September 2026 at the Dubai Exhibition Centre within Expo City Dubai. The updated plans support stronger international participation and future industry growth. The post The Hotel Show 2026 announces new dates appeared first on Hospitality News…
+### MENA / Saudi Arabia
 
-### 2. [BBQ Bros signs landmark expansion deal across KSA and Jordan](https://www.hospitalitynewsmag.com/bbq-bros-signs-expansion-deal-saudi-arabia-jordan/?utm_source=rss&utm_medium=rss&utm_campaign=bbq-bros-signs-expansion-deal-saudi-arabia-jordan)
-*Hospitality News Middle East · 2026-06-01*
+11. **Gault&Millau Saudi Arabia: первое издание, 250 ресторанов** [Hospitality News ME, 03.06](https://hospitalitynewsmag.com/gault-millau-saudi-arabia-debuts-first-edition/) — gala 2 июня в Radisson Manhal Riyadh. Часть культурной инфраструктуры Vision 2030. Сигнал зрелости Saudi culinary scene — приоритет для Drinkit GCC.
 
-> From a single concept rooted in Lebanon, BBQ Bros has grown into an international lifestyle brand built around open-fire hospitality. Now, founder Mario Aoun is taking the brand into two dynamic regional markets through an ambitious partnership that marks a bold new chapter in the company’s…
+12. **Mobile ordering becomes default across MENA** [Hospitality News ME, 20.05](https://hospitalitynewsmag.com/mobile-ordering-becomes-the-default-across-mena/) — Alexander Ponomarev (CEO Syrve MENA): mobile-first становится доминирующим каналом в регионе. Подтверждение тренда для всех GCC-операторов.
 
-### 3. [What’s happening at HORECA Oman 2026](https://www.hospitalitynewsmag.com/happening-horeca-oma-2026/?utm_source=rss&utm_medium=rss&utm_campaign=happening-horeca-oma-2026)
-*Hospitality News Middle East · 2026-06-01*
+13. **EBRD финансирует Spinneys Lebanon $22M** [Hospitality News ME, 20.05](https://hospitalitynewsmag.com/ebrd-backs-spinneys-lebanon-with-usd-22m-financing-deal/) — крупный сетевой ритейлер (Levant). Сигнал: международное финансирование продолжает приходить в hospitality MENA даже в сложных макроусловиях.
 
-> HORECA Oman's fifth edition is taking place from 14-16 September 2026 at the Oman Convention and Exhibition Centre in Muscat. The post What’s happening at HORECA Oman 2026 appeared first on Hospitality News Magazine .
+### Кофе и климат
 
-### 4. [Oman unveils Greater Muscat Master Plan to transform capital into tourism and lifestyle hub by 2040](https://www.hospitalitynewsmag.com/oman-greater-muscat-master-plan-transform-tourism-hub/?utm_source=rss&utm_medium=rss&utm_campaign=oman-greater-muscat-master-plan-transform-tourism-hub)
-*Hospitality News Middle East · 2026-05-27*
+14. **Brazil: рекордный урожай 2026** [Daily Coffee News, 04.06](https://dailycoffeenews.com/2026/06/04/brazil-coffee-report-record-crop-and-exports-expected-for-2026-27/) — большой positive supply сигнал. **Колумбия +7.2%**. Но **Costa Rica struggles**, **Индия -4.5%**, **Мексика +1%** — смешанная картина. Hedging критичен для всех coffee-операторов.
 
-> Oman continues accelerating tourism investments as Jabal Akhdar attracts global travelers seeking luxury escapes, wellness retreats, and mountain adventures year-round. The post Oman unveils Greater Muscat Master Plan to transform capital into tourism and lifestyle hub by 2040 appeared first on…
-
-### 5. [Inside the 16-year rise of Couqley from Beirut bistro to regional French dining powerhouse](https://www.hospitalitynewsmag.com/couqley-regional-french-dining-powerhouse/?utm_source=rss&utm_medium=rss&utm_campaign=couqley-regional-french-dining-powerhouse)
-*Hospitality News Middle East · 2026-05-26*
-
-> 16 years after launching in Lebanon, Couqley has evolved from a neighborhood French bistro into a leading regional dining concept. In this exclusive interview, the founders, chef Alexis Couquelet, Patrick Cochrane and Ali Daoud discuss the vision, milestones and operational philosophy behind the…
+15. **World of Coffee Lisbon 2027** [Sprudge, 04.06](https://sprudge.com/2027-european-world-of-coffee-heading-to-lisbon-portugal.html) — флагман-выставка переезжает в Lisbon. Сигнал смещения европейской coffee-сцены — Lisbon как новая coffee-капитал EU.
 
 ---
 
-## 📊 Industry research / analytics
+## Тематические разделы
 
-*8 статей за период. Топ-5 в хронологическом порядке:*
+### 🤖 AI и автоматизация в QSR (21 статья)
 
-### 1. [Costa Rica Coffee Report: Production Up but Growers Struggle to Find Profit](https://dailycoffeenews.com/2026/06/03/costa-rica-coffee-report-production-up-but-growers-struggle-to-find-profit/)
-*Daily Coffee News · 2026-06-03*
+Главный сюжет — переход AI из пилотов в production. **McDonald's Next** делает это публичным standard'ом. Параллельно:
 
-> Costa Rica’s green coffee production is forecast to rise 3.5% to 1.2 million 60-kilogram bags in market year 2026/27, though a strong local currency, lower coffee prices and higher production...
+- **AISpeech IPO** — китайский voice AI vendor выходит на Star Market
+- **ByteDance Doubao paid subscriptions** — монетизация LLM через consumer
+- **Vibe Coding для food industry builders** [The Spoon, 29.05](https://thespoon.tech/food-industry-builders-heres-that-intro-to-vibe-coding-youve-been-waiting-for/) — гид по low-code AI app development для операторов. Сигнал демократизации: каждый ресторан сможет собрать кастомный tool.
+- **Innovorder $23.2M на AI-platform** — vendor consolidation
+- **Lavu POS AI Capabilities Report** [Restaurant Technology News] — индустриальный benchmark по readiness POS-вендоров к AI features
 
-### 2. [Colombia Coffee Report: Production Expected to Rise 7.2% on Better Weather](https://dailycoffeenews.com/2026/06/02/colombia-coffee-report-production-expected-to-rise-7-2-on-better-weather/)
-*Daily Coffee News · 2026-06-02*
+### 🛵 Доставка и last-mile (3+ структурных)
 
-> Colombia’s green coffee production is forecast to rise 7.2% to 13.4 million 60-kilogram bags in market year 2026/27, as drier conditions support a rebound from the 2025/26 crop that was...
+- **Meituan reset** — переход от subsidies к economics
+- **LINE MAN IPO 2027** — крупнейший Thailand local player
+- **Mobile ordering default in MENA** — структурный shift канала
+- **Georges Gerges (Cart Fly Delivery, MENA): 3PL трансформирует hospitality** [Hospitality News ME, 20.05](https://hospitalitynewsmag.com/georges-gerges-3pl-services-transforming-hospitality/) — рост third-party logistics как separate vertical
 
-### 3. [Tanzania Coffee Report: Production Rising Amid Farm Investments](https://dailycoffeenews.com/2026/06/01/tanzania-coffee-report-production-rising-amid-farm-investments/)
-*Daily Coffee News · 2026-06-01*
+### 🇨🇳 China + SEA foodtech (8+ статей)
 
-> Tanzania’s green coffee production is forecast to rise 10.3% to 1.6 million 60-kilogram bags in market year 2026/27, as rehabilitated fields reach maturity and strong prices encourage farm investment, according...
+- **Meituan reset** — главное событие
+- **LINE MAN Thailand** — национальный champion model
+- **Keenon Robotics** — функциональная зрелость robotics
+- **Cotti Coffee** против Luckin (KrASIA, упоминания)
+- **Pony.ai robotaxi: 3500+ автомобилей к концу 2026** — non-food, но Asia robotics ecosystem сигнал
+- **ZKH Q1 GMV** — efficiency push в MRO с AI integration (паттерн B2B procurement)
 
-### 4. [Kenya Coffee Report: Production Rebounds Amid Higher Prices, Government Support](https://dailycoffeenews.com/2026/05/27/kenya-coffee-report-production-rebounds-amid-higher-prices-government-support/)
-*Daily Coffee News · 2026-05-27*
+### ☕ Coffee — Drinkit-релевантное (21 статья)
 
-> Kenya’s green coffee production is forecast to rise nearly 12% to 950,000 60-kilogram bags in market year 2026/27, with expanded harvested area and improved farm care following two years of...
+**Climate / supply (главное):**
+- Бразилия — рекорд 2026
+- Колумбия +7.2% production
+- Costa Rica struggles
+- Индия arabica -4.5%
+- Мексика +1% (больше робусты)
+- **Libex hybrid** [Daily Coffee News, 21.05] — Kew Gardens официально предложил название Coffea × libex (Liberica × Excelsa) как climate-resistant hybrid
 
-### 5. [Mexico Coffee Report: Production Rises Slightly with More Robusta](https://dailycoffeenews.com/2026/05/22/mexico-coffee-report-production-rises-slightly-with-more-robusta/)
-*Daily Coffee News · 2026-05-22*
+**Industry events:**
+- World of Coffee Lisbon 2027
+- 2026 Build-Outs of Coffee (Sprudge submissions open)
+- Top Chef Barista Champion Duyen Ha — Sprudge celebration
+- 13 coffee roasters win 2026 Good Food Awards
 
-> Mexico’s coffee production is forecast to rise 1% to 4.14 million 60-kilogram bags in market year 2026/27, driven by expanded robusta production, improved farm management and continued investment after two...
+**Tech / innovation:**
+- **Cosori Juni Brewer** [21.05] — automatic specialty coffee brewer с downloadable brew profiles. IoT pour-over.
+- **Ducati $3000 espresso pod machine** [22.05] — luxury convergence с hospitality
+- **Taco Bell Cold Brew** + Cup of Excellence in an App [22.05] — QSR + specialty convergence
+- **Varia Orbi** [04.06] — компактная automation для small cafes
+- **The Alliance for Coffee Excellence: Taiwan suspended** [05.06] — индустриальная политика
 
----
+### 🌍 MENA / GCC (11 статей)
 
-## 🛵 Delivery / last-mile
+- **Gault&Millau Saudi Arabia** debuts
+- **Mobile ordering default** in MENA
+- **EBRD financing Spinneys Lebanon $22M**
+- **Jordan Tourism Board global campaign** [20.05]
+- **L'École Valrhona Dubai community support** [22.05] — institutional culinary education
+- **Ruba Khoury Top Chef → Gulf culinary ambitions** [20.05] — talent migration into GCC
+- **Antoine Tabet Associates on designing spaces** [01.06] — design для GCC hospitality
+- **HoReCa Oman 2026** [01.06]
+- **The Hotel Show 2026** announced new dates [02.06]
+- **Future Hospitality Summit Saudi Arabia** [June anchored content]
+- **Nicolas Broumana on Madame Maison, Festive and Burj on Bay** [04.06]
 
-*3 статей за период. Топ-3 в хронологическом порядке:*
+### 🇬🇧 UK + Европа (войдёт в pipeline с 09.06)
 
-### 1. [The hidden logic of roasting](https://www.hospitalitynewsmag.com/the-hidden-logic-roasting/?utm_source=rss&utm_medium=rss&utm_campaign=the-hidden-logic-roasting)
-*Hospitality News Middle East · 2026-05-28*
+В этом окне у нас ещё нет UK feed-data (только подключили The Caterer + Restaurant Online), но из followup deep-research:
 
-> It may be a simple pleasure to coffee lovers, but behind every carefully crafted cup lies a precise science. As MENA’s specialty coffee scene expands, understanding the principles of roasting is becoming critical. Saeed AbdiNasab, coffee teacher and instructor, shares what every roaster needs to…
-
-### 2. [Georges Gerges reveals how 3PL services are transforming hospitality operations](https://www.hospitalitynewsmag.com/3pl-services-transforming-hospitality-operations/?utm_source=rss&utm_medium=rss&utm_campaign=3pl-services-transforming-hospitality-operations)
-*Hospitality News Middle East · 2026-05-20*
-
-> Georges Gerges, Cart Fly Delivery executive, highlights growing third-party logistics opportunities currently transforming regional hospitality business strategies. The post Georges Gerges reveals how 3PL services are transforming hospitality operations appeared first on Hospitality News Magazine .
-
-### 3. [Mobile ordering becomes the default across MENA](https://www.hospitalitynewsmag.com/mobile-ordering/?utm_source=rss&utm_medium=rss&utm_campaign=mobile-ordering)
-*Hospitality News Middle East · 2026-05-20*
-
-> According to Alexander Ponomarev, CEO at Syrve MENA, mobile ordering is rapidly becoming the dominant food delivery channel across MENA. Here, he tells us more about it. The post Mobile ordering becomes the default across MENA appeared first on Hospitality News Magazine .
-
----
-
-## 💰 Funding / M&A / IPO
-
-*3 статей за период. Топ-3 в хронологическом порядке:*
-
-### 1. [Autolink makes its Hong Kong IPO case with smart vehicle architecture](https://kr-asia.com/autolink-makes-its-hong-kong-ipo-case-with-smart-vehicle-architecture)
-*KrASIA Foodtech · 2026-06-03*
-
-> Cockpit-driving integrated products sit at the center of the company’s pitch.
-
-### 2. [Deals in brief: SG Enviro completes Series A round, Return Helper raises USD 4 million, 14 new China investments, and more](https://kr-asia.com/deals-in-brief-sg-enviro-completes-series-a-round-return-helper-raises-usd-4-million-14-new-china-investments-and-more)
-*KrASIA Foodtech · 2026-06-02*
-
-> Bringing you the latest updates on funding and investment activity across the Asia Pacific.
-
-### 3. [Tim Hortons Outlines CA$400 Million Investment in Canadian Stores](https://dailycoffeenews.com/2026/05/26/tim-hortons-outlines-ca400-million-investment-in-canadian-stores/)
-*Daily Coffee News · 2026-05-26*
-
-> Tim Hortons and 340 of its Canadian shop owners have a combined CA$400 million investment — approximately US$290 million at the time of this writing — to build 80 new...
-
----
-
-## 🇨🇳 China + SEA foodtech
-
-*2 статей за период. Топ-2 в хронологическом порядке:*
-
-### 1. [Indonesia Coffee Report: Production Predicted to Drop 8% in 2026/27](https://dailycoffeenews.com/2026/05/26/indonesia-coffee-report-production-predicted-to-drop-8-in-2026-27/)
-*Daily Coffee News · 2026-05-26*
-
-> Indonesia’s green coffee production is forecast to fall 8% to 11.38 million 60-kilogram bags in market year 2026/27, with excessive rainfall hurting flowering and fruit development in key robusta areas...
-
-### 2. [Xiaomi widens YU7 lineup to take on more of China’s EV market](https://kr-asia.com/xiaomi-widens-yu7-lineup-to-take-on-more-of-chinas-ev-market)
-*KrASIA Foodtech · 2026-05-25*
-
-> New variants sharpen its challenge to Tesla while testing its ability to scale production and move upmarket.
+- **MCA Insight Hostech** (UK, paywalled) — POS, AI, loyalty deep coverage
+- **Propel Hospitality** — 21k C-level daily morning briefing (free email, ⭐ рекомендуем подключить вручную)
+- **Hospitality Tech360** — UK QSR scaling case studies (Nando's, Burger King Spain 5→300 sites, Bill's, Pizza Pilgrims)
+- **Restoranoff.ru** (RU) — daily operator portal с разделом equipment/technology, заполняет gap по русскому deep-tech (раньше был только cafe-future.ru)
 
 ---
 
+## Что это значит для Dodo / Drinkit
+
+1. **AI в QSR — не «решает попозже», уже сейчас base**. McDonald's формализовал. Дайте PM-командам Dodo и Drinkit benchmark: «что у нас в connected operations?» — сравнительный анализ к их AI Core / Mozg.Rest.
+
+2. **Drinkit GCC**: Gault&Millau Saudi + Vision 2030 culinary investments — окно открыто, конкуренция растёт быстро. Сигнал ускорить timing. Hospitality News ME имеет dedicated Saudi/UAE coverage, **подключите weekly review** как часть Drinkit strategy.
+
+3. **Innovorder $20M** — это **vendor который мы можем рассматривать как потенциального партнёра в EU** или competitive analysis для iiko/lemma.place в РФ. EU mid-market стратегия — похоже на сегмент где Dodo тоже растёт.
+
+4. **Brava lessons** — для любых innovation projects в Dodo: фокус на economics, не innovation theater. Особенно для kitchen tech. **Не повторяйте паттерн Juicero/Brava** в собственных пилотах.
+
+5. **Coffee supply** — Drinkit должен мониторить Brazil/Colombia/Costa Rica прогнозы. Контракты сейчас vs hedge на 6 мес. **Libex hybrid** — climate-resistant вариант на горизонте 3-5 лет.
+
+6. **Mobile-first MENA** — для GCC-стратегии Drinkit это сигнал что mobile ordering можно делать центральным каналом, не дополнительным.
+
+---
+
+## Источники этого выпуска
+
+| Источник | Статей в окне | Тип |
+|---|---|---|
+| **Daily Coffee News** | 26 | Daily coffee industry, US/global |
+| **Hospitality News Middle East** | 21 | GCC + MENA hospitality |
+| **Sprudge** | 18 | Global specialty coffee |
+| **Restaurant Technology News** | 12 | US restaurant tech |
+| **KrASIA Foodtech** | 8 | China + SEA foodtech |
+| **The Spoon** | 3 | US foodtech analysis |
+
+**Pipeline:** ежечасный RSS, скрипт `rss-to-news.py` (overlay-skill `/ai-hub:trend-watch-qsr ingest rss`). Следующий weekly digest (10 июня) уже будет включать эти источники автоматически + новые UK feeds (The Caterer, Restaurant Online).
+
+---
 
 ## Что дальше
 
-Это **догоняющий дайджест** из новых web-источников (6 RSS feeds) за прошлый месяц. Следующий weekly digest (10 июня) уже будет включать эти источники автоматически через `/ai-hub:trend-watch-qsr ingest rss`.
-
-Все atomic news — в `/news/web/`. Полные тексты по ссылкам на оригинальные публикации.
-
----
-
-*Источники (подтверждены deep-research):*
-- **Daily Coffee News**
-- **Hospitality News Middle East**
-- **KrASIA Foodtech**
-- **Restaurant Technology News**
-- **Sprudge**
-- **The Spoon**
+- **Завтра 9 июня — еженедельный digest** (4-10 июня) автоматически впитает все 8 web-источников
+- **Open question**: подключить ли paywall-источники (Nikkei Asia F&B $17.99/мес, World Coffee Portal £29/мес, Savor.fm) через одну Dodo подписку
+- **Saudi/UAE deep-tech** — open question deep-research run 2, не нашлось специализированных vendor-блогов. Hospitality News ME пока единственный.
+- **Russia deep-tech**: `restoranoff.ru` подключим в следующем заходе (нужен ручной парсер, RSS не нашли)
+- **Propel Hospitality** (UK, 21k C-level daily) — подключение через email signup, рекомендуем сделать вручную
