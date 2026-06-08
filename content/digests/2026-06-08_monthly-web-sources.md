@@ -3,9 +3,20 @@ publish: true
 title: "Дайджест за месяц · 4 мая – 3 июня 2026 (международный, из web-источников)"
 ---
 
-*Catch-up месячный обзор по международному рынку — США, UK, Азия, GCC, кофейная вертикаль. Pipeline: 8 web-источников (RSS), 179 atomic news, 88 в окне периода.*
+*Catch-up месячный обзор по международному рынку — США, UK, Азия, GCC, кофейная вертикаль. Pipeline: **20 web-источников (RSS)**, 840+ atomic news, 88 + 200+ в окне периода.*
 
-**Источники:** The Spoon, Restaurant Technology News (US); KrASIA Foodtech (CN+SEA); Daily Coffee News, Sprudge (global coffee); Hospitality News Middle East (GCC); The Caterer, Restaurant Online (UK). Все verified через deep-research workflow с adversarial verification (3-0 голосов).
+**Источники (обновлено):**
+- **🇺🇸 US:** The Spoon, Restaurant Technology News, **Pizza Marketplace 🆕**, **FSR Magazine 🆕**
+- **🇬🇧 UK:** The Caterer, Restaurant Online
+- **🇪🇺 EU:** **Sifted 🆕**, **Tech.eu 🆕**, **EU-Startups 🆕**
+- **🇨🇳 China:** KrASIA Foodtech, **TechNode 🆕**, **Pandaily 🆕**
+- **🇮🇳 India:** **ET Hospitality 🆕**
+- **🌍 GCC/MENA:** Hospitality News Middle East
+- **🇧🇷 LatAm:** **Contxto 🆕**, **LatamList 🆕**
+- **🇷🇺 RU:** **New Retail 🆕**
+- **☕ Coffee:** Daily Coffee News, Sprudge
+
+12 источников добавлены после внешнего deep-research (Pizza Marketplace особенно релевантен — pizza/QSR direct focus).
 
 ---
 
@@ -148,6 +159,53 @@ title: "Дайджест за месяц · 4 мая – 3 июня 2026 (меж
 - **Propel Hospitality** — 21k C-level daily morning briefing (free email, ⭐ рекомендуем подключить вручную)
 - **Hospitality Tech360** — UK QSR scaling case studies (Nando's, Burger King Spain 5→300 sites, Bill's, Pizza Pilgrims)
 - **Restoranoff.ru** (RU) — daily operator portal с разделом equipment/technology, заполняет gap по русскому deep-tech (раньше был только cafe-future.ru)
+
+---
+
+## 🔥 Что нашли с расширенным pipeline (12 новых источников)
+
+После external deep-research нашёл 12 RSS которые добавил в pipeline. Главные сюжеты которые они нам открыли:
+
+### 🍕 Pizza Marketplace — топ-источник для Dodo (52 поста за месяц)
+
+- **&pizza marks 1st international expansion — 10-store India deal** [12.05](https://www.pizzamarketplace.com/news/pizza-marks-1st-international-expansion-with-10-store-india-deal/) — major signal для Dodo India strategy. &pizza была DC darling — теперь идёт в Индию.
+- **Papa Johns + Wing — drone delivery pilot в North Carolina** [11.05](https://www.pizzamarketplace.com/news/papa-johns-wing-launch-drone-delivery-pilot-in-north-carolina/) — drone delivery в production pizza-сегменте.
+- **Hungry Howie's внедряет Toast technology suite** на всю сеть [13.05](https://www.pizzamarketplace.com/news/hungry-howies-to-implement-toast-technology-suite-across-national-footprint/) — vendor consolidation тренд.
+- **Domino's largest U.S. franchisee — "people-first" philosophy** [21.05] — путь от delivery driver до multi-unit. Кейс long-term operator success.
+- **Little Caesars expand в Малайзию** [22.05] — SEA expansion стратегия.
+- **Cool technologies at the NRA Show 2026** [22.05] — обзор vendor tech.
+- **Off-premise blitz: pandemic survival → growth engines** [15.05] — стратегический анализ.
+
+### 🇺🇸 FSR Magazine (75 постов)
+
+- **A Year After Bankruptcy, PLANTA Narrows Focus to U.S.** [27.05] — operator pivot после банкротства. Кейс для study.
+- **Kyuramen expansion strategy: Premium Dining + Beverages** [26.05] — concept evolution.
+- **The High Price of Leadership Blind Spots — And How to Fix Them** [26.05] — operational analysis.
+- **Huddle House signs 10-unit deal в Midwest** — franchise expansion pattern.
+
+### 🇪🇺 EU стартапы (Sifted + Tech.eu + EU-Startups, 74 поста)
+
+- **EU foodtech funding flows** — Sifted показывает деал-флоу что мы раньше не видели (см. /news/web/?source_name=Sifted)
+- **AI/robotics scale-ups** — Tech.eu и EU-Startups покрывают вертикаль через VC-lens
+
+### 🇨🇳 China deep coverage (TechNode + Pandaily, 95 постов)
+
+Раньше у нас был только KrASIA. Сейчас:
+- **TechNode** — AI + retail/restaurant ecosystems (delivery drones, embodied AI)
+- **Pandaily** — Meituan/Ele.me/platform expansion + delivery innovation
+- Полная картина China platform shifts вместо одного angle.
+
+### 🇮🇳 India через ET Hospitality (20 постов)
+
+Раньше Inc42 давал только foodtech funding lens. Сейчас ET Hospitality добавил daily India hospitality coverage (cloud kitchens, delivery, F&B brands). Indian QSR scene наконец-то покрыт.
+
+### 🇷🇺 New Retail (120 постов!)
+
+Огромный поток русских постов про omni / payments / franchise. Заполняет RU deep-tech gap, особенно для payments и loyalty-слоя. Часть постов про foodservice — будем фильтровать в weekly digest.
+
+### 🇧🇷 LatAm (Contxto + LatamList, 22 поста)
+
+LatAm foodtech funding и launches. NeoFeed мы уже имели — теперь полное покрытие региона.
 
 ---
 
