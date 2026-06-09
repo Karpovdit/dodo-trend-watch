@@ -31,7 +31,24 @@ publish: true
 
 Трейси Скинс уходит из Yum! Brands после 25 лет. Starbucks отказался от AI-управления запасами — первое подтверждение прогноза Gartner. KFC доставляет дронами в Шэньчжэне как массовый сервис. В РФ четыре не-ресторанных бренда заходят в HoReCa — Bork, «Ашан», Сбер, Bork×HIDEOUT. «Вкусно — и точка» × Line Friends 16 июня — первый character-IP коллаб после ухода McDonald's. «ЭФКО» вложила 1,3 млрд ₽ в браззеин — Россия первая в мире сертифицировала натуральный сладкий белок.
 
-<span class="garden-card-meta">9 июня 2026 · неделя · 24 web + 38 TG + 800 LinkedIn</span>
+<span class="garden-card-meta">9 июня 2026 · неделя · 44 web + 38 TG + 800 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">📝</span>
+
+[Catch-up из Substack-newsletters · 3-9 июня](digests/2026-06-09_substack-catchup) — Savor.fm про McDonald's NEXT, Long Yield про экономику AI, Ad Valorem playbooks
+
+</li>
+
+</ul>
 
 </div>
 
