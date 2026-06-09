@@ -27,6 +27,22 @@ publish: true
 
 🔥
 
+### [Дайджест за неделю · 4–9 июня](digests/2026-06-09_weekly)
+
+Трейси Скинс уходит из Yum! Brands после 25 лет. Starbucks отказался от AI-управления запасами — первое подтверждение прогноза Gartner. KFC доставляет дронами в Шэньчжэне как массовый сервис. В РФ четыре не-ресторанных бренда заходят в HoReCa — Bork, «Ашан», Сбер, Bork×HIDEOUT. «Вкусно — и точка» × Line Friends 16 июня — первый character-IP коллаб после ухода McDonald's. «ЭФКО» вложила 1,3 млрд ₽ в браззеин — Россия первая в мире сертифицировала натуральный сладкий белок.
+
+<span class="garden-card-meta">9 июня 2026 · неделя · 24 web + 38 TG + 800 LinkedIn</span>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📅
+
 ### [Дайджест за неделю и месяц](digests/2026-06-03_combined-ru)
 
 Главные события индустрии за 26 мая – 2 июня + расширенный взгляд на РФ-рынок за месяц. Mainstream QSR откатывает хайповые AI-ставки. Drive-thru voice-AI вернулся.
@@ -103,22 +119,6 @@ publish: true
 </li>
 
 </ul>
-
-</div>
-
-</div>
-
-<div class="garden-hub">
-
-<div class="garden-hub-card garden-card garden-card--featured">
-
-🆕
-
-### [Дайджест за неделю · 4–9 июня](digests/2026-06-09_weekly)
-
-Трейси Скинс уходит из Yum! Brands после 25 лет. Starbucks отказался от AI-управления запасами — первое подтверждение прогноза Gartner. KFC доставляет дронами в Шэньчжэне как массовый сервис. В РФ четыре не-ресторанных бренда заходят в HoReCa — Bork, «Ашан», Сбер, Bork×HIDEOUT. «Вкусно — и точка» × Line Friends 16 июня — первый character-IP коллаб после ухода McDonald's. «ЭФКО» вложила 1,3 млрд ₽ в браззеин — Россия первая в мире сертифицировала натуральный сладкий белок.
-
-<span class="garden-card-meta">9 июня 2026 · неделя · 24 web + 38 TG + 800 LinkedIn</span>
 
 </div>
 
