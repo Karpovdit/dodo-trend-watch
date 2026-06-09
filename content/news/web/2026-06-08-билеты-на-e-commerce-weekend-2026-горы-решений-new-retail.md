@@ -11,7 +11,7 @@ tags: [franchise, omni, payments, retail, rss, ru, web]
 ---
 > 🔗 [New Retail](https://new-retail.ru/novosti/company/bilety_na_e_commerce_weekend_2026_gory_resheniy3657/) · 2026-06-08
 
-Конференция лидеров e-commerce
+Конференция лидеров e-commerce.
 
 ---
 
