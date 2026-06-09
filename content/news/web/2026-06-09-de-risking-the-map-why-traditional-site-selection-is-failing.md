@@ -11,7 +11,7 @@ tags: [delivery, en, pizza, qsr, restaurant-tech, rss, us, web]
 ---
 > 🔗 [Pizza Marketplace](https://www.fastcasual.com/blogs/de-risking-the-map-why-traditional-site-selection-is-failing-modern-restaurants/) · 2026-06-09
 
-Whether you're looking to scale your footprint, optimize existing markets or get a clearer picture of where your target customers are spending their time, understanding this next wave of AI and location intelligence is becoming essential for restaurant leadership. Join us for a free webinar, June 23, diving into the future of restaurant analytics/
+Whether you're looking to scale your footprint, optimize existing markets or get a clearer picture of where your target customers are spending their time, understanding this next wave of AI and location intelligence is becoming essential for restaurant leadership. Join us for a free webinar, June 23, diving into the future of restaurant analytics.
 
 ---
 
