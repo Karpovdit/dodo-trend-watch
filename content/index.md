@@ -7,7 +7,7 @@ publish: true
 
 Привет! Я Дима — продакт-лид в Dodo Brands.
 
-Слежу за индустрией общественного питания, restaurant tech и QSR через ~450 источников: отраслевые издания, Substack, X/Twitter, Reddit, Telegram-каналы и локальная пресса. Раз в неделю и раз в месяц публикую сводку — для PM-команды и всех, кому интересно.
+Слежу за индустрией общественного питания, restaurant tech и QSR через сеть источников: 24 интернет-публикации (RSS + HTML), 38 Telegram-каналов и ~800 публикаций LinkedIn в неделю по 42 ключевым запросам. Раз в неделю и раз в месяц публикую сводку — для PM-команды и всех, кому интересно.
 
 </div>
 
@@ -27,11 +27,11 @@ publish: true
 
 🔥
 
-### [Дайджест за неделю и месяц](digests/2026-06-03_combined-ru)
+### [Дайджест за неделю · 4–9 июня](digests/2026-06-09_weekly)
 
-Главные события индустрии за 26 мая – 2 июня + расширенный взгляд на РФ-рынок за месяц. Mainstream QSR откатывает хайповые AI-ставки. Drive-thru voice-AI вернулся.
+Трейси Скинс уходит из Yum! Brands после 25 лет. Starbucks отказался от AI-управления запасами — первое подтверждение прогноза Gartner. KFC доставляет дронами в Шэньчжэне как массовый сервис. В РФ четыре не-ресторанных бренда заходят в HoReCa — Bork, «Ашан», Сбер, Bork×HIDEOUT. «Вкусно — и точка» × Line Friends 16 июня — первый character-IP коллаб после ухода McDonald's. «ЭФКО» вложила 1,3 млрд ₽ в браззеин — Россия первая в мире сертифицировала натуральный сладкий белок.
 
-<span class="garden-card-meta">3 июня 2026 · неделя + месяц</span>
+<span class="garden-card-meta">9 июня 2026 · неделя · 24 web + 38 TG + 795 LinkedIn</span>
 
 </div>
 
@@ -49,9 +49,16 @@ publish: true
 </li>
 
 <li class="garden-list-item">
+<span class="garden-list-icon">🌍</span>
+
+[Дайджест из web-источников · 4 мая – 3 июня](digests/2026-06-08_monthly-web-sources) — catch-up по международным RSS
+
+</li>
+
+<li class="garden-list-item">
 <span class="garden-list-icon">📰</span>
 
-[Дайджест за неделю · 26 мая – 2 июня](digests/2026-06-02_weekly-ru) — полный недельный обзор
+[Дайджест за неделю · 26 мая – 2 июня](digests/2026-06-02_weekly-ru) — предыдущий недельный обзор
 
 </li>
 
@@ -114,9 +121,12 @@ publish: true
 
 ## Методология
 
-Pipeline ~450 источников: 276 RU Telegram + 30 RU RSS + ~95 INT publications/newsletters/podcasts + 8 X/Twitter via Nitter + 6 Reddit + 20 СНГ + 15 China/LatAm/Japan.
+**Pipeline (на 9 июня 2026):**
+- **24 web-источника** — 20 RSS-лент + 4 HTML-парсера. Регионы: US (The Spoon, FSR, Pizza Marketplace, Restaurant Tech News), UK (The Caterer, Restaurant Online), EU (Sifted, Tech.eu, EU-Startups), China (KrASIA, TechNode, Pandaily), India (ET Hospitality + Restaurant India HTML), Japan (FoodRink + Nissyoku HTML), MENA, LatAm, RU
+- **38 Telegram-каналов** — foodtech-кластер sees.group + операторские чаты + vendor-каналы + user-curated. Deep-scrape за 7 дней через t.me/s/ pagination
+- **42 LinkedIn-запроса** — Apify harvestapi keyword search по темам: kitchen automation, POS, KDS, robotics, supply chain, computer vision, последняя миля, дроны, время готовки, специалити кофе, AI ROI кейсы, Mixue/Cotti/Luckin
 
-Скрейпинг raw → regex-filter foodtech relevance → tier-scoring → синтез через LLM-агентов. Обозначение 🔒 = источник за paywall (по ссылке только превью).
+Скрейпинг raw → HR/promo фильтр → дедупликация → engagement-ранжирование → narrative-синтез на русском с инлайн-ссылками. Обозначение 🔒 = источник за paywall (по ссылке только превью).
 
 </div>
 
