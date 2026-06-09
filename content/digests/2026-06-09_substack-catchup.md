@@ -51,11 +51,11 @@ title: "Дайджест из новых Substack-источников · 3–9 
 
 **Ad Valorem (SMB AI)** — выпустили **5 практических playbooks** за неделю, релевантных для управления операциями ресторанной сети:
 
-- [AI for SMB Finance Ops](https://advalorem.substack.com/p/ai-for-smb-finance-ops-in-2026): автоматизация AP/расходов/прогноза кэша. Vendor pricing, ROI-модели, 30-дневный rollout.
-- [AI Marketing для SMB через Meta Ads](https://advalorem.substack.com/p/ai-guy-ep15-ai-marketing-for-small-business): "Meta тихо превратила свою рекламную платформу в чат-окно"
+- [AI for SMB Finance Ops](https://advalorem.substack.com/p/ai-for-smb-finance-ops-in-2026-ap): автоматизация AP/расходов/прогноза кэша. Vendor pricing, ROI-модели, 30-дневный rollout.
+- [AI Marketing для SMB через Meta Ads](https://advalorem.substack.com/p/ai-guy-ep15-ai-marketing-for-small-8e8): "Meta тихо превратила свою рекламную платформу в чат-окно"
 - [AI for Independent Dental Practices](https://advalorem.substack.com/p/ai-for-independent-dental-practices): кейс для 1-3 операторных клиник (применимая модель для small chains)
 - [x402 Protocol Agentic Commerce](https://advalorem.substack.com/p/agentic-commerce-and-the-x402-protocol): "дремлющий HTTP-код 402 Payment Required, придуманный в 1996, может перерисовать commerce"
-- [DeFi Yield 2026: IRS Final Rules, Bridge Failures, Smart-Contract Audits](https://advalorem.substack.com/p/defi-yield-in-2026)
+- [DeFi Yield 2026: IRS Final Rules, Bridge Failures, Smart-Contract Audits](https://advalorem.substack.com/p/defi-yield-in-2026-what-the-irs-final)
 
 **Значение для Dodo:** Ad Valorem публикует то, что традиционные медиа считают "слишком конкретным". Эти playbooks можно использовать как референс для собственных AI-проектов в Учёт, Маркетинг, IS. Особенно ценны vendor-сравнения с ROI-моделями.
 
@@ -76,19 +76,19 @@ title: "Дайджест из новых Substack-источников · 3–9 
 
 ### Restaurant tech / operations
 
-- **Restaurant Technology News (Walchef)**, [8 июня](https://restauranttechnologynews.substack.com/p/why-every-restaurant-should-be-measuring-these-four-delivery-kpis): "Why Every Restaurant Should Be Measuring These Four Delivery KPIs". Конкретный operational guide.
-- **Savor.fm**, [9 июня](https://savorfm.substack.com/p/the-anti-burger-blueprint): "The Anti-Burger Blueprint: How Teriyaki Madness and Atmosphere TV Are Reshaping the Fast Casual Game". 🔒 Operator interview с Paul Barron и Cherryh Cansler.
+- **Restaurant Technology News (Walchef)**, [8 июня](https://restauranttechnologynews.com/2026/06/why-every-restaurant-should-be-measuring-these-four-delivery-kpis/): "Why Every Restaurant Should Be Measuring These Four Delivery KPIs". Конкретный operational guide.
+- **Savor.fm**, [9 июня](https://savorfm.substack.com/p/the-anti-burger-blueprint-how-teriyaki): "The Anti-Burger Blueprint: How Teriyaki Madness and Atmosphere TV Are Reshaping the Fast Casual Game". 🔒 Operator interview с Paul Barron и Cherryh Cansler.
 - **Expedite (Kristen Hawley)** опубликовал 2 поста за неделю — для следующего weekly возьмём в Топ-5.
 
 ### India / Asia investment
 
-- **Dhruva (India QSR)**, [9 июня](https://dhruva.substack.com/p/john-cockerill-india-ltd-a-value-investment-analysis): "John Cockerill India Ltd: A Value Investment Analysis". Value-investing подход к Индийскому QSR/B2B сегменту. Полезно для PM Dodo India strategy.
+- **Dhruva (India QSR)**, [9 июня](https://dhruva.substack.com/p/john-cockerill-india-ltd-a-value): "John Cockerill India Ltd: A Value Investment Analysis". Value-investing подход к Индийскому QSR/B2B сегменту. Полезно для PM Dodo India strategy.
 
 ### AI / Macro / finance
 
-- **Long Yield**, [9 июня](https://longyield.substack.com/p/the-dior-dividend): "The Dior Dividend: Why LVMH's Crown Jewel Is Undervalued in 2026". 🔒
-- **Long Yield**, [8 июня](https://longyield.substack.com/p/the-machine-that-learns): "The Machine That Learns: An AI Primer for Financial Professionals". Хороший entry-point для финансистов в AI.
-- **Ad Valorem**, [8 июня](https://advalorem.substack.com/p/retail-has-never-had-an-edge): "Retail Has Never Had an Edge. Ed Zitron Just Said It on Bloomberg — Anthropic and OpenAI". Anti-AI скептицизм с Bloomberg.
+- **Long Yield**, [9 июня](https://longyield.substack.com/p/the-dior-dividend-why-lvmhs-crown): "The Dior Dividend: Why LVMH's Crown Jewel Is Undervalued in 2026". 🔒
+- **Long Yield**, [8 июня](https://longyield.substack.com/p/the-machine-that-learns-an-ai-primer): "The Machine That Learns: An AI Primer for Financial Professionals". Хороший entry-point для финансистов в AI.
+- **Ad Valorem**, [8 июня](https://advalorem.substack.com/p/retail-has-never-had-an-edge-ed-zitron): "Retail Has Never Had an Edge. Ed Zitron Just Said It on Bloomberg — Anthropic and OpenAI". Anti-AI скептицизм с Bloomberg.
 
 ### Food culture / media (для контекста потребительского поведения)
 
@@ -103,7 +103,7 @@ title: "Дайджест из новых Substack-источников · 3–9 
 ## 🎯 Что можно сделать командам Dodo
 
 1. **AI Lab Drinkit + Dodo IS:** разобрать [Long Yield про Inference Economics](https://longyield.substack.com/p/inference-economics-the-hidden-war) на следующей AI-стратегической сессии. Учесть риск 2-5x роста цен на inference в 2027 при планировании AI-проектов.
-2. **Smart Tracking + Маркетинг:** прочитать [Restaurant Technology News про 4 KPI доставки](https://restauranttechnologynews.substack.com/p/why-every-restaurant-should-be-measuring-these-four-delivery-kpis). Сверить с нашей операционной аналитикой — что не измеряем, что измеряем по-другому.
+2. **Smart Tracking + Маркетинг:** прочитать [Restaurant Technology News про 4 KPI доставки](https://restauranttechnologynews.com/2026/06/why-every-restaurant-should-be-measuring-these-four-delivery-kpis/). Сверить с нашей операционной аналитикой — что не измеряем, что измеряем по-другому.
 3. **Маркетинг Dodo Pizza:** Ad Valorem про AI Marketing через Meta Ads. Применить к российским кампаниям — какая часть рекламы у нас уже autonomous?
 4. **Учёт:** Ad Valorem AI for SMB Finance Ops — рассмотреть vendor pricing и ROI-модели для собственной AP automation.
 5. **Drinkit B2B:** Consumed про любовь к supplements — связать с трендом функциональных напитков. Стоит ли Drinkit вводить protein-fortified лайн?
