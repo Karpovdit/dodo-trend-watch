@@ -1,0 +1,18 @@
+---
+publish: true
+title: "Build-Outs Of Coffee: Hypnos Coffee In Portland, OR"
+date: 2026-06-12
+source_url: "https://sprudge.com/build-outs-of-coffee-hypnos-coffee-in-portland-or-1039272.html"
+source_type: webpage-rss
+source_name: "Sprudge"
+region: "global"
+language: en
+tags: [barista, beverage, coffee, en, rss, specialty-coffee, web]
+---
+> 🔗 [Sprudge](https://sprudge.com/build-outs-of-coffee-hypnos-coffee-in-portland-or-1039272.html) · 2026-06-12
+
+This article is from the coffee website Sprudge at http://sprudge.com . This is the RSS feed version. Hypnos Coffee in Portland, Oregon.
+
+---
+
+**Этот файл** — RSS-item из `Sprudge`. Полный текст по ссылке: https://sprudge.com/build-outs-of-coffee-hypnos-coffee-in-portland-or-1039272.html
