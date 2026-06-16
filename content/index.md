@@ -27,11 +27,11 @@ publish: true
 
 🔥
 
-### [Дайджест за неделю · 4–9 июня](digests/2026-06-09_weekly)
+### [Дайджест за неделю · 10–16 июня](digests/2026-06-16_weekly)
 
-Трейси Скинс уходит из Yum! Brands после 25 лет. Starbucks отказался от AI-управления запасами — первое подтверждение прогноза Gartner. KFC доставляет дронами в Шэньчжэне как массовый сервис. В РФ четыре не-ресторанных бренда заходят в HoReCa — Bork, «Ашан», Сбер, Bork×HIDEOUT. «Вкусно — и точка» × Line Friends 16 июня — первый character-IP коллаб после ухода McDonald's. «ЭФКО» вложила 1,3 млрд ₽ в браззеин — Россия первая в мире сертифицировала натуральный сладкий белок.
+США заблокировали глобальный доступ к моделям Anthropic — для отрасли, строившей AI на Claude, это сигнал тревоги. Китай ответил: DeepSeek V4 + чип Huawei снизили стоимость инференса на 75%. Гуманоидные роботы в Китае рухнули ниже 10 000 юаней — массовое внедрение. «Додо Пицца» с 30 июня запускает коллаб с Winx — ответ на character-IP тренд. «Яндекс» выводит роботов-доставщиков в Воронеж и Тюмень, X5 арендует парк дронов.
 
-<span class="garden-card-meta">9 июня 2026 · неделя · 44 web + 38 TG + 800 LinkedIn</span>
+<span class="garden-card-meta">16 июня 2026 · неделя · 44 web + 38 TG + 782 LinkedIn</span>
 
 </div>
 
@@ -40,6 +40,13 @@ publish: true
 **Подробнее и составные части:**
 
 <ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">📰</span>
+
+[Дайджест за неделю · 4-9 июня](digests/2026-06-09_weekly) — Yum! Brands, Starbucks AI-провал, KFC-дроны, Bork/Ашан в HoReCa
+
+</li>
 
 <li class="garden-list-item">
 <span class="garden-list-icon">📝</span>
