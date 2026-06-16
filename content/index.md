@@ -42,16 +42,37 @@ publish: true
 <ul class="garden-list garden-list--compact">
 
 <li class="garden-list-item">
-<span class="garden-list-icon">📰</span>
+<span class="garden-list-icon">🛠</span>
 
-[Дайджест за неделю · 4-9 июня](digests/2026-06-09_weekly) — Yum! Brands, Starbucks AI-провал, KFC-дроны, Bork/Ашан в HoReCa
+[Технологический дайджест · 10-16 июня](digests/2026-06-16_tech) — AI-геополитика, инференс −75%, гуманоиды, restaurant-tech
 
 </li>
 
 <li class="garden-list-item">
-<span class="garden-list-icon">📝</span>
+<span class="garden-list-icon">🌏</span>
 
-[Catch-up из Substack-newsletters · 3-9 июня](digests/2026-06-09_substack-catchup) — Savor.fm про McDonald's NEXT, Long Yield про экономику AI, Ad Valorem playbooks
+[Азиатские рынки · 10-16 июня](digests/2026-06-16_asia) — Starbucks может продать японский бизнес, китайский AI-стек, Индия
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 10-16 июня](digests/2026-06-16_linkedin) — Third Wave Coffee, Yum! summit, «AI vs консалтинг»
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 10-16 июня](digests/2026-06-16_telegram) — доставка без курьеров, кризис барной индустрии, серый чизкейк
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">📰</span>
+
+[Дайджест за неделю · 4-9 июня](digests/2026-06-09_weekly) — Yum! Brands, Starbucks AI-провал, KFC-дроны, Bork/Ашан в HoReCa
 
 </li>
 
