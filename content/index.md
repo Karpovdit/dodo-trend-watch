@@ -7,7 +7,7 @@ publish: true
 
 Привет! Я Дима — продакт-лид в Dodo Brands.
 
-Слежу за индустрией общественного питания, restaurant tech и QSR через сеть источников: 24 интернет-публикации (RSS + HTML), 38 Telegram-каналов и ~800 публикаций LinkedIn в неделю по 42 ключевым запросам. Раз в неделю и раз в месяц публикую сводку — для PM-команды и всех, кому интересно.
+Слежу за индустрией общественного питания, restaurant tech и QSR через сеть источников: 24 интернет-публикации (RSS + HTML), 64 Telegram-канала и ~800 публикаций LinkedIn в неделю по 42 ключевым запросам. Раз в неделю и раз в месяц публикую сводку — для PM-команды и всех, кому интересно.
 
 </div>
 
@@ -175,9 +175,9 @@ publish: true
 
 ## Методология
 
-**Pipeline (на 9 июня 2026):**
+**Pipeline (на 17 июня 2026):**
 - **24 web-источника** — 20 RSS-лент + 4 HTML-парсера. Регионы: US (The Spoon, FSR, Pizza Marketplace, Restaurant Tech News), UK (The Caterer, Restaurant Online), EU (Sifted, Tech.eu, EU-Startups), China (KrASIA, TechNode, Pandaily), India (ET Hospitality + Restaurant India HTML), Japan (FoodRink + Nissyoku HTML), MENA, LatAm, RU
-- **38 Telegram-каналов** — foodtech-кластер sees.group + операторские чаты + vendor-каналы + user-curated. Deep-scrape за 7 дней через t.me/s/ pagination
+- **64 Telegram-канала** — foodtech-кластер sees.group + операторские чаты + vendor-каналы + отраслевые медиа и аналитики (Сысоев, Левицкий, The Restorator, INFOLine, Coffee State) + бренды-конкуренты. Deep-scrape за 7 дней через t.me/s/ pagination
 - **42 LinkedIn-запроса** — Apify harvestapi keyword search по темам: kitchen automation, POS, KDS, robotics, supply chain, computer vision, последняя миля, дроны, время готовки, специалити кофе, AI ROI кейсы, Mixue/Cotti/Luckin
 
 Скрейпинг raw → HR/promo фильтр → дедупликация → engagement-ранжирование → narrative-синтез на русском с инлайн-ссылками. Обозначение 🔒 = источник за paywall (по ссылке только превью).
