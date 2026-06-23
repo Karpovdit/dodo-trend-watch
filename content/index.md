@@ -35,6 +35,44 @@ Yum! продаёт Pizza Hut за $2,7 млрд — крупнейшая M&A-с
 
 </div>
 
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 17-23 июня](digests/2026-06-23_tech) — embodied-AI и гуманоиды, китайская AI-гонка, Toast и PAR
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 17-23 июня](digests/2026-06-23_asia) — JD «курьеры не нужны», китайский AI-стек, IPO Banu, японские меню-тренды
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 17-23 июня](digests/2026-06-23_linkedin) — дроны Manna, ручная маршрутизация, уход CEO Domino's
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 17-23 июня](digests/2026-06-23_telegram) — бар «Теремка», «секретные сеты», ИИ-сказка Х5
+
+</li>
+
+</ul>
+
+</div>
+
 </div>
 
 <div class="garden-hub">
