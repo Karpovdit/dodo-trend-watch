@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за неделю · 24–30 июня](digests/2026-06-30_weekly)
+
+Робототехника пришла в пиццу: Miso Robotics (Flippy) купил IP Zume для автоматизации пиццы. В LinkedIn взорвался пост «Claude Opus 4.8 заменил McKinsey на $1,5 млрд» (415 комментариев). Wonder заходит в дрон-доставку, KFC UK обновил бренд. В России — «Монетка» запустила готовую еду, «Яндекс Еда» заступилась за курьеров, курица подорожала на 10%. Сектор под давлением: 1 из 6 HoReCa-бизнесов Британии под угрозой краха, 180 ресторанов во Франции — в банкротстве.
+
+<span class="garden-card-meta">30 июня 2026 · неделя · 44 web + 64 TG + 874 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 24-30 июня](digests/2026-06-30_tech) — Miso/Zume/Moto пицца-роботы, embodied-AI, voice ordering ROI
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 24-30 июня](digests/2026-06-30_asia) — китайская робототехника, DeepSeek V4, индийские форматы и инвестиции
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 24-30 июня](digests/2026-06-30_linkedin) — Claude vs McKinsey (415 комментов), Wonder-дроны, KFC UK, Индия
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 24-30 июня](digests/2026-06-30_telegram) — «Монетка», защита курьеров Яндекса, курица +10%, Сысоев
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за неделю · 17–23 июня](digests/2026-06-23_weekly)
 
 Yum! продаёт Pizza Hut за $2,7 млрд — крупнейшая M&A-сделка в пицце. Одновременно уходит CEO Domino's. Основатель JD.com заявил, что курьеры в будущем не нужны, а POS-гигант Toast собрался открыть свой ресторан. В России — бар «Теремка» поднял продажи напитков на 39,6%, «Яндекс Еда» запустила «секретные сеты», Х5 выпустила ИИ-сказку к юбилею. Китай выкатывает embodied-AI: Alibaba Qwen-Robot и гуманоиды Star Dynasty.
