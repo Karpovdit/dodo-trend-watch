@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за неделю · 1–7 июля](digests/2026-07-07_weekly)
+
+Гуманоиды пришли в общепит как продукт: экс-топ Xiaomi запустил XBot для фудсервиса, UBTECH собрала 11 000 предзаказов на U1. Дрон-доставка складывается в экосистему — Wonder × Zipline в Техасе, экс-CMO Ryanair возглавил Manna, «дроно-порты уже здесь». В России рынок сжимается: 440+ закрытий ресторанов в Москве за полгода, при этом «Перекрёсток» тестирует наличные на кассах самообслуживания, а WB поднимает комиссии до 43%. GoTab купил Fishbowl — лояльность въезжает в POS.
+
+<span class="garden-card-meta">7 июля 2026 · неделя · 44 web + 64 TG + 892 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 1-7 июля](digests/2026-07-07_tech) — гуманоиды XBot и UBTECH U1, автономные вэны ZTO, AI-прогнозирование
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 1-7 июля](digests/2026-07-07_asia) — робототехническая неделя Китая, NVIDIA, индийский quick commerce
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 1-7 июля](digests/2026-07-07_linkedin) — CMO Yum!/KFC (771), дрон-экосистема, tipping fatigue
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 1-7 июля](digests/2026-07-07_telegram) — 440 закрытий в Москве, наличные на КСО, открытый P&L кофейни
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за неделю · 24–30 июня](digests/2026-06-30_weekly)
 
 Робототехника пришла в пиццу: Miso Robotics (Flippy) купил IP Zume для автоматизации пиццы. В LinkedIn взорвался пост «Claude Opus 4.8 заменил McKinsey на $1,5 млрд» (415 комментариев). Wonder заходит в дрон-доставку, KFC UK обновил бренд. В России — «Монетка» запустила готовую еду, «Яндекс Еда» заступилась за курьеров, курица подорожала на 10%. Сектор под давлением: 1 из 6 HoReCa-бизнесов Британии под угрозой краха, 180 ресторанов во Франции — в банкротстве.
