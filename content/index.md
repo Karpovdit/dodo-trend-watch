@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за неделю · 8–14 июля](digests/2026-07-14_weekly)
+
+Uber в шаге от поглощения Delivery Hero — крупнейшая консолидация доставки за десятилетие (заденет Talabat в MENA). Taco Bell раскатала голосового AI почти на 900 драйв-тру. Пицца-категория США на двух полюсах: Papa Murphy's закрывает точки, а сеть АЗС Casey's стала 5-й пиццерийной сетью страны. JD.com строит роботоферму RoboBase. В России — CEO «Вкусно — и точка» заявил, что McDonald's вряд ли вернётся; говядина +15,6%, рестораны режут меню на 17–20%.
+
+<span class="garden-card-meta">14 июля 2026 · неделя · 44 web + 64 TG + 874 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 8-14 июля](digests/2026-07-14_tech) — voice-AI Taco Bell (900 точек), Bear Robotics, JD RoboBase, DJI карго-дрон
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 8-14 июля](digests/2026-07-14_asia) — embodied AI Китая, индийские M&A и кофе ($5 млрд), Nestlé в Таиланде
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 8-14 июля](digests/2026-07-14_linkedin) — Uber×Delivery Hero, Casey's vs Papa Murphy's, Nestlé (597)
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 8-14 июля](digests/2026-07-14_telegram) — Пароев про McDonald's, говядина +15,6%, упрощение меню
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за неделю · 1–7 июля](digests/2026-07-07_weekly)
 
 Гуманоиды пришли в общепит как продукт: экс-топ Xiaomi запустил XBot для фудсервиса, UBTECH собрала 11 000 предзаказов на U1. Дрон-доставка складывается в экосистему — Wonder × Zipline в Техасе, экс-CMO Ryanair возглавил Manna, «дроно-порты уже здесь». В России рынок сжимается: 440+ закрытий ресторанов в Москве за полгода, при этом «Перекрёсток» тестирует наличные на кассах самообслуживания, а WB поднимает комиссии до 43%. GoTab купил Fishbowl — лояльность въезжает в POS.
