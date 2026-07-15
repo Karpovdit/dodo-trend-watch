@@ -392,7 +392,7 @@ Yum! продаёт Pizza Hut за $2,7 млрд — крупнейшая M&A-с
 ## Методология
 
 **Pipeline (на 17 июня 2026):**
-- **24 web-источника** — 20 RSS-лент + 4 HTML-парсера. Регионы: US (The Spoon, FSR, Pizza Marketplace, Restaurant Tech News), UK (The Caterer, Restaurant Online), EU (Sifted, Tech.eu, EU-Startups), China (KrASIA, TechNode, Pandaily), India (ET Hospitality + Restaurant India HTML), Japan (FoodRink + Nissyoku HTML), MENA, LatAm, RU
+- **25 web-источников** — 20 RSS-лент + 5 HTML-парсеров (вкл. RU-медиа «Полка»). Регионы: US (The Spoon, FSR, Pizza Marketplace, Restaurant Tech News), UK (The Caterer, Restaurant Online), EU (Sifted, Tech.eu, EU-Startups), China (KrASIA, TechNode, Pandaily), India (ET Hospitality + Restaurant India HTML), Japan (FoodRink + Nissyoku HTML), MENA, LatAm, RU
 - **64 Telegram-канала** — foodtech-кластер sees.group + операторские чаты + vendor-каналы + отраслевые медиа и аналитики (Сысоев, Левицкий, The Restorator, INFOLine, Coffee State) + бренды-конкуренты. Deep-scrape за 7 дней через t.me/s/ pagination
 - **42 LinkedIn-запроса** — Apify harvestapi keyword search по темам: kitchen automation, POS, KDS, robotics, supply chain, computer vision, последняя миля, дроны, время готовки, специалити кофе, AI ROI кейсы, Mixue/Cotti/Luckin
 
