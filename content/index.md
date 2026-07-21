@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за неделю · 15–21 июля](digests/2026-07-21_weekly)
+
+Uber покупает Delivery Hero за €13 млрд — платформа на 99 стран (Talabat переходит под Uber). Dodo Pizza — в американской отраслевой прессе: Pizza Marketplace разобрал наш «playbook for international success». Xiaomi открыла исходники embodied-модели Robotics-U0 и показала 98% успешности гуманоидов на автосборке; Китай выпускает 400+ моделей гуманоидов. В России «Вкусно — и точка» запускает неаполитанское меню и идёт в Беларусь, ночью сгорели склады WB, а фудкост 80% стал операторской исповедью недели.
+
+<span class="garden-card-meta">21 июля 2026 · неделя · 25 web + 64 TG + 889 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 15-21 июля](digests/2026-07-21_tech) — open-source робототехника Xiaomi, LimX $2,3B, Clover, GLP-1 меню
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 15-21 июля](digests/2026-07-21_asia) — 400+ китайских гуманоидов, Mos Food×BYO, индийская регуляторика
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 15-21 июля](digests/2026-07-21_linkedin) — Chipotle в Мексике (120 комментов), Nestlé-JV, deskless-HR
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 15-21 июля](digests/2026-07-21_telegram) — «Вкусно» идёт в пиццу, пожары WB, фудкост 80%, кофе в ритейле ×2
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за неделю · 8–14 июля](digests/2026-07-14_weekly)
 
 Uber в шаге от поглощения Delivery Hero — крупнейшая консолидация доставки за десятилетие (заденет Talabat в MENA). Taco Bell раскатала голосового AI почти на 900 драйв-тру. Пицца-категория США на двух полюсах: Papa Murphy's закрывает точки, а сеть АЗС Casey's стала 5-й пиццерийной сетью страны. JD.com строит роботоферму RoboBase. В России — CEO «Вкусно — и точка» заявил, что McDonald's вряд ли вернётся; говядина +15,6%, рестораны режут меню на 17–20%.
