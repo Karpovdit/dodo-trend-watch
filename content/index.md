@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за неделю · 22–28 июля](digests/2026-07-28_weekly)
+
+Робототехника пошла на биржу и в автопром: AgiBot начал IPO в Гонконге, BYD покажет первого гуманоида в начале августа — а у него своя батарейная вертикаль, то есть шанс снять главное ограничение автономности. Nestlé выделяет водный бизнес в СП с фондом, Level99 получил ещё $50 млн от основателя Panera. В России — вторая волна атак на склады Wildberries (есть пострадавшие), Госдума приняла закон о полном мониторинге цен, «Яндекс Еда» запустила ИИ-хостес.
+
+<span class="garden-card-meta">28 июля 2026 · неделя · 25 web + 64 TG + 883 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 22-28 июля](digests/2026-07-28_tech) — BYD и AgiBot, Momenta Robovan, Kimi K3, AI-воркшоп FSR/QSR
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 22-28 июля](digests/2026-07-28_asia) — робо-IPO Китая, штраф Ctrip $760 млн, KFC India в прибыли, Wendy's на Шри-Ланке
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 22-28 июля](digests/2026-07-28_linkedin) — Wendy's/JKH (3043), модель Zomato, роботы-повара, предподготовка
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 22-28 июля](digests/2026-07-28_telegram) — атаки на склады WB, ИИ-хостес Яндекса, мониторинг цен, «Нытинг»
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за неделю · 15–21 июля](digests/2026-07-21_weekly)
 
 Uber покупает Delivery Hero за €13 млрд — платформа на 99 стран (Talabat переходит под Uber). Dodo Pizza — в американской отраслевой прессе: Pizza Marketplace разобрал наш «playbook for international success». Xiaomi открыла исходники embodied-модели Robotics-U0 и показала 98% успешности гуманоидов на автосборке; Китай выпускает 400+ моделей гуманоидов. В России «Вкусно — и точка» запускает неаполитанское меню и идёт в Беларусь, ночью сгорели склады WB, а фудкост 80% стал операторской исповедью недели.
