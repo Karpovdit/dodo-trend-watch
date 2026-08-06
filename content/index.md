@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за неделю · 29 июля – 4 августа](digests/2026-08-04_weekly)
+
+Рестораны пошли войной на агрегаторов: Бангалор грозит бойкотом Swiggy с 15 августа, а ассоциация рестораторов Индии строит свою restaurant-first платформу. McDonald's назначил Скай Андерсон президентом американского бизнеса — исполнять стратегию NEXT. Yum! в Q2: прибыль +9%, цифровые продажи почти $9 млрд. Unitree расчистила путь к IPO, робо-такси Baidu вышло на дороги Лондона. В России открылся первый ИИ-ресторан «Матрёша» под управлением 20 нейросетей.
+
+<span class="garden-card-meta">4 августа 2026 · неделя · 25 web + 64 TG + 853 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 29.07–4.08](digests/2026-08-04_tech) — платежи Chipotle, роботы для вытяжек, AI-прогноз Tim Hortons
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 29.07–4.08](digests/2026-08-04_asia) — война с агрегаторами в Индии, Unitree к IPO, Apollo Go в Лондоне
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 29.07–4.08](digests/2026-08-04_linkedin) — президент McDonald's USA, Q2 Yum!, экономика кофеен
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 29.07–4.08](digests/2026-08-04_telegram) — ИИ-ресторан «Матрёша», БПЛА и споры о рисках, бесплатная вода
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за неделю · 22–28 июля](digests/2026-07-28_weekly)
 
 Робототехника пошла на биржу и в автопром: AgiBot начал IPO в Гонконге, BYD покажет первого гуманоида в начале августа — а у него своя батарейная вертикаль, то есть шанс снять главное ограничение автономности. Nestlé выделяет водный бизнес в СП с фондом, Level99 получил ещё $50 млн от основателя Panera. В России — вторая волна атак на склады Wildberries (есть пострадавшие), Госдума приняла закон о полном мониторинге цен, «Яндекс Еда» запустила ИИ-хостес.
