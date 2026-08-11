@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за неделю · 5–11 августа](digests/2026-08-11_weekly)
+
+В России впервые сжимается сам рынок сетевого общепита: ТОП-100 сетей потеряли за полугодие почти 750 заведений при росте оборота на 8%. Алкоголь в общепите рухнул на 42%, рынок курьерской доставки замедлился с 33% до 8,8%. Atoms Каланика привлекла $1,7 млрд и собрала CloudKitchens, софт и роботов в одну компанию. Yum China выкупила Pizza Hut в Китае за $1,2 млрд. Starbucks выключил AI-инвентаризацию на 11 000 точек, а китайские производители забрали 97% мировых поставок гуманоидов — и разворачиваются к кухне.
+
+<span class="garden-card-meta">11 августа 2026 · неделя · 25 web + 64 TG + 668 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 5–11 августа](digests/2026-08-11_tech) — $1,7 млрд Atoms, Starbucks выключил AI, 97% роботов из Китая
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 5–11 августа](digests/2026-08-11_asia) — Pizza Hut уходит к Yum China, Luckin за 36 000 точек, роботы к кухне
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 5–11 августа](digests/2026-08-11_linkedin) — что останется человеческим, загадка Atoms, Voice AI в проде
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 5–11 августа](digests/2026-08-11_telegram) — минус 750 заведений, алкоголь −42%, БПЛА и риски поставщиков
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за неделю · 29 июля – 4 августа](digests/2026-08-04_weekly)
 
 Рестораны пошли войной на агрегаторов: Бангалор грозит бойкотом Swiggy с 15 августа, а ассоциация рестораторов Индии строит свою restaurant-first платформу. McDonald's назначил Скай Андерсон президентом американского бизнеса — исполнять стратегию NEXT. Yum! в Q2: прибыль +9%, цифровые продажи почти $9 млрд. Unitree расчистила путь к IPO, робо-такси Baidu вышло на дороги Лондона. В России открылся первый ИИ-ресторан «Матрёша» под управлением 20 нейросетей.
