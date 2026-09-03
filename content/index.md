@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за две недели · 19 августа – 1 сентября](digests/2026-09-01_weekly)
+
+Pizza Hut больше не часть Yum!: LongRange Capital закрыла покупку за ~$1,5 млрд — 15 500 ресторанов в 100+ странах уходят под операционный private equity. Uber Eats запустил первую в ЕС доставку роботами в Хельсинки, Little Caesars подписала тот же Coco Robotics, California Pizza Kitchen ставит до 1 000 автоматических киосков. Owner привлёк $240 млн, гуманоид в Китае подешевел до 100 000 юаней, а у UBTech выручка от роботов выросла в 15 раз. В России Москва потеряла 15% кофеен за год, при этом кофе в «Пятёрочке» вырос на 42% — спрос переезжает в ритейл. ФНС доначислила франшизе «ШашлыкоFF» 1,15 млрд.
+
+<span class="garden-card-meta">1 сентября 2026 · две недели · 25 web + 64 TG + 2 246 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 19.08–1.09](digests/2026-09-01_tech) — роботы Coco в Хельсинки, киоски CPK, $240 млн Owner, гуманоид за 100 000 юаней
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 19.08–1.09](digests/2026-09-01_asia) — выручка UBTech ×15, $43 млн Third Wave, ChaPanda меняет стратегию
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 19.08–1.09](digests/2026-09-01_linkedin) — сделка Pizza Hut, робот-курьер в ЕС, роботы и штат
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 19.08–1.09](digests/2026-09-01_telegram) — минус 15% кофеен, кофе в «Пятёрочке» +42%, ФНС и франшиза
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за неделю · 12–18 августа](digests/2026-08-18_weekly)
 
 Доставка получила третий транспорт: Uber и Zipline целятся в миллион дронных доставок в день к концу 2029 года — это рост в 231 раз, и Uber прямо называет это гибридной сетью из курьеров, роботов и дронов. McDonald's свёл данные 220 млн участников лояльности в один репозиторий под глобальную AI-стратегию. Индийский регулятор закрыл точки Domino's и Pizza Hut за антисанитарию. В России с 1 сентября вступает новый СанПиН с обязательными перчатками, рынок общепита просел на 25% по трафику, а кофе-корнеры магазинов растут на 30–40%.
