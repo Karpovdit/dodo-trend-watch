@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за три недели · 2–20 сентября](digests/2026-09-20_weekly)
+
+QSR пошёл на полку: Rostic's продаёт блюда в 750 «Пятёрочках», X5 открывает кафе в кампусах и супермаркет с ресторанами внутри, Walmart подключил Papa Johns, DoorDash купил кампусный Grubhub за $300 млн. Sharpa привлекла $668 млн под роботов в Dairy Queen, XPeng запустил конвейер гуманоидов — а американский фастфуд признал, что киоски не ускорили заказ, и McDonald's обучает 2 млн человек живому сервису. В России заказы фастфуда через приложения +60% (Додо — третья), кофе навынос впервые упал, зарплаты общепита +38%, активы Nestlé и «Ашана» ушли во временное управление, предложен запрет фритюра.
+
+<span class="garden-card-meta">20 сентября 2026 · три недели · 25 web + 64 TG + 2 831 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 2–20.09](digests/2026-09-20_tech) — $668 млн Sharpa, конвейер XPeng, провал киосков, Chipotle × Palantir
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 2–20.09](digests/2026-09-20_asia) — дрон-маршрут Meituan × McDonald's, Mubadala в Luckin, Café Mondegar, сделки Японии
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 2–20.09](digests/2026-09-20_linkedin) — разворот PizzaExpress, AI-камеры на кухне, усталость от чаевых
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 2–20.09](digests/2026-09-20_telegram) — Rostic's в «Пятёрочке», +60% к фастфуду, зарплаты, фритюр под вопросом
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за две недели · 19 августа – 1 сентября](digests/2026-09-01_weekly)
 
 Pizza Hut больше не часть Yum!: LongRange Capital закрыла покупку за ~$1,5 млрд — 15 500 ресторанов в 100+ странах уходят под операционный private equity. Uber Eats запустил первую в ЕС доставку роботами в Хельсинки, Little Caesars подписала тот же Coco Robotics, California Pizza Kitchen ставит до 1 000 автоматических киосков. Owner привлёк $240 млн, гуманоид в Китае подешевел до 100 000 юаней, а у UBTech выручка от роботов выросла в 15 раз. В России Москва потеряла 15% кофеен за год, при этом кофе в «Пятёрочке» вырос на 42% — спрос переезжает в ритейл. ФНС доначислила франшизе «ШашлыкоFF» 1,15 млрд.
