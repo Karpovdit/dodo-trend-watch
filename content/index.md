@@ -27,6 +27,60 @@ publish: true
 
 🔥
 
+### [Дайджест за полторы недели · 21 сентября – 1 октября](digests/2026-10-01_weekly)
+
+McDonald's объявил о $8,5 млрд на обновление ресторанов и AI-системе ArchIQ, отдал цены алгоритму и тестирует рекламу в ресторанах. Burger King сокращает голосовой AI в драйв-тру, Starbucks закрывает 250 кофеен, владельцы PizzaExpress изучают продажу, GOPIZZA уходит от пиццы в платформу корейской еды. В России METRO переданы во временное управление, Rostic's закрыл вход новым франчайзи, курица подорожала на 15,8%, а с 1 октября рестораны передают в «Честный знак» данные о консервах.
+
+<span class="garden-card-meta">1 октября 2026 · 11 дней · 25 web + 64 TG + 2 925 LinkedIn</span>
+
+</div>
+
+<div class="garden-hub-attached">
+
+**Подробнее и составные части:**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🛠</span>
+
+[Технологический дайджест · 21.09–1.10](digests/2026-10-01_tech) — ArchIQ и AI-цены McDonald's, отказ от QR и голосового AI, робот как фритюрница
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🌏</span>
+
+[Азиатские рынки · 21.09–1.10](digests/2026-10-01_asia) — GOPIZZA стала GTGO, IPO Subway India, 20-тысячный робот AgiBot
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💼</span>
+
+[Что обсуждают в LinkedIn · 21.09–1.10](digests/2026-10-01_linkedin) — McDonald's NEXT, исход из Pizza Hut, цена технологий в ушедших гостях
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">💬</span>
+
+[Что обсуждают в Telegram · 21.09–1.10](digests/2026-10-01_telegram) — METRO во временном управлении, Rostic's без новых франшиз, курица +15,8%
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<div class="garden-hub">
+
+<div class="garden-hub-card garden-card garden-card--featured">
+
+📰
+
 ### [Дайджест за три недели · 2–20 сентября](digests/2026-09-20_weekly)
 
 QSR пошёл на полку: Rostic's продаёт блюда в 750 «Пятёрочках», X5 открывает кафе в кампусах и супермаркет с ресторанами внутри, Walmart подключил Papa Johns, DoorDash купил кампусный Grubhub за $300 млн. Sharpa привлекла $668 млн под роботов в Dairy Queen, XPeng запустил конвейер гуманоидов — а американский фастфуд признал, что киоски не ускорили заказ, и McDonald's обучает 2 млн человек живому сервису. В России заказы фастфуда через приложения +60% (Додо — третья), кофе навынос впервые упал, зарплаты общепита +38%, активы Nestlé и «Ашана» ушли во временное управление, предложен запрет фритюра.
