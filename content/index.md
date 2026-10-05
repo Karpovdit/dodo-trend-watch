@@ -823,7 +823,9 @@ Yum! продаёт Pizza Hut за \$2,7 млрд — крупнейшая M&A-�
 
 ## Платформы под наблюдением
 
-Досье на технологические платформы, которые меняют индустрию. В каждом — функции, цифры, сроки, деньги и критика из всех наших источников, со статусом проверки каждой цифры. Дата последней сверки указана на странице.
+Досье на технологические платформы из наших выпусков. В каждом — функции, цифры, сроки, деньги и критика из всех наших источников, со статусом проверки каждой цифры и выводами для Dodo. Дата последней сверки указана на странице.
+
+**Платформы сетей**
 
 <ul class="garden-list garden-list--compact">
 
@@ -835,9 +837,63 @@ Yum! продаёт Pizza Hut за \$2,7 млрд — крупнейшая M&A-�
 </li>
 
 <li class="garden-list-item">
+<span class="garden-list-icon">🌮</span>
+
+[Byte by Yum! · собственная платформа KFC, Taco Bell и Pizza Hut](platforms/byte-by-yum) — 38 000 ресторанов, AI-коуч управляющего, кухня в связке с курьером; после продажи Pizza Hut — первый внешний клиент
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">☕</span>
+
+[Starbucks · Smart Queue, ассистент бариста и свёрнутая AI-инвентаризация](platforms/starbucks-tech) — очередь из всех каналов и стандарт «4-4-12», ассистент на iPad и разбор провала AI-учёта на 11 000 кофейнях
+
+</li>
+
+</ul>
+
+**Вендоры для ресторанов**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🍞</span>
+
+[Toast IQ · AI-агенты поверх ресторанной кассы](platforms/toast) — 180 000 точек, маркетинговый агент за \$499 в месяц, свой экспериментальный ресторан и ставка на пиццерии
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🧩</span>
+
+[PAR · единая платформа для сетей и профиль гостя Guest360](platforms/par) — касса, бэк-офис и лояльность Punchh у Burger King и Papa Johns; профиль гостя без вступления в лояльность
+
+</li>
+
+</ul>
+
+**Агрегаторы и новые модели**
+
+<ul class="garden-list garden-list--compact">
+
+<li class="garden-list-item">
 <span class="garden-list-icon">🔗</span>
 
 [DashOS · платформа роста ресторанов от DoorDash](platforms/dashos) — один профиль гостя в доставке, прямом заказе, бронях и лояльности на базе SevenRooms; следующие — Wolt и Deliveroo
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🎙</span>
+
+[Яндекс для ресторанов · ИИ-хостес, голосовые агенты и инструменты Яндекс Еды](platforms/yandex-restaurants) — голосовой агент для броней, конструктор агентов AI Studio, полные цены продвижения и акций; кейсы Додо Пиццы и Дринкит
+
+</li>
+
+<li class="garden-list-item">
+<span class="garden-list-icon">🤖</span>
+
+[Wonder · 30 ресторанов на одной кухне, роботы и своя доставка](platforms/wonder) — кухня на 30 брендов, сборочная линия боулов, AI-генератор ресторанов и дроны; оценка \$9 млрд при убытке около \$618 млн
 
 </li>
 
