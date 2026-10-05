@@ -8,11 +8,11 @@
 
 ## TL;DR — 5 крупнейших событий месяца
 
-1. **🇺🇸⚠️ Pizza Hut франчайзи (Chaac Pizza Northeast, 110 точек NY/NJ/MD/DC/PA) подал иск на $100M против NPC International / Dragontail AI.** Якобы AI dispatch system перевёл delivery time с <30 мин (90% заказов) на >45 мин (50% заказов), NY SSS обвалился с +10% до -9.78% после rollout. Первый громкий operator-backlash на mandated AI стек в QSR. [Fortune](https://fortune.com/2026/05/19/pizza-hut-franchisee-lawsuit-ai-adoption-doordash-delivery-drivers/) · [Restaurant Dive](https://www.restaurantdive.com/news/restaurant-technology-executives-warn-against-ai-overdependence/821024/)
+1. **🇺🇸⚠️ Pizza Hut франчайзи (Chaac Pizza Northeast, 110 точек NY/NJ/MD/DC/PA) подал иск на \$100M против NPC International / Dragontail AI.** Якобы AI dispatch system перевёл delivery time с <30 мин (90% заказов) на >45 мин (50% заказов), NY SSS обвалился с +10% до -9.78% после rollout. Первый громкий operator-backlash на mandated AI стек в QSR. [Fortune](https://fortune.com/2026/05/19/pizza-hut-franchisee-lawsuit-ai-adoption-doordash-delivery-drivers/) · [Restaurant Dive](https://www.restaurantdive.com/news/restaurant-technology-executives-warn-against-ai-overdependence/821024/)
 2. **🇨🇳 Yum China Pizza Hut Q1 2026: SSS-transactions +5% (13-й квартал подряд), OP +18% поверх +27% прошлого года, +100 новых городов за квартал.** Движок — value-стратегия "WOW". KPRO side-by-side (KFC + кофейный модуль) масштабируется 200→280 точек за квартал, +20% uplift к host KFC, target 600 к концу года. Прямо Dodo-релевантный кейс: value-якорь + модульное расширение существующих точек. [Yum China IR Q1](https://yumchinaholdingsinc.gcs-web.com/news-releases/news-release-details/yum-china-reports-first-quarter-2026-results)
 3. **🇯🇵+🌏 Два массовых state/association-backed POS rollout'а в одну неделю.** Saudi Restaurant Association × TabSense → **6000 точек единым AI POS**. NTT Data + NTT Docomo Ventures + Synexia + SECAI MARCHE → **2400 малайзийских F&B + 400 поставщиков** в один DX-стек (procurement + payment), запуск июль 2026. Adi note.com №65 + №66. Новый pattern: государственные/ассоциационные мега-сделки на POS-консолидацию.
-4. **🇺🇸 Toast Q1 2026: ARR $2.2B (+26%), +7000 точек за квартал, AI закрывает ~40% support-обращений, dev velocity +60% AI-assist. Launched Toast IQ Grow — первый AI-агент.** Параллельно — Lightspeed Restaurant AI у 20% target-точек, Restaurant365 запустил R365 AI, Crunchtime — 4 AI-фичи (включая голосовую инвентаризацию 3-4× faster). [Toast Q1 transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/toast-tost-q1-2026-earnings-call-transcript/)
-5. **🇨🇳 Pudu Robotics — $150M раунд при оценке >$1.5B (23 апреля).** Кумулятивно >$300M. 4000+ industrial-delivery ботов за 12 мес. **70% revenue — клининг-роботы** (не доставка). Сервис-бот категория консолидируется вокруг 1-2 победителей (Pudu, KEENON). [PR Newswire](https://www.prnewswire.com/news-releases/pudu-robotics-raises-nearly-usd-150-million-exceeds-usd-1-5-billion-valuation-302751124.html)
+4. **🇺🇸 Toast Q1 2026: ARR \$2.2B (+26%), +7000 точек за квартал, AI закрывает ~40% support-обращений, dev velocity +60% AI-assist. Launched Toast IQ Grow — первый AI-агент.** Параллельно — Lightspeed Restaurant AI у 20% target-точек, Restaurant365 запустил R365 AI, Crunchtime — 4 AI-фичи (включая голосовую инвентаризацию 3-4× faster). [Toast Q1 transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/toast-tost-q1-2026-earnings-call-transcript/)
+5. **🇨🇳 Pudu Robotics — \$150M раунд при оценке >\$1.5B (23 апреля).** Кумулятивно >\$300M. 4000+ industrial-delivery ботов за 12 мес. **70% revenue — клининг-роботы** (не доставка). Сервис-бот категория консолидируется вокруг 1-2 победителей (Pudu, KEENON). [PR Newswire](https://www.prnewswire.com/news-releases/pudu-robotics-raises-nearly-usd-150-million-exceeds-usd-1-5-billion-valuation-302751124.html)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### Domain 5: ERP / POS Platforms
 
-**🇺🇸 Toast IQ Grow + ARR $2.2B (+26%)** — Q1 2026 transcript. Toast стал unified "agent host" платформой: первый AI-агент IQ Grow для оптимизации digital presence, integrated payment + capital + scheduling. +7000 net new locations за квартал, AI resolves 40% support tickets, coding velocity +60% AI-assisted. Партнёрства этого месяца: Preferred Hotels & Resorts Alliance (US/UK/Ireland/Canada properties), The Alinea Group preferred-tech.
+**🇺🇸 Toast IQ Grow + ARR \$2.2B (+26%)** — Q1 2026 transcript. Toast стал unified "agent host" платформой: первый AI-агент IQ Grow для оптимизации digital presence, integrated payment + capital + scheduling. +7000 net new locations за квартал, AI resolves 40% support tickets, coding velocity +60% AI-assisted. Партнёрства этого месяца: Preferred Hotels & Resorts Alliance (US/UK/Ireland/Canada properties), The Alinea Group preferred-tech.
 → **Dodo IS / Platform team**: бенчмарк по AI-агентам внутри POS-платформы. IQ Grow — модель "первый агент на платформе", релевантна Dodo IS roadmap.
 - Источники: [Q1 transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/toast-tost-q1-2026-earnings-call-transcript/) · [SEC 8-K](https://www.sec.gov/Archives/edgar/data/0001650164/000165016426000113/tost-20260331xexhibit991.htm)
 
@@ -40,7 +40,7 @@
 → **SEA market intelligence**: JP enterprise пушит в SEA restaurant DX. Если есть планы по Dodo SEA expansion — это конкурентный landscape.
 - [Adi note №66](https://note.com/hpn571/n/n0ed23737f61a)
 
-**🇺🇸 PAR Q1 2026: ARR $330M (+16%)**, subscription revenue $79M, Engagement Cloud (Punchh CRM) +20%.
+**🇺🇸 PAR Q1 2026: ARR \$330M (+16%)**, subscription revenue \$79M, Engagement Cloud (Punchh CRM) +20%.
 → Сравнить unit economics Punchh vs Dodo CRM решений.
 - [Q1 transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/par-par-q1-2026-earnings-call-transcript/)
 
@@ -60,7 +60,7 @@
 → **Kitchen Experience + Smart Tracking**: дизайн концепции **от целевого wait-time назад** — мощный pattern. Дискуссионный материал для product strategy.
 - [Adi note №58](https://note.com/hpn571/n/n73a915eebc7d)
 
-**🇺🇸💀 Picnic Works shutdown (11 мая)** — pizza-robot стартап (~$50M raised, Seattle) сделал ABC, assets распроданы неназванному buyer'у. **Негативный сигнал** про consumer pizza-robotics scale-up.
+**🇺🇸💀 Picnic Works shutdown (11 мая)** — pizza-robot стартап (~\$50M raised, Seattle) сделал ABC, assets распроданы неназванному buyer'у. **Негативный сигнал** про consumer pizza-robotics scale-up.
 → **Innovation/R&D**: точка калибровки — отдельные prep-station роботы (Bear, ConnectedRobotics) выживают, full-stack pizza robots — нет.
 - [GeekWire](https://www.geekwire.com/2026/robot-pizza-startup-runs-out-of-dough-picnic-shuts-down-sells-assets-to-mystery-buyer/)
 
@@ -105,7 +105,7 @@
 → **B2B Pizza / R&D**: концепт "AI создаёт ресторан за минуту" пока aspirational, но programmable cooking platform — реальная инфраструктура. Watch unit economics.
 - [TechCrunch](https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/)
 
-**🇺🇸💥 Pizza Hut Dragontail AI lawsuit** (см. TL;DR #1) — Chaac Pizza $100M иск с конкретными цифрами регресса. **Самый важный negative-case месяца.**
+**🇺🇸💥 Pizza Hut Dragontail AI lawsuit** (см. TL;DR #1) — Chaac Pizza \$100M иск с конкретными цифрами регресса. **Самый важный negative-case месяца.**
 → **Smart Tracking + dyn_delivery**: argument для **measured rollout** AI dispatch с pre/post-comparison метриками. Не катать AI без A/B и kill-switch'а.
 - [Fortune](https://fortune.com/2026/05/19/pizza-hut-franchisee-lawsuit-ai-adoption-doordash-delivery-drivers/) · [The Register](https://www.theregister.com/ai-ml/2026/05/19/frustrated-franchisee-sues-pizza-hut-over-crappy-kitchen-ai/5242899)
 
@@ -121,7 +121,7 @@
 
 ### Domain 9: AI Agents / Copilots
 
-**🇺🇸 Yum Brands — Byte by Yum (Q1 2026)** — платформа на Nvidia: voice AI + computer vision + analytics. Digital mix **63%**, digital sales ~**$11B**. AI используется для permitting, training, drive-thru.
+**🇺🇸 Yum Brands — Byte by Yum (Q1 2026)** — платформа на Nvidia: voice AI + computer vision + analytics. Digital mix **63%**, digital sales ~**\$11B**. AI используется для permitting, training, drive-thru.
 → **AI Hub direction + Dodo IS architecture**: Byte by Yum — самая зрелая operator-side AI платформа в QSR. Стоит изучить их IR-decks по архитектуре.
 - [Insider Monkey transcript](https://www.insidermonkey.com/blog/yum-brands-inc-nyseyum-q1-2026-earnings-call-transcript-1751040/)
 
@@ -218,8 +218,8 @@
 ## 📋 Средний сигнал — почитать на досуге
 
 - **🇺🇸 Domino's Q1 2026 (27 апреля)**: US SSS +0.9% (miss), DPZ -7.4% после report, guidance trimmed. **DomOS just-in-time pizza + AI tracker** идёт по плану. _Прямой Dodo peer; full transcript стоит личного чтения._ [Transcript](https://www.fool.com/earnings/call-transcripts/2026/04/27/dominos-dpz-q1-2026-earnings-transcript/)
-- **🇺🇸 McDonald's Q1 2026**: revenue $6.5B +12%, EPS $2.83, global SSS +3.8%. Margin compression 55.9% от US labor + value menu. [CNBC](https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html)
-- **🇨🇳 Luckin Coffee Q1 2026 (29 апреля)**: ¥12.0B revenue +35.3%, MAU 93.1M, 2548 net new stores (incl **13 Malaysia, 1 SG, 3 US**). First-ever $300M buyback. _SEA-expansion sigal._ [SEC 6-K](https://www.sec.gov/Archives/edgar/data/0001767582/000110465926050790/tm2612798d1_ex99-1.htm)
+- **🇺🇸 McDonald's Q1 2026**: revenue \$6.5B +12%, EPS \$2.83, global SSS +3.8%. Margin compression 55.9% от US labor + value menu. [CNBC](https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html)
+- **🇨🇳 Luckin Coffee Q1 2026 (29 апреля)**: ¥12.0B revenue +35.3%, MAU 93.1M, 2548 net new stores (incl **13 Malaysia, 1 SG, 3 US**). First-ever \$300M buyback. _SEA-expansion sigal._ [SEC 6-K](https://www.sec.gov/Archives/edgar/data/0001767582/000110465926050790/tm2612798d1_ex99-1.htm)
 - **🇯🇵 Zensho HD FY26**: OP ¥81.4B +8.4%, revenue ¥1.264T +11.2%. Hamazushi SSS +15.5% тянет всю группу.
 - **🇯🇵 Osho Food Service FY26**: revenue +5.2% но OP **-4.5%** (labor + commodity outpace pricing). **Counter-example к "AI = margin"** — IT инвестиции пока не вытянули productivity.
 - **🇯🇵 Skylark BellaBot deployment** — крупнейший global single-операторский робот-fleet (Pudu case study).
@@ -235,10 +235,10 @@
 
 ## 👀 Watching — без action
 
-- 🇸🇬 Future Fit Asia 2026 (12-13 мая Singapore) — APAC food/biotech start-up gala, $90k Grantham Detox Awards. Adjacent.
+- 🇸🇬 Future Fit Asia 2026 (12-13 мая Singapore) — APAC food/biotech start-up gala, \$90k Grantham Detox Awards. Adjacent.
 - 🇨🇦 Cotti Coffee expansion в US (Santa Monica spotted) — Luckin копи-кэт растёт глобально.
-- 🇨🇳 CHAGEE Nasdaq IPO ($6.2B valuation, 208 SEA+US точек) — bubble tea масштабирование как сегмент.
-- 🇺🇸 Brita Rosenheim reshare: Afresh $34M grocery AI ($200M+ lbs waste prevented, 70% YoY) — grocery AI category validated.
+- 🇨🇳 CHAGEE Nasdaq IPO (\$6.2B valuation, 208 SEA+US точек) — bubble tea масштабирование как сегмент.
+- 🇺🇸 Brita Rosenheim reshare: Afresh \$34M grocery AI (\$200M+ lbs waste prevented, 70% YoY) — grocery AI category validated.
 - 🇮🇹/🇪🇸 The Spoon — Bilbao Food 4 Future / Expo FoodTech 2026 attended, Taco Bell restaurant of the future episodes.
 - 🇯🇵 TechMagic stir-fry I-Robo 2 — продолжающийся deployment с января, no new update в окне.
 
@@ -259,7 +259,7 @@
 | Luckin SEC 6-K | CN | ✅ (via SEC) | Q1 2026 transcript |
 | Yum China IR + Motley Fool transcript | CN | ✅ | Q1 2026 + KPRO data |
 | Mixue FY25 (China Daily + The Star) | CN | ✅ | annual report data |
-| Pudu Robotics (PR Newswire + Robot Report) | CN | ✅ | $150M раунд detail |
+| Pudu Robotics (PR Newswire + Robot Report) | CN | ✅ | \$150M раунд detail |
 | Caixin Global | CN | ⚠️ paywall | 1 free article (Meituan Brazil) |
 | LinkedIn — Brita Rosenheim | US | ✅ | 1 in-window post (Afresh repost) |
 | LinkedIn — Michael Wolf | US | ✅ | 1 in-window post (Food AI Co-Lab) |

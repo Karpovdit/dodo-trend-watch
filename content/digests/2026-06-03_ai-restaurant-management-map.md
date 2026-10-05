@@ -17,7 +17,7 @@ title: "Тематический разбор · AI в управлении ре
 - Источники: [Mike Gordon LinkedIn пост про McDonald's edge](https://www.linkedin.com/posts/mike-gordon-2021209_mcdonalds-worldwide2026-technology-activity-7467288107588173824-3Qbf), [Restaurant Dive — McDonald's NEXT](https://www.restaurantdive.com/news/mcdonalds-next-strategy-growth-productivity/821684/)
 
 ### Toast IQ — agentic AI кейс с конкретным ROI
-- *«$4 000 экономии на труде на ресторан + 8% спайки продаж + self-reconciling books»*.
+- *«\$4 000 экономии на труде на ресторан + 8% спайки продаж + self-reconciling books»*.
 - The Future of Tech Is Agentic — Walchef Substack как описание тренда.
 - Источник: [Walchef Substack: The Future of Tech Is Agentic](https://restauranttechnology.substack.com/p/the-future-of-tech-is-agentic-how)
 
@@ -89,7 +89,7 @@ title: "Тематический разбор · AI в управлении ре
 
 ### Старостин — vibe-coding в маркетинге HoReCa
 - *«Как нейронки спасли ларёк шаурмы от банкротства»* — ребрендинг шаурмичной в Новосибирске за 3 месяца через AI-инструменты (регламенты, рецепты, ТТК, упаковка, фасад).
-- Ищет тестировщика: *«Claude Code за $200 и токены — без ограничений»* — малый ресторанный бизнес выдаёт Claude Code сотрудникам как стандартный инструмент.
+- Ищет тестировщика: *«Claude Code за \$200 и токены — без ограничений»* — малый ресторанный бизнес выдаёт Claude Code сотрудникам как стандартный инструмент.
 - Источники: [@starostin_creator 11.05 — шаурмичная](https://t.me/starostin_creator/2759), [@starostin_creator 05.05 — Claude Code для сотрудников](https://t.me/starostin_creator/2756)
 
 ### restserov — ChatGPT в SMM-маркетинге HoReCa
@@ -132,10 +132,10 @@ title: "Тематический разбор · AI в управлении ре
 ## 💥 Кейсы провала / отката (важный контр-нарратив)
 
 ### Picnic — pizza-robot стартап закрылся
-- $53M инвестиций, партнёрство с Domino's. Закрылся.
+- \$53M инвестиций, партнёрство с Domino's. Закрылся.
 - Источник: [AgFunderNews](https://agfundernews.com/agrifood-signals-elbit-acquires-bluewhite-more-funding-for-virtual-fencing-anheuser-busch-awards-80k-grant), [@data_fish](https://t.me/data_fish/1654)
 
-### Zume Pizza — ранее закрылся, ~$500M потрачено
+### Zume Pizza — ранее закрылся, ~\$500M потрачено
 - Pure-play pizza-robotics экономически не выживает (вместе с Picnic — двойной сигнал).
 
 ### Starbucks pulled back AI inventory tool ⭐ (мощный proof-point)
@@ -164,7 +164,7 @@ title: "Тематический разбор · AI в управлении ре
 
 ## 🤖 Drone delivery + кухонная робототехника (другие форматы)
 
-### Matternet — drone-delivery поднял $33M, вышел на биржу
+### Matternet — drone-delivery поднял \$33M, вышел на биржу
 - Approval to operate in UK + reverse merger + строка партнёрств. Сейчас идёт на agressive scaling.
 - Источники: [FastCasual](https://www.fastcasual.com/news/matternet-raises-33m-goes-public-to-expand-restaurant-drone-delivery/), [Food On Demand](https://foodondemand.com/06022026/matternet-ceo-gives-birds-eye-view-of-aggressive-scaling-strategy/)
 
@@ -190,7 +190,7 @@ title: "Тематический разбор · AI в управлении ре
 - 🔒 Источник: [Expedite — vibe-coded reservation agent](https://www.expedite.news/p/i-vibe-coded-a-personal-restaurant)
 
 ### Anthropic строит «AI-аналог McKinsey»
-- $1.5B JV с Blackstone, Hellman & Friedman, Goldman Sachs. Anthropic перестраивается из API-провайдера в AI-консалтинговую компанию.
+- \$1.5B JV с Blackstone, Hellman & Friedman, Goldman Sachs. Anthropic перестраивается из API-провайдера в AI-консалтинговую компанию.
 - Источник: [@kgrbnv 08.05](https://t.me/kgrbnv/1145)
 
 ### a16z: *«AI Job Apocalypse — это полная фантастика»*

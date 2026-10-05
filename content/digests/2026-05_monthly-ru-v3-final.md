@@ -6,7 +6,7 @@
 
 Месяц прошёл под тремя темами одновременно:
 
-1. **AI прошёл переломную точку — теперь не «когда внедрим», а «как не сломать операционку».** Иск на $100 млн против Pizza Hut за AI-диспетчер, отзыв системы инвентаризации Starbucks и публичная цифра «73 % инвестируют в AI, 9 % видят эффект» — три материала одной недели, сформировавшие новый отраслевой нарратив.
+1. **AI прошёл переломную точку — теперь не «когда внедрим», а «как не сломать операционку».** Иск на \$100 млн против Pizza Hut за AI-диспетчер, отзыв системы инвентаризации Starbucks и публичная цифра «73 % инвестируют в AI, 9 % видят эффект» — три материала одной недели, сформировавшие новый отраслевой нарратив.
 2. **Mid-market консолидируется быстрее ожидаемого.** Мюнхенский allO поднял €12 млн, в его совете директоров — бывший продуктовый директор Toast и бывший управляющий Vapiano. В США Compass Coffee ушёл в Chapter 11, Blue Bottle перешёл от Nestlé к китайскому Centurium (владелец Luckin), Joe & The Juice готовит IPO.
 3. **Публичные QSR-компании показали смешанный квартал.** Pizza Hut China — 13-й квартал подряд роста, Chipotle разворачивает новый Kitchen Display, Toast добавил AI-агентов в платформу. Но Domino's промахнулся по US comps (акция −7,4 % после отчёта), McDonald's под давлением маржи.
 
@@ -22,9 +22,9 @@
 >
 > «За время работы CFO в Momofuku я искала инструменты, которых не было. **Большинство ресторанного софта — плохое.** Cancan Liu, Teodor Rupi и Benedikt von Lewinski — другие. Они строят POS будущего.»
 
-**Pudu Robotics — $150 млн при оценке $1,5 млрд** (23 апреля). Источники: [PR Newswire](https://www.prnewswire.com/news-releases/pudu-robotics-raises-nearly-usd-150-million-exceeds-usd-1-5-billion-valuation-302751124.html), [The Robot Report](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/). Кумулятивно >$300 млн. **70 % выручки — клининг-роботы**, не доставка. Сервис-роботный сегмент консолидируется вокруг 1–2 победителей.
+**Pudu Robotics — \$150 млн при оценке \$1,5 млрд** (23 апреля). Источники: [PR Newswire](https://www.prnewswire.com/news-releases/pudu-robotics-raises-nearly-usd-150-million-exceeds-usd-1-5-billion-valuation-302751124.html), [The Robot Report](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/). Кумулятивно >\$300 млн. **70 % выручки — клининг-роботы**, не доставка. Сервис-роботный сегмент консолидируется вокруг 1–2 победителей.
 
-**Botrista — Серия C на $120 млн+** под предводительством Jollibee Foods. DrinkBot делает специальные холодные напитки (boba, cold brew, smoothies) **за ~20 секунд без подготовленного бариста**. Прямое пересечение с меню Drinkit. Источник — [Section C в нашем beverage-скаут разборе](../regions/beverage-vertical.md).
+**Botrista — Серия C на \$120 млн+** под предводительством Jollibee Foods. DrinkBot делает специальные холодные напитки (boba, cold brew, smoothies) **за ~20 секунд без подготовленного бариста**. Прямое пересечение с меню Drinkit. Источник — [Section C в нашем beverage-скаут разборе](../regions/beverage-vertical.md).
 
 **Blue Bottle Coffee перешёл от Nestlé к Centurium Capital** (март 2026) — это та же китайская группа, что владеет Luckin Coffee (41 000+ точек). Источник — Section D §l в [beverage scout](../regions/beverage-vertical.md). **Главный американский premium-кофейный конкурент теперь финансируется капиталом с экспертизой масштабирования.**
 
@@ -74,9 +74,9 @@
 
 > Если у Dodo есть планы по экспансии в Саудовской Аравии — Maestro Pizza нужно изучить **до** принятия решений о позиционировании и ценообразовании.
 
-### Иск на $100 млн против Pizza Hut — главное предостережение
+### Иск на \$100 млн против Pizza Hut — главное предостережение
 
-**Что произошло.** Франчайзи Chaac Pizza Northeast (110 точек в Нью-Йорке, Нью-Джерси, Мэриленде, Вашингтоне, Пенсильвании) подал иск на **$100 млн** против Yum! Brands и системы Dragontail AI.
+**Что произошло.** Франчайзи Chaac Pizza Northeast (110 точек в Нью-Йорке, Нью-Джерси, Мэриленде, Вашингтоне, Пенсильвании) подал иск на **\$100 млн** против Yum! Brands и системы Dragontail AI.
 
 Аргумент истца — приведён в [Fortune от 19 мая](https://fortune.com/2026/05/19/pizza-hut-franchisee-lawsuit-ai-adoption-doordash-delivery-drivers/), [Restaurant Dive от 27 мая](https://www.restaurantdive.com/news/restaurant-technology-executives-warn-against-ai-overdependence/821024/) и [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/pizza-huts-ai-delivery-system-cooks-up-usd100-million-franchisee-lawsuit-deliveries-allegedly-shot-from-under-30-minutes-to-over-45-under-new-system):
 
@@ -86,7 +86,7 @@
 
 Хронология (по разбору Брайана Дека, CEO Smooth Commerce — [его пост в LinkedIn от 23 мая](https://www.linkedin.com/in/briandeck)):
 
-- Сентябрь 2021 — Yum! Brands купил Dragontail Systems за **$72 млн**
+- Сентябрь 2021 — Yum! Brands купил Dragontail Systems за **\$72 млн**
 - 2024 — Yum! сделал развёртывание обязательным для всех Pizza Hut франчайзи
 - 2026 — иск Chaac Pizza Northeast
 
@@ -96,7 +96,7 @@
 
 Анандхи Дукарам, глобальный AI-стратег, поместила этот сюжет в более широкий нарратив — [её пост в LinkedIn от 26 мая](https://www.linkedin.com/in/anandhi-dhukaram):
 
-> «AI больше не падает в экспериментах. Он падает внутри живых бизнес-систем. На этой неделе: Starbucks отозвал систему AI-инвентаризации после операционных сбоев. Pizza Hut столкнулся с иском на $100 млн за AI-доставку. Медицинские исследователи предупредили об AI-устройствах, которые могут не работать на реальных пациентах.»
+> «AI больше не падает в экспериментах. Он падает внутри живых бизнес-систем. На этой неделе: Starbucks отозвал систему AI-инвентаризации после операционных сбоев. Pizza Hut столкнулся с иском на \$100 млн за AI-доставку. Медицинские исследователи предупредили об AI-устройствах, которые могут не работать на реальных пациентах.»
 
 **Что это значит для Dodo Smart Tracking.** Развёртывание AI-диспетчера должно включать обязательное A/B-тестирование на ограниченной зоне до полного rollout, сравнение метрик «до/после» с встроенным kill-switch, запрет на mandated одношаговое развёртывание.
 
@@ -118,7 +118,7 @@
 
 Подача — 29 апреля. [Расшифровка на Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/29/chipotle-cmg-q1-2026-earnings-transcript/).
 
-- Выручка $3,09 млрд (+7,4 %)
+- Выручка \$3,09 млрд (+7,4 %)
 - Операционная маржа упала с 16,7 % до 12,9 %
 
 Что внедрили операционно:
@@ -169,7 +169,7 @@
 3. **Compass Coffee Chapter 11 → Caffè Nero** — кейс провала на дорогой аренде
 4. **Dutch Bros (NYSE: BROS) — 830+ точек drive-thru** — публичная компания с детализированной квартальной разбивкой drive-thru-only экономики
 
-Главный для бенчмаркинга — **CHAGEE (Nasdaq: CHA)** — IPO в апреле 2026 при оценке **$6,2 млрд**, 208 точек в Юго-Восточной Азии и США. Их проспект IPO — MBA-уровня разбор экономики bubble tea при масштабе.
+Главный для бенчмаркинга — **CHAGEE (Nasdaq: CHA)** — IPO в апреле 2026 при оценке **\$6,2 млрд**, 208 точек в Юго-Восточной Азии и США. Их проспект IPO — MBA-уровня разбор экономики bubble tea при масштабе.
 
 Все источники по теме — в [scout по beverage-вертикали](../regions/beverage-vertical.md), разделы A и D.
 
@@ -211,19 +211,19 @@
 ### POS-платформы и AI-агенты на платформе
 
 **Toast Q1 2026** ([транскрипт Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/07/toast-tost-q1-2026-earnings-call-transcript/)):
-- ARR $2,2 млрд (**+26 %**)
+- ARR \$2,2 млрд (**+26 %**)
 - **+7 000 новых точек** за квартал
 - AI закрывает **~40 % support-обращений**
 - Скорость разработки выросла на **60 %** благодаря AI-инструментам
 - Запустили **Toast IQ Grow** — первого AI-агента на платформе
 
 **PAR Technology Q1 2026**:
-- Выручка $124 млн (+19 %)
-- ARR $330 млн (+16 %)
+- Выручка \$124 млн (+19 %)
+- ARR \$330 млн (+16 %)
 - Engagement Cloud (Punchh CRM) +20 %
 
 **Lightspeed Q4 FY26** ([транскрипт Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/21/lightspeed-lspd-q4-2026-earnings-transcript/)):
-- Выручка $290,8 млн (+15 %)
+- Выручка \$290,8 млн (+15 %)
 - Restaurant/EU hospitality engine: +24 % выручки, +19 % GTV
 - **30 % ресторанных клиентов адаптировали Lightspeed Pulse**
 - **20 % target-точек уже на Lightspeed Restaurant AI** — серьёзное проникновение AI-стека в SMB-сегменте Европы
@@ -250,7 +250,7 @@
 
 **Bear Robotics** на NRA Show 2026 представил **«full hospitality ecosystem»** (16 мая). Источник — [Bear Robotics blog](https://www.bearrobotics.ai/blog/bear-robotics-unveils-full-hospitality-ecosystem-at-national-restaurant-association-show-2026). Новые продукты Servi Q (compact) и Servi Plus (high capacity) + floor cleaning. Pudu/KEENON получают серьёзного US-конкурента.
 
-**Picnic Works** (Сиэтл, pizza-robot стартап, ~$50 млн привлечено) ушёл в shutdown 11 мая. Источник — [GeekWire](https://www.geekwire.com/2026/robot-pizza-startup-runs-out-of-dough-picnic-shuts-down-sells-assets-to-mystery-buyer/). Отрицательный сигнал по полно-стек pizza-роботам.
+**Picnic Works** (Сиэтл, pizza-robot стартап, ~\$50 млн привлечено) ушёл в shutdown 11 мая. Источник — [GeekWire](https://www.geekwire.com/2026/robot-pizza-startup-runs-out-of-dough-picnic-shuts-down-sells-assets-to-mystery-buyer/). Отрицательный сигнал по полно-стек pizza-роботам.
 
 ### AI для генерации ресторанных брендов
 
@@ -276,7 +276,7 @@
 - Выручка **¥12 млрд (+35,3 %)**
 - Активных пользователей **93 миллиона**
 - +2 548 новых точек за квартал, включая 13 в Малайзии и 1 в Сингапуре
-- **Первый в истории компании buyback на $300 млн**
+- **Первый в истории компании buyback на \$300 млн**
 
 ### Япония
 
@@ -290,13 +290,13 @@
 ### США — публичные QSR
 
 **McDonald's Q1 2026** ([CNBC](https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html)):
-- Выручка $6,5 млрд (+12 %)
+- Выручка \$6,5 млрд (+12 %)
 - Глобальные сравнимые продажи +3,8 %
 - Маржа под давлением — 55,9 % (рост американской зарплаты + value menu)
 
 **Yum! Brands Q1 2026** ([транскрипт Insider Monkey](https://www.insidermonkey.com/blog/yum-brands-inc-nyseyum-q1-2026-earnings-call-transcript-1751040/)):
 - Запущена платформа **Byte by Yum** на инфраструктуре Nvidia: voice AI + computer vision + аналитика
-- Цифровая доля **63 %**, цифровые продажи **~$11 млрд** в год
+- Цифровая доля **63 %**, цифровые продажи **~\$11 млрд** в год
 - AI используется для permitting, тренинга, drive-thru
 
 **DoorDash AI merchant suite** (4 мая) — Self-Serve Onboarding (35 % быстрее активация), AI photo modes (Retouch/Replate/Match the Style), Video Library, AI website builder, AI marketing campaigns. Источник — [DoorDash newsroom](https://about.doordash.com/en-us/news/ai-powered-merchant-tools).

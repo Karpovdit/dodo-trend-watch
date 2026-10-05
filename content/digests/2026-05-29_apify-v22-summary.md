@@ -1,11 +1,11 @@
 # Apify v2.2 Filter Summary — 230 items из 290
 
-> Сводка после фильтр v2.2. Данные: Apify preset-weekly (7 keyword searches), 28 апреля – 28 мая 2026 окно. Cost: $0.30. Источник: `digests/raw/2026-05-29_apify-filtered-v22.md`.
+> Сводка после фильтр v2.2. Данные: Apify preset-weekly (7 keyword searches), 28 апреля – 28 мая 2026 окно. Cost: \$0.30. Источник: `digests/raw/2026-05-29_apify-filtered-v22.md`.
 
 ## TL;DR
 
 3 главных сюжета в LinkedIn discourse за последнюю неделю:
-1. **allO $14M Series A** усиленно обсуждается в EU foodtech community — minimum 5 voices repost/анализируют, включая Munich M&A scouts
+1. **allO \$14M Series A** усиленно обсуждается в EU foodtech community — minimum 5 voices repost/анализируют, включая Munich M&A scouts
 2. **Pizza Hut / Starbucks AI failures как twin alarm bell** — operator backlash формируется в реальный narrative
 3. **«AI должен меньше hype, больше honesty»** — emerging operator-side тезис от опытных hospitality consultants
 
@@ -14,7 +14,7 @@
 ### Pizza Hut Dragontail — detailed teardown (Brian Deck, Chair & CEO Smooth Commerce)
 
 Полный историко-стратегический разбор:
-- Yum! acquired **Dragontail Systems за $72M в сентябре 2021**
+- Yum! acquired **Dragontail Systems за \$72M в сентябре 2021**
 - Promise was «super manager» алгоритм оптимизирующий kitchen flow
 - Chaac Pizza Northeast иск **не за malfunction** — система работала **как спроектирована**
 - **Это и есть пугающая часть** — Dragontail заглядывал в kitchen queues и переводил DoorDash courier'ам visibility
@@ -130,8 +130,8 @@ Filter ещё пропускает несколько noise patterns котор�
 
 | Topic | Why hot | Action |
 |---|---|---|
-| Pizza Hut Dragontail aftermath | $100M lawsuit + Yum! original Dragontail acquisition ($72M 2021) теперь видится по-другому | Long-form read в Restaurant Dive + Brian Deck thread |
-| allO $14M Series A | EU consolidation event недели | [Scout already done](../scouts/2026-05-29_allo-deepdive.md) — DE country lead handoff |
+| Pizza Hut Dragontail aftermath | \$100M lawsuit + Yum! original Dragontail acquisition (\$72M 2021) теперь видится по-другому | Long-form read в Restaurant Dive + Brian Deck thread |
+| allO \$14M Series A | EU consolidation event недели | [Scout already done](../scouts/2026-05-29_allo-deepdive.md) — DE country lead handoff |
 | Starbucks AI inventory withdrawal | Twin to Pizza Hut в operator-narrative | Find root cause article (PYMNTS preview) |
 | NRA Show 2026 echo | Multiple posts still recap'ят MURTEC findings | Joseph Tripodi tracking «menu trends + kitchen tech» |
 

@@ -12,7 +12,7 @@
 
 - **[2026-06-03]** [SaaStr cracked autonomous sales by deploying AI on lost leads](https://www.techinasia.com/saastr-cracked-autonomous-sales-unleashing-ai-lost-leads)
 - **[2026-06-03]** [Alibaba opens Qwen app to third-party AI agents](https://www.techinasia.com/alibaba-previews-new-qwen-ai-models-before-launch)
-- **[2026-06-03]** [UAE autonomous delivery startup CargoX raises $250m](https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability)
+- **[2026-06-03]** [UAE autonomous delivery startup CargoX raises \$250m](https://www.techinasia.com/endowus-ceo-gregory-van-optimistic-profitability)
 
 ### Asia Tech (TechNode)
 
@@ -136,7 +136,7 @@
 
 ### Eater
 
-- **[2026-05-27]** [I Tried Erewhon’s New $15,000-a-Year VIP Membership for a Month](https://www.eater.com/groceries-retail/964871/erewhon-reserve-membership-perks)
+- **[2026-05-27]** [I Tried Erewhon’s New \$15,000-a-Year VIP Membership for a Month](https://www.eater.com/groceries-retail/964871/erewhon-reserve-membership-perks)
 - **[2026-05-20]** [Where to Eat in Chicago, From Touchdown to Takeoff](https://www.eater.com/ad/maps/where-to-eat-in-chicago-for-the-james-beard-awards)
 - **[2026-05-20]** [How a Sliding-Scale, Worker-Owned Sandwich Shop Makes It Work](https://www.eater.com/pre-shift/962846/sea-soil-coop-sandwiches-sliding-scale-pre-shift)
 

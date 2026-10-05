@@ -11,9 +11,9 @@ title: "Дайджест за май 2026 · фокус на технологи�
 
 ## 🔥 Топ-10 технологических инсайтов месяца
 
-### 1. AI впервые публично сломался в продуктиве — иск на $100 млн против Pizza Hut
+### 1. AI впервые публично сломался в продуктиве — иск на \$100 млн против Pizza Hut
 
-Главный сюжет месяца и новый отраслевой нарратив. Yum! Brands купил Dragontail Systems в 2021 за **$72 млн**, в 2024 сделал развёртывание обязательным для всех Pizza Hut франчайзи. У Chaac Pizza Northeast (110 точек в NY/NJ/MD/DC/PA):
+Главный сюжет месяца и новый отраслевой нарратив. Yum! Brands купил Dragontail Systems в 2021 за **\$72 млн**, в 2024 сделал развёртывание обязательным для всех Pizza Hut франчайзи. У Chaac Pizza Northeast (110 точек в NY/NJ/MD/DC/PA):
 
 - До: 90 % заказов доставлялись быстрее 30 минут
 - После: 50 % заказов превысили 45 минут
@@ -47,7 +47,7 @@ title: "Дайджест за май 2026 · фокус на технологи�
 
 Q1 2026 Toast ([транскрипт Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/07/toast-tost-q1-2026-earnings-call-transcript/)):
 
-- ARR **$2,2 млрд (+26 %)**, **+7 000 новых точек** за квартал
+- ARR **\$2,2 млрд (+26 %)**, **+7 000 новых точек** за квартал
 - **AI закрывает ~40 % support-обращений**
 - **Скорость разработки выросла на 60 %** благодаря AI-tooling
 - Запустили **Toast IQ Grow** — первого AI-агента на POS-платформе
@@ -66,9 +66,9 @@ Q1 2026 Toast ([транскрипт Motley Fool](https://www.fool.com/earnings/
 
 ### 7. Botrista DrinkBot — специальные напитки за 20 секунд без бариста
 
-**Series C июль 2024 под Jollibee Foods Corp — общее накоплено $120M** ($4M seed 2020 → $10M Series A 2021 → $55M Series B 2022 → Series C под Jollibee). Источники: [PR Newswire официальный пресс-релиз](https://www.prnewswire.com/news-releases/botrista-reaches-120-million-in-total-fundraising-enhances-beverage-ai-tools-302198163.html), [Restaurant Business Online](https://www.restaurantbusinessonline.com/technology/automated-beverage-system-botrista-lands-investment-jollibee-foods), [The Spoon — DaaS model analysis](https://thespoon.tech/will-botristas-free-drinkbot-model-accelerate-restaurant-robot-adoption/).
+**Series C июль 2024 под Jollibee Foods Corp — общее накоплено \$120M** (\$4M seed 2020 → \$10M Series A 2021 → \$55M Series B 2022 → Series C под Jollibee). Источники: [PR Newswire официальный пресс-релиз](https://www.prnewswire.com/news-releases/botrista-reaches-120-million-in-total-fundraising-enhances-beverage-ai-tools-302198163.html), [Restaurant Business Online](https://www.restaurantbusinessonline.com/technology/automated-beverage-system-botrista-lands-investment-jollibee-foods), [The Spoon — DaaS model analysis](https://thespoon.tech/will-botristas-free-drinkbot-model-accelerate-restaurant-robot-adoption/).
 
-DrinkBot делает специальные холодные напитки (boba, cold brew, smoothies) **за 12–20 секунд** через 14 dispensing nozzles + honeycomb blender. **DaaS-модель: hardware $0, $1,40–1,90 per drink, ROI 4–7 месяцев.** Клиенты — Halal Guys (план на все 91 точку), Ike's Love & Sandwiches (65), Bonchon, кампусы UC Berkeley/Johns Hopkins/Vanderbilt/UCLA. 6 000+ locations signed в 42 штатах США + Canada/Australia/Asia.
+DrinkBot делает специальные холодные напитки (boba, cold brew, smoothies) **за 12–20 секунд** через 14 dispensing nozzles + honeycomb blender. **DaaS-модель: hardware \$0, \$1,40–1,90 per drink, ROI 4–7 месяцев.** Клиенты — Halal Guys (план на все 91 точку), Ike's Love & Sandwiches (65), Bonchon, кампусы UC Berkeley/Johns Hopkins/Vanderbilt/UCLA. 6 000+ locations signed в 42 штатах США + Canada/Australia/Asia.
 
 **→ Drinkit / технологический стек:** прямое пересечение меню. Подробный разбор с unit economics, рисками и planом действий — [Botrista deep-dive scout от 2026-05-29](../scouts/2026-05-29_botrista-deepdive.md).
 
@@ -78,7 +78,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 
 ### 9. TabSense × Restaurant and Cafes Owner Association — 6 000 точек AI-POS в Саудовской Аравии
 
-**Соглашение между TabSense (саудовский AI-native POS-стартап, $5M Series A в 2025) и Restaurant and Cafes Owner Association (RCOA) на развёртывание AI-POS платформы на 6 000 точек участников ассоциации** — крупнейшее единичное AI-POS развёртывание в мире на текущий момент. Платформа называется **POI (Point of Intelligence)** — AI встроен в ядро, а не добавлен сверху: predictive analytics, automated inventory control, pattern-based fraud detection. Источники: [Yahoo Finance / Verdict Foodservice](https://finance.yahoo.com/sectors/technology/articles/saudi-restaurant-body-selects-tabsense-145017930.html), [Zawya — официальный пресс-релиз](https://www.zawya.com/en/press-release/companies-news/restaurant-and-cafes-owner-association-partners-with-tabsense-to-deploy-ai-native-pos-systems-across-6-000-member-establishments-sk58u7tn), [TabSense funding context](https://arabfounders.net/en/tabsense-ai-pos-funding-saudi/).
+**Соглашение между TabSense (саудовский AI-native POS-стартап, \$5M Series A в 2025) и Restaurant and Cafes Owner Association (RCOA) на развёртывание AI-POS платформы на 6 000 точек участников ассоциации** — крупнейшее единичное AI-POS развёртывание в мире на текущий момент. Платформа называется **POI (Point of Intelligence)** — AI встроен в ядро, а не добавлен сверху: predictive analytics, automated inventory control, pattern-based fraud detection. Источники: [Yahoo Finance / Verdict Foodservice](https://finance.yahoo.com/sectors/technology/articles/saudi-restaurant-body-selects-tabsense-145017930.html), [Zawya — официальный пресс-релиз](https://www.zawya.com/en/press-release/companies-news/restaurant-and-cafes-owner-association-partners-with-tabsense-to-deploy-ai-native-pos-systems-across-6-000-member-establishments-sk58u7tn), [TabSense funding context](https://arabfounders.net/en/tabsense-ai-pos-funding-saudi/).
 
 > ⚠️ Важно: TabSense **не равно Foodics**. Это две разные саудовские POS-компании. Foodics — более крупный «классический» вендор; TabSense — agentic-AI-startup founded в 2024.
 
@@ -96,9 +96,9 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 
 **Сигнал «AI наступает»:** Marc Lore (CEO Wonder) на WSJ Future of Everything представил **Wonder Create** — AI генерирует **новый ресторанный бренд (название, брендинг, меню, цены, health info, фотографии) за <1 минуту** на programmable cooking platform Wonder. Источники — [TechCrunch от 5 мая](https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/), [PYMNTS](https://www.pymnts.com/restaurant-technology/2026/wonder-develops-ai-and-infrastructure-to-automate-restaurant-launches/). Wonder — 120 точек, цель 400 в 2026, 1000 к 2035.
 
-**Сигнал «роботы отступают»:** **Picnic Works** (Сиэтл, pizza-робот стартап, ~$50M привлечено) ушёл в shutdown 11 мая ([GeekWire](https://www.geekwire.com/2026/robot-pizza-startup-runs-out-of-dough-picnic-shuts-down-sells-assets-to-mystery-buyer/)). Отрицательный сигнал по полно-стек pizza-роботам.
+**Сигнал «роботы отступают»:** **Picnic Works** (Сиэтл, pizza-робот стартап, ~\$50M привлечено) ушёл в shutdown 11 мая ([GeekWire](https://www.geekwire.com/2026/robot-pizza-startup-runs-out-of-dough-picnic-shuts-down-sells-assets-to-mystery-buyer/)). Отрицательный сигнал по полно-стек pizza-роботам.
 
-Параллельно **Pudu Robotics — $150 млн при оценке $1,5 млрд**, но **70 % выручки — клининг-роботы**, не доставка ([PR Newswire](https://www.prnewswire.com/news-releases/pudu-robotics-raises-nearly-usd-150-million-exceeds-usd-1-5-billion-valuation-302751124.html), [The Robot Report](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)). Сервис-роботы сегментируются: клининг — да, food prep — пока нет.
+Параллельно **Pudu Robotics — \$150 млн при оценке \$1,5 млрд**, но **70 % выручки — клининг-роботы**, не доставка ([PR Newswire](https://www.prnewswire.com/news-releases/pudu-robotics-raises-nearly-usd-150-million-exceeds-usd-1-5-billion-valuation-302751124.html), [The Robot Report](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)). Сервис-роботы сегментируются: клининг — да, food prep — пока нет.
 
 ---
 
@@ -129,11 +129,11 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 
 **Deliverect AI запущен 11 апреля.** [Jelte Vrijhoef (Co-Founder/CPO Deliverect)](https://www.linkedin.com/posts/jelte-vrijhoef_restauranttech-ai-hospitality-ugcPost-7465685453237755905-4Ur1): «Мы строили водопроводные трубы — middleware между ресторанами и платформами доставки. 95 000 точек, 1 миллиард+ заказов.»
 
-**Blue Bottle Coffee — продажа от Nestlé к Centurium Capital** (закрытие сделки в H1 2026 при оценке ~$400M, против $700M в 2024 и $425M Nestlé заплатила в 2017). Centurium Capital — мажоритарный акционер **Luckin Coffee** (31 000+ точек). Cделка включает кафе + CPG; Nestlé сохраняет права на single-serve Nespresso pods. Источники: [FoodBev Media](https://www.foodbev.com/news/nestl%C3%A9-confirms-sale-of-blue-bottle-coffee-to-centurium-capital), [Daily Coffee News](https://dailycoffeenews.com/2026/04/24/nestle-confirms-blue-bottle-sale-to-luckins-largest-shareholder/), [BevNET](https://www.bevnet.com/news/2026/nestle-is-selling-blue-bottle-coffee-to-luckin-owner-centurium-capital), [Food Dive](https://www.fooddive.com/news/nestle-sells-blue-bottle-coffee-to-Centurium-Capital/818334/), [Perfect Daily Grind recap](https://perfectdailygrind.com/2026/05/coffee-news-recap-1-may-2026/).
+**Blue Bottle Coffee — продажа от Nestlé к Centurium Capital** (закрытие сделки в H1 2026 при оценке ~\$400M, против \$700M в 2024 и \$425M Nestlé заплатила в 2017). Centurium Capital — мажоритарный акционер **Luckin Coffee** (31 000+ точек). Cделка включает кафе + CPG; Nestlé сохраняет права на single-serve Nespresso pods. Источники: [FoodBev Media](https://www.foodbev.com/news/nestl%C3%A9-confirms-sale-of-blue-bottle-coffee-to-centurium-capital), [Daily Coffee News](https://dailycoffeenews.com/2026/04/24/nestle-confirms-blue-bottle-sale-to-luckins-largest-shareholder/), [BevNET](https://www.bevnet.com/news/2026/nestle-is-selling-blue-bottle-coffee-to-luckin-owner-centurium-capital), [Food Dive](https://www.fooddive.com/news/nestle-sells-blue-bottle-coffee-to-Centurium-Capital/818334/), [Perfect Daily Grind recap](https://perfectdailygrind.com/2026/05/coffee-news-recap-1-may-2026/).
 
-**Joe & The Juice — Abu Dhabi EIIC взял 4 % миноритарного пакета в апреле 2026 при оценке $1,8 млрд.** General Atlantic остаётся мажоритарием и **рассматривает IPO в 2026 при оценке €2 млрд ($2,4 млрд)**. Joe & The Juice — 480+ магазинов в 23 рынках, $500M выручки в 2025. Источники: [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-16/uae-investor-buys-stake-in-general-atlantic-s-joe-the-juice), [Yahoo Finance / Verdict Foodservice](https://finance.yahoo.com/markets/stocks/articles/eiic-takes-minority-stake-joe-091923596.html), [AGBI](https://www.agbi.com/leisure-hospitality/2026/04/danish-juice-chain-to-expand-after-uae-investor-buys-stake/), [Private Equity Insights — IPO plan](https://pe-insights.com/general-atlantic-eyes-2-4bn-ipo-for-joe-the-juice/). Прямой формат-аналог Drinkit готовится стать публичным.
+**Joe & The Juice — Abu Dhabi EIIC взял 4 % миноритарного пакета в апреле 2026 при оценке \$1,8 млрд.** General Atlantic остаётся мажоритарием и **рассматривает IPO в 2026 при оценке €2 млрд (\$2,4 млрд)**. Joe & The Juice — 480+ магазинов в 23 рынках, \$500M выручки в 2025. Источники: [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-16/uae-investor-buys-stake-in-general-atlantic-s-joe-the-juice), [Yahoo Finance / Verdict Foodservice](https://finance.yahoo.com/markets/stocks/articles/eiic-takes-minority-stake-joe-091923596.html), [AGBI](https://www.agbi.com/leisure-hospitality/2026/04/danish-juice-chain-to-expand-after-uae-investor-buys-stake/), [Private Equity Insights — IPO plan](https://pe-insights.com/general-atlantic-eyes-2-4bn-ipo-for-joe-the-juice/). Прямой формат-аналог Drinkit готовится стать публичным.
 
-**Compass Coffee — Chapter 11 6 января 2026 + Caffè Nero выиграл аукцион 20 февраля за $4,76 млн.** 17 точек в Вашингтоне продолжат работу под брендом Compass. Источники: [Coffee Geography Magazine](https://coffeegeography.com/2026/02/28/uks-caffe-nero-acquires-dcs-compass-coffee-out-of-bankruptcy/), [Global Coffee Report](https://www.gcrmag.com/caffe-nero-to-complete-compass-coffee-takeover/), [Washington Today — $4.76M winning bid](https://nationaltoday.com/us/dc/washington/news/2026/03/01/caffe-nero-acquires-bankrupt-compass-coffee-for-4-76-million/). Поучительный кейс — что бывает с premium-кофе при масштабировании на дорогой аренде.
+**Compass Coffee — Chapter 11 6 января 2026 + Caffè Nero выиграл аукцион 20 февраля за \$4,76 млн.** 17 точек в Вашингтоне продолжат работу под брендом Compass. Источники: [Coffee Geography Magazine](https://coffeegeography.com/2026/02/28/uks-caffe-nero-acquires-dcs-compass-coffee-out-of-bankruptcy/), [Global Coffee Report](https://www.gcrmag.com/caffe-nero-to-complete-compass-coffee-takeover/), [Washington Today — \$4.76M winning bid](https://nationaltoday.com/us/dc/washington/news/2026/03/01/caffe-nero-acquires-bankrupt-compass-coffee-for-4-76-million/). Поучительный кейс — что бывает с premium-кофе при масштабировании на дорогой аренде.
 
 ---
 
@@ -166,7 +166,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 > «Многие QSR-бренды снаружи выглядят современно — kiosks, mobile apps, delivery integrations. Но за прилавком многие всё ещё работают на технологиях 10–15-летней давности. Это создаёт операционные трещины, которых клиенты не видят.»
 
 **Анандхи Дукарам** ([LinkedIn](https://www.linkedin.com/in/anandhi-dhukaram)):
-> «AI больше не падает в экспериментах. Он падает внутри живых бизнес-систем. На этой неделе: Starbucks отозвал AI-инвентаризацию. Pizza Hut столкнулся с иском на $100 млн.»
+> «AI больше не падает в экспериментах. Он падает внутри живых бизнес-систем. На этой неделе: Starbucks отозвал AI-инвентаризацию. Pizza Hut столкнулся с иском на \$100 млн.»
 
 ---
 
@@ -181,7 +181,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 3. **Compass Coffee Chapter 11 → Caffè Nero** — провал на дорогой аренде
 4. **Dutch Bros (NYSE: BROS) — 830+ точек drive-thru** — публичная компания с детализированной квартальной разбивкой
 
-Главный для бенчмаркинга — **CHAGEE (Nasdaq: CHA)** — IPO 17 апреля 2025 при цене $28 за ADS, привлёк **$411 млн** (крупнейший IPO китайской компании на Nasdaq в 2025 году), pricing-валюация ~$5,1 млрд, после первого дня торгов ~$5,95 млрд, далее достиг ~$6,2 млрд. Источники: [Nasdaq — pricing announcement](https://www.nasdaq.com/articles/chagee-holdings-limited-announces-pricing-initial-public-offering-2800-ads), [Bamboo Works — $411M Nasdaq IPO recap](https://thebambooworks.com/news-wrap-chagee-raises-411-million-in-nasdaq-ipo/), [Nasdaq CHA IPO overview](https://www.nasdaq.com/market-activity/ipos/overview?dealId=1330008-113415). Их проспект — MBA-уровня разбор экономики bubble tea при масштабе.
+Главный для бенчмаркинга — **CHAGEE (Nasdaq: CHA)** — IPO 17 апреля 2025 при цене \$28 за ADS, привлёк **\$411 млн** (крупнейший IPO китайской компании на Nasdaq в 2025 году), pricing-валюация ~\$5,1 млрд, после первого дня торгов ~\$5,95 млрд, далее достиг ~\$6,2 млрд. Источники: [Nasdaq — pricing announcement](https://www.nasdaq.com/articles/chagee-holdings-limited-announces-pricing-initial-public-offering-2800-ads), [Bamboo Works — \$411M Nasdaq IPO recap](https://thebambooworks.com/news-wrap-chagee-raises-411-million-in-nasdaq-ipo/), [Nasdaq CHA IPO overview](https://www.nasdaq.com/market-activity/ipos/overview?dealId=1330008-113415). Их проспект — MBA-уровня разбор экономики bubble tea при масштабе.
 
 Источники — [beverage scout §A и §D](../regions/beverage-vertical.md).
 
@@ -220,7 +220,7 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 
 **Mixue Group (HK 2097)** годовые результаты ([China Daily](https://www.chinadaily.com.cn/a/202604/14/WS69dd9975a310d6866eb433d1.html)): выручка **+35,2 % до ¥33,56 млрд**, чистая прибыль +33,1 %, **~60 000 точек** глобально. **94 % выручки** — продажа ингредиентов и оборудования франчайзи (модель «supply chain как бизнес»).
 
-**Luckin Coffee Q1 2026** ([SEC 6-K](https://www.sec.gov/Archives/edgar/data/0001767582/000110465926050790/tm2612798d1_ex99-1.htm)): выручка **¥12 млрд (+35,3 %)**, **93 млн активных пользователей**, +2 548 новых точек, +13 в Малайзии и +1 в Сингапуре. **Первый в истории компании buyback на $300 млн**.
+**Luckin Coffee Q1 2026** ([SEC 6-K](https://www.sec.gov/Archives/edgar/data/0001767582/000110465926050790/tm2612798d1_ex99-1.htm)): выручка **¥12 млрд (+35,3 %)**, **93 млн активных пользователей**, +2 548 новых точек, +13 в Малайзии и +1 в Сингапуре. **Первый в истории компании buyback на \$300 млн**.
 
 ### Япония
 
@@ -233,9 +233,9 @@ S-4 + 8-K поданы 27 мая ([SEC](https://www.sec.gov/Archives/edgar/data/
 
 ### США — публичные QSR
 
-**McDonald's Q1 2026** ([CNBC](https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html)): выручка $6,5 млрд (+12 %), глобальные SSS +3,8 %, маржа под давлением — 55,9 %.
+**McDonald's Q1 2026** ([CNBC](https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html)): выручка \$6,5 млрд (+12 %), глобальные SSS +3,8 %, маржа под давлением — 55,9 %.
 
-**Yum! Brands Q1 2026** ([транскрипт Insider Monkey](https://www.insidermonkey.com/blog/yum-brands-inc-nyseyum-q1-2026-earnings-call-transcript-1751040/)): запущена **Byte by Yum** на Nvidia (voice AI + CV + аналитика), цифровая доля **63 %**, цифровые продажи ~$11 млрд в год.
+**Yum! Brands Q1 2026** ([транскрипт Insider Monkey](https://www.insidermonkey.com/blog/yum-brands-inc-nyseyum-q1-2026-earnings-call-transcript-1751040/)): запущена **Byte by Yum** на Nvidia (voice AI + CV + аналитика), цифровая доля **63 %**, цифровые продажи ~\$11 млрд в год.
 
 ### Индия
 

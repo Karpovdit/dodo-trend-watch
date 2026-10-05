@@ -25,11 +25,11 @@ Sources: [SpotOn Profit AI launch](https://www.spoton.com/blog/spoton-introduces
 
 ## 🍕 Kitchen automation и почему "AI поверх кассы" побеждает робототехнику
 
-Май стал водоразделом для двух подходов к kitchen automation. С одной стороны — **серьёзный сегментный crash pizza-robotics**: закрылся **Picnic** (Сиэтл, $53M инвестиций, партнёрство с Domino's), а ранее закрытый **Zume Pizza** в сумме потратил около $500M. Pure-play pizza-robotic стартапы доказательно не выживают экономически.
+Май стал водоразделом для двух подходов к kitchen automation. С одной стороны — **серьёзный сегментный crash pizza-robotics**: закрылся **Picnic** (Сиэтл, \$53M инвестиций, партнёрство с Domino's), а ранее закрытый **Zume Pizza** в сумме потратил около \$500M. Pure-play pizza-robotic стартапы доказательно не выживают экономически.
 
 С другой стороны — **успех AI-слоя поверх существующего стека**:
 - **Byte by Yum** — production на **38 000 ресторанов** по миру. Это уже не пилот, а полноценное масштабирование AI поверх POS-системы и операционных данных Yum! Brands (KFC, Taco Bell, Pizza Hut).
-- **Toast IQ agentic AI кейс** — экономия $4 000 на труде на ресторан + 8% спайки продаж + self-reconciling books (Walchef Substack описал это как "the future of tech is agentic").
+- **Toast IQ agentic AI кейс** — экономия \$4 000 на труде на ресторан + 8% спайки продаж + self-reconciling books (Walchef Substack описал это как "the future of tech is agentic").
 - **«Пятёрочка»** развернула **computer vision Shelf Sense в 100 магазинах Москвы** — нейросеть отслеживает ценники и пустоты на полках. Это локальный кейс с реальной инсталляцией.
 
 Дополнительный side-сигнал: McDonald's строит **новую техническую базу под стратегию > NEXT** — Google Edge кластеры, IoT-телеметрия, edge computing на территории самих ресторанов. Из поста Mike Gordon (лидер технической команды McDonald's): *"42 километра сетевого кабеля, 6 кластеров Google Edge, IoT-телеметрия с сотен подключённых устройств"*.
@@ -74,7 +74,7 @@ Sources: [@foodtechonline ВТБ биоэквайринг](https://t.me/foodtech
 
 ## 🧠 AI infrastructure: Anthropic IPO + рынок выпрямляется
 
-1 июня **Anthropic подал конфиденциальную заявку на IPO**. Контекст для нас: мы активно используем Claude в hub'е, в side-проектах, в твоей собственной работе через Claude Code. После IPO стандартный паттерн для B2B SaaS — рост цен и более консервативный roadmap из-за обязательств перед инвесторами. Параллельно **Anthropic строит "AI-аналог McKinsey" в $1.5B JV с Blackstone, Hellman & Friedman, Goldman Sachs** — то есть Anthropic перестраивается из API-провайдера в полноценную "AI-консалтинговую компанию".
+1 июня **Anthropic подал конфиденциальную заявку на IPO**. Контекст для нас: мы активно используем Claude в hub'е, в side-проектах, в твоей собственной работе через Claude Code. После IPO стандартный паттерн для B2B SaaS — рост цен и более консервативный roadmap из-за обязательств перед инвесторами. Параллельно **Anthropic строит "AI-аналог McKinsey" в \$1.5B JV с Blackstone, Hellman & Friedman, Goldman Sachs** — то есть Anthropic перестраивается из API-провайдера в полноценную "AI-консалтинговую компанию".
 
 Контр-сигнал из Substack-сегмента: пост в **r/Foodservice** *«Why Tech CEOs Are Quietly Cancelling Their AI Plans»* + Gartner прогноз что **40% AI-проектов в QSR закроется к 2027** (в контексте проблем внедрения у Pizza Hut, Uber, Starbucks). Это другая сторона той же истории: на фоне рекордных инвестиций в AI-инфраструктуру массовое внедрение в production останавливается у конкретных операторов.
 
@@ -90,7 +90,7 @@ Sources: [Crunchbase News — Anthropic IPO filing](https://news.crunchbase.com/
 
 Самый неожиданный mainstream-сдвиг за май — **vibe-coding вышел из tech-bubble в реальный бизнес**. Три независимых сигнала с разных континентов:
 
-- **Артём Старостин** (РФ, маркетолог-консультант) [5 мая](https://t.me/starostin_creator/2756) ищет тестировщика в свой SaaS-проект Сабка и пишет в требованиях: *«Claude Code за $200 и токены — без ограничений»*. То есть малый российский ресторанный бизнес выдаёт Claude Code сотрудникам **как стандартный рабочий инструмент**.
+- **Артём Старостин** (РФ, маркетолог-консультант) [5 мая](https://t.me/starostin_creator/2756) ищет тестировщика в свой SaaS-проект Сабка и пишет в требованиях: *«Claude Code за \$200 и токены — без ограничений»*. То есть малый российский ресторанный бизнес выдаёт Claude Code сотрудникам **как стандартный рабочий инструмент**.
 
 - **Кейс [@starostin_creator]** [11 мая](https://t.me/starostin_creator/2759) — *«Как нейронки спасли ларёк шаурмы от банкротства»* — полный ребрендинг шаурмичной в Новосибирске за 3 месяца через AI-инструменты (регламенты, рецепты, ТТК, упаковка, фасад). Это street-food, не silicon valley.
 
@@ -135,7 +135,7 @@ Sources: [Crunchbase News — Anthropic IPO filing](https://news.crunchbase.com/
 
 1. **Operator AI становится отдельной категорией с production-вендорами.** SpotOn Profit AI (US) + Mozg/Ресториум/CHEF.X (РФ) — это уже не стартапы, а действующие игроки. Положить в наблюдение архитекторам Dodo IS как competitor map.
 
-2. **"AI поверх кассы" побеждает робототехнику.** Picnic и Zume Pizza закрылись (~$550M потрачено вместе), а Byte by Yum работает на 38 000 ресторанов. Direction-pointer для kitchen automation Smart Tracking.
+2. **"AI поверх кассы" побеждает робототехнику.** Picnic и Zume Pizza закрылись (~\$550M потрачено вместе), а Byte by Yum работает на 38 000 ресторанов. Direction-pointer для kitchen automation Smart Tracking.
 
 3. **Voice AI стал зрелой вертикалью.** McDonald's ARCHY + HME ClearSoundX + Yandex Speech Realtime + Sarvam Voice AI — четыре production-готовых платформы. Если идём в drive-thru — интегрируемся, не строим с нуля.
 

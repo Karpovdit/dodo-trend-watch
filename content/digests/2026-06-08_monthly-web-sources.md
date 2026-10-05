@@ -24,11 +24,11 @@ title: "Дайджест за месяц · 4 мая – 3 июня 2026 (меж
 
 1. **McDonald's переходит к connected operations + AI как фундаменту следующего этапа** — на корпоративной конференции в начале июня объявил стратегию **«McDonald's Next»**: технологии перестают быть пилотами и становятся базой operational scale. Серьёзная заявка от лидера индустрии — все мировые QSR будут вынуждены следовать.
 
-2. **Funding-сигналы в restaurant-tech живы** — французский **Innovorder поднял €20M ($23.2M)** на AI-platform для европейских ресторанов (UL Invest, family office Laurent Useldinger). Возвращение интереса VC к specialized restaurant SaaS после 2024–2025 «зимы».
+2. **Funding-сигналы в restaurant-tech живы** — французский **Innovorder поднял €20M (\$23.2M)** на AI-platform для европейских ресторанов (UL Invest, family office Laurent Useldinger). Возвращение интереса VC к specialized restaurant SaaS после 2024–2025 «зимы».
 
 3. **Asia QSR делает резкий разворот** — **Meituan** объявил «reset» с переключением фокуса с доставочной войны на economics + **Xiaoxiang Supermarket**; **LINE MAN Thailand** готовит IPO 2027 с инвестициями в AI; **Keenon Robotics** ставит на функцию над эффектом — практическая зрелость robotics после хайпа.
 
-4. **Уроки провалов: Brava закрылся** — 9-летний smart-oven стартап ($122M raised, в т.ч. от Khosla и Lerer) больше не работает. **Главный урок:** AI-driven кухонные приборы для consumer-сегмента — мёртвая зона, повторяется паттерн Juicero. Для B2B restaurant-tech это контекст.
+4. **Уроки провалов: Brava закрылся** — 9-летний smart-oven стартап (\$122M raised, в т.ч. от Khosla и Lerer) больше не работает. **Главный урок:** AI-driven кухонные приборы для consumer-сегмента — мёртвая зона, повторяется паттерн Juicero. Для B2B restaurant-tech это контекст.
 
 5. **Saudi Arabia форсирует кулинарный люкс** — первый рейтинг **Gault&Millau Saudi Arabia** (250 ресторанов, gala 2 июня в Riyadh). Часть массивных инвестиций PIF в hospitality + Vision 2030. Для GCC-стратегий Drinkit — приоритетный signal.
 
@@ -48,7 +48,7 @@ title: "Дайджест за месяц · 4 мая – 3 июня 2026 (меж
 
 ### Funding / M&A
 
-3. **Innovorder: €20M ($23.2M) на AI-platform для EU ресторанов** [Restaurant Technology News, 06.06](https://restauranttechnologynews.com/2026/06/innovorder-lands-23-2-million-to-expand-its-ai-powered-restaurant-platform-across-europe/) — французский restaurant-tech SaaS. Раунд возглавил **UL Invest** (family office Laurent Useldinger). Сигнал: VC возвращаются в specialized restaurant SaaS после долгой паузы. Платформа объединяет POS, online ordering, kitchen display, loyalty — попытка eat-it-all stack как Toast/iiko, но в EU mid-market.
+3. **Innovorder: €20M (\$23.2M) на AI-platform для EU ресторанов** [Restaurant Technology News, 06.06](https://restauranttechnologynews.com/2026/06/innovorder-lands-23-2-million-to-expand-its-ai-powered-restaurant-platform-across-europe/) — французский restaurant-tech SaaS. Раунд возглавил **UL Invest** (family office Laurent Useldinger). Сигнал: VC возвращаются в specialized restaurant SaaS после долгой паузы. Платформа объединяет POS, online ordering, kitchen display, loyalty — попытка eat-it-all stack как Toast/iiko, но в EU mid-market.
 
 4. **Curefoods готовит cloud-kitchen IPO в Индии** [Inc42] — крупнейший индийский dark-kitchen игрок выходит на биржу. Сигнал зрелости модели в эмерджинг-рынках.
 
@@ -62,7 +62,7 @@ title: "Дайджест за месяц · 4 мая – 3 июня 2026 (меж
 
 ### Провалы и уроки
 
-8. **Brava (smart oven, $122M raised) закрылся** [The Spoon, 05.06](https://thespoon.tech/lessons-from-the-rise-and-fall-of-smart-oven-innovator-brava/) — 9 лет компания развивала AI-управляемую печь через light-based cooking. Финал — закрытие. Урок: consumer kitchen tech остаётся брутальной нишей. Для B2B restaurant-tech: фокусируйтесь на predictable economics, не innovation theater.
+8. **Brava (smart oven, \$122M raised) закрылся** [The Spoon, 05.06](https://thespoon.tech/lessons-from-the-rise-and-fall-of-smart-oven-innovator-brava/) — 9 лет компания развивала AI-управляемую печь через light-based cooking. Финал — закрытие. Урок: consumer kitchen tech остаётся брутальной нишей. Для B2B restaurant-tech: фокусируйтесь на predictable economics, не innovation theater.
 
 ### AI в QSR
 
@@ -76,7 +76,7 @@ title: "Дайджест за месяц · 4 мая – 3 июня 2026 (меж
 
 12. **Mobile ordering becomes default across MENA** [Hospitality News ME, 20.05](https://hospitalitynewsmag.com/mobile-ordering-becomes-the-default-across-mena/) — Alexander Ponomarev (CEO Syrve MENA): mobile-first становится доминирующим каналом в регионе. Подтверждение тренда для всех GCC-операторов.
 
-13. **EBRD финансирует Spinneys Lebanon $22M** [Hospitality News ME, 20.05](https://hospitalitynewsmag.com/ebrd-backs-spinneys-lebanon-with-usd-22m-financing-deal/) — крупный сетевой ритейлер (Levant). Сигнал: международное финансирование продолжает приходить в hospitality MENA даже в сложных макроусловиях.
+13. **EBRD финансирует Spinneys Lebanon \$22M** [Hospitality News ME, 20.05](https://hospitalitynewsmag.com/ebrd-backs-spinneys-lebanon-with-usd-22m-financing-deal/) — крупный сетевой ритейлер (Levant). Сигнал: международное финансирование продолжает приходить в hospitality MENA даже в сложных макроусловиях.
 
 ### Кофе и климат
 
@@ -95,7 +95,7 @@ title: "Дайджест за месяц · 4 мая – 3 июня 2026 (меж
 - **AISpeech IPO** — китайский voice AI vendor выходит на Star Market
 - **ByteDance Doubao paid subscriptions** — монетизация LLM через consumer
 - **Vibe Coding для food industry builders** [The Spoon, 29.05](https://thespoon.tech/food-industry-builders-heres-that-intro-to-vibe-coding-youve-been-waiting-for/) — гид по low-code AI app development для операторов. Сигнал демократизации: каждый ресторан сможет собрать кастомный tool.
-- **Innovorder $23.2M на AI-platform** — vendor consolidation
+- **Innovorder \$23.2M на AI-platform** — vendor consolidation
 - **Lavu POS AI Capabilities Report** [Restaurant Technology News] — индустриальный benchmark по readiness POS-вендоров к AI features
 
 ### 🛵 Доставка и last-mile (3+ структурных)
@@ -132,7 +132,7 @@ title: "Дайджест за месяц · 4 мая – 3 июня 2026 (меж
 
 **Tech / innovation:**
 - **Cosori Juni Brewer** [21.05] — automatic specialty coffee brewer с downloadable brew profiles. IoT pour-over.
-- **Ducati $3000 espresso pod machine** [22.05] — luxury convergence с hospitality
+- **Ducati \$3000 espresso pod machine** [22.05] — luxury convergence с hospitality
 - **Taco Bell Cold Brew** + Cup of Excellence in an App [22.05] — QSR + specialty convergence
 - **Varia Orbi** [04.06] — компактная automation для small cafes
 - **The Alliance for Coffee Excellence: Taiwan suspended** [05.06] — индустриальная политика
@@ -141,7 +141,7 @@ title: "Дайджест за месяц · 4 мая – 3 июня 2026 (меж
 
 - **Gault&Millau Saudi Arabia** debuts
 - **Mobile ordering default** in MENA
-- **EBRD financing Spinneys Lebanon $22M**
+- **EBRD financing Spinneys Lebanon \$22M**
 - **Jordan Tourism Board global campaign** [20.05]
 - **L'École Valrhona Dubai community support** [22.05] — institutional culinary education
 - **Ruba Khoury Top Chef → Gulf culinary ambitions** [20.05] — talent migration into GCC
@@ -215,7 +215,7 @@ LatAm foodtech funding и launches. NeoFeed мы уже имели — тепе�
 
 2. **Drinkit GCC**: Gault&Millau Saudi + Vision 2030 culinary investments — окно открыто, конкуренция растёт быстро. Сигнал ускорить timing. Hospitality News ME имеет dedicated Saudi/UAE coverage, **подключите weekly review** как часть Drinkit strategy.
 
-3. **Innovorder $20M** — это **vendor который мы можем рассматривать как потенциального партнёра в EU** или competitive analysis для iiko/lemma.place в РФ. EU mid-market стратегия — похоже на сегмент где Dodo тоже растёт.
+3. **Innovorder \$20M** — это **vendor который мы можем рассматривать как потенциального партнёра в EU** или competitive analysis для iiko/lemma.place в РФ. EU mid-market стратегия — похоже на сегмент где Dodo тоже растёт.
 
 4. **Brava lessons** — для любых innovation projects в Dodo: фокус на economics, не innovation theater. Особенно для kitchen tech. **Не повторяйте паттерн Juicero/Brava** в собственных пилотах.
 
@@ -243,7 +243,7 @@ LatAm foodtech funding и launches. NeoFeed мы уже имели — тепе�
 ## Что дальше
 
 - **Завтра 9 июня — еженедельный digest** (4-10 июня) автоматически впитает все 8 web-источников
-- **Open question**: подключить ли paywall-источники (Nikkei Asia F&B $17.99/мес, World Coffee Portal £29/мес, Savor.fm) через одну Dodo подписку
+- **Open question**: подключить ли paywall-источники (Nikkei Asia F&B \$17.99/мес, World Coffee Portal £29/мес, Savor.fm) через одну Dodo подписку
 - **Saudi/UAE deep-tech** — open question deep-research run 2, не нашлось специализированных vendor-блогов. Hospitality News ME пока единственный.
 - **Russia deep-tech**: `restoranoff.ru` подключим в следующем заходе (нужен ручной парсер, RSS не нашли)
 - **Propel Hospitality** (UK, 21k C-level daily) — подключение через email signup, рекомендуем сделать вручную

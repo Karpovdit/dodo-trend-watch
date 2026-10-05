@@ -26,7 +26,7 @@
   > Hiring is a throughput problem: too many steps, too much coordination, too much rework.
 - **[2026-06-01]** [AI Route Optimization + Dispatch for SMB Logistics (2026): Vendor Pricing, ROI Models, and a 30-Day Rollout Plan](https://advalorem.substack.com/p/ai-route-optimization-dispatch-for)
   > For small fleets, the last mile is now the most expensive mile &#8212; and the one most quickly reshaped by AI.
-- **[2026-06-01]** [[AI Guy] EP13: AI Sales Agents for Small Business — How a 5-Rep Team Closed 31 Percent More Deals on a $400 Stack](https://advalorem.substack.com/p/ai-guy-ep13-ai-sales-agents-for-small-4eb)
+- **[2026-06-01]** [[AI Guy] EP13: AI Sales Agents for Small Business — How a 5-Rep Team Closed 31 Percent More Deals on a \$400 Stack](https://advalorem.substack.com/p/ai-guy-ep13-ai-sales-agents-for-small-4eb)
   > A five-person sales team in Austin closed 31 percent more deals last quarter than the quarter before.
 
 ### Food On Demand (RPI)
@@ -42,17 +42,17 @@
 ### Long Yield (LongYield)
 *20 items / 8 foodtech / 40.0%*
 
-- **[2026-06-02]** [Dell Technologies: The $43.8B Quarter, AI Server Supercycle, and the Architecture of a New Machine](https://longyield.substack.com/p/dell-technologies-the-438b-quarter)
-  > Revenue nearly doubled in a single year. AI server bookings hit $24.4 billion in one quarter alone. The guidance for a $167 billion fiscal year with $60 billion from AI servers
+- **[2026-06-02]** [Dell Technologies: The \$43.8B Quarter, AI Server Supercycle, and the Architecture of a New Machine](https://longyield.substack.com/p/dell-technologies-the-438b-quarter)
+  > Revenue nearly doubled in a single year. AI server bookings hit \$24.4 billion in one quarter alone. The guidance for a \$167 billion fiscal year with \$60 billion from AI servers
 - **[2026-06-01]** [AI Accounting: Gross Revenue vs. Real Economics](https://longyield.substack.com/p/ai-accounting-gross-revenue-vs-real)
-  > OpenAI is valued at $852 billion with a -122% operating margin.
+  > OpenAI is valued at \$852 billion with a -122% operating margin.
 - **[2026-05-30]** [Earnings Week Recap · May 26–30, 2026 The AI Revenue Wave Arrives — On Every P&L at Once](https://longyield.substack.com/p/earnings-week-recap-may-2630-2026)
   > Dell up 88%, Marvell up 28%, Salesforce Agentforce +205%, Zscaler record margins. This was the week the AI supercycle stopped being a story about future bookings and started being a story about report
 
 ### Hotel Dive (Industry Dive)
 *10 items / 6 foodtech / 60.0%*
 
-- **[2026-06-02]** [People Inc. plots $18B go-private bid for MGM Resorts](https://www.hoteldive.com/news/people-inc-plots-18B-bid-MGM-Resorts/821703/)
+- **[2026-06-02]** [People Inc. plots \$18B go-private bid for MGM Resorts](https://www.hoteldive.com/news/people-inc-plots-18B-bid-MGM-Resorts/821703/)
   > Barry Diller, owner of People Inc., said MGM represents a &ldquo;rare kind of business: one with real world assets that AI cannot easily replicate or disintermediate and exceptional digital growth opp
 - **[2026-06-02]** [CoStar, Tourism Economics upgrade US RevPAR forecast for 2026](https://www.hoteldive.com/news/costar-tourism-economics-hotel-revpar-forecast-2026/821683/)
   > At the NYU International Hospitality Investment Forum, the companies announced they now anticipate 2.8% year-over-year growth. However, geopolitical strife could threaten that outlook.
@@ -85,7 +85,7 @@
 ### C-Store Dive (Industry Dive)
 *10 items / 3 foodtech / 30.0%*
 
-- **[2026-06-02]** [SNAP waivers could lead to $830M sales loss for soda, candy, energy drinks](https://www.cstoredive.com/news/snap-waivers-grocery-sales-loss-numerator/821520/)
+- **[2026-06-02]** [SNAP waivers could lead to \$830M sales loss for soda, candy, energy drinks](https://www.cstoredive.com/news/snap-waivers-grocery-sales-loss-numerator/821520/)
   > By the end of 2026, state-specific restrictions are expected to impact one-third of participants in the government food assistance program, Numerator found.
 - **[2026-05-29]** [Prepared food surge in c-stores brings packaging innovations](https://www.cstoredive.com/news/cstores-convenience-food-packaging-innovations/821094/)
   > As convenience stores offer more fresh food, their packaging needs shift. Packaging companies are exploring forms that maintain food quality, offer versatility and minimize storage space.
@@ -116,7 +116,7 @@
 *4 items / 3 foodtech / 75.0%*
 
 - **[2026-06-01]** [Stealth Startup Spy #344](https://stealthstartupspy.substack.com/p/stealth-startup-spy-344)
-  > Former Apple Siri & Roblox ML scientist enters stealth, Ex-Ogilvy PE operator builds AI for the full PE deal lifecycle, & Ex-Lyft hardware director exits stealth with $12M to test hardware in seconds
+  > Former Apple Siri & Roblox ML scientist enters stealth, Ex-Ogilvy PE operator builds AI for the full PE deal lifecycle, & Ex-Lyft hardware director exits stealth with \$12M to test hardware in seconds
 - **[2026-05-28]** [Stealth Startup Spy #343](https://stealthstartupspy.substack.com/p/stealth-startup-spy-343)
   > Ex-DeepMind & Amazon scientist enters stealth, Ex-Apple Camera Lead builds AI-driven robotics for manufacturing, & Harvard PhD builds AI biosecurity infrastructure for the bioeconomy
 - **[2026-05-25]** [Stealth Startup Spy #342](https://stealthstartupspy.substack.com/p/stealth-startup-spy-342)
@@ -204,7 +204,7 @@
 - **[2026-05-22]** [Pittsburgh Pizza Olympics at Spirit](https://pghpizza.substack.com/p/pittsburgh-pizza-olympics-at-spirit)
 
 ### Modern Delivery (Modern Delivery)
-- **[2026-06-01]** [Matternet Raises $33M, Taking Drone Deliveries Public](https://moderndelivery.substack.com/p/matternet-raises-33m-taking-drone)
+- **[2026-06-01]** [Matternet Raises \$33M, Taking Drone Deliveries Public](https://moderndelivery.substack.com/p/matternet-raises-33m-taking-drone)
 
 ### The Restaurant Boss Blog (Ryan Gromfin)
 - **[2026-05-27]** [The 3 Questions Your Servers Must Be Able to Answer So You Don’t Lose Sales](https://therestaurantboss.com/3-questions-servers-must-answer/)

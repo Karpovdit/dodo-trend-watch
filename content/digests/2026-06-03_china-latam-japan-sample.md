@@ -40,8 +40,8 @@
 
 ### LatAm List (LatAm tech English)
 
-- **[2026-05-29]** [Pax raises $40M seed round](https://latamlist.com/) — LatAm payments / fintech, потенциально для restaurant POS
-- **[2026-05-20]** [Draiven raises $600K and acquires Rabt Automation](https://latamlist.com/) — LatAm automation/RPA
+- **[2026-05-29]** [Pax raises \$40M seed round](https://latamlist.com/) — LatAm payments / fintech, потенциально для restaurant POS
+- **[2026-05-20]** [Draiven raises \$600K and acquires Rabt Automation](https://latamlist.com/) — LatAm automation/RPA
 
 ### Contxto (LatAm tech, мало контента в этом окне)
 

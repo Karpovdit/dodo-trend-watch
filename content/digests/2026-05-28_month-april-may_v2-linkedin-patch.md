@@ -1,6 +1,6 @@
 # V2 Patch — LinkedIn Apify дополнение к monthly digest
 
-> Дополнение к [2026-05-28_month-april-may.md](2026-05-28_month-april-may.md), сгенерировано из Apify LinkedIn keyword search (290 постов, ~$0.30, см. [linkedin-search-options.md](../linkedin-search-options.md)).
+> Дополнение к [2026-05-28_month-april-may.md](2026-05-28_month-april-may.md), сгенерировано из Apify LinkedIn keyword search (290 постов, ~\$0.30, см. [linkedin-search-options.md](../linkedin-search-options.md)).
 >
 > **5 high-signal items**, которые наш monthly digest пропустил.
 
@@ -8,7 +8,7 @@
 
 LinkedIn keyword-search через Apify supreme_coder/linkedin-post подтвердил **method-validity** и принёс **5 новых сигналов**:
 
-1. 🔥 **allO — $14M Series A (Munich-based AI restaurant OS, 1000+ stores DE)** — самая важная пропущенная новость
+1. 🔥 **allO — \$14M Series A (Munich-based AI restaurant OS, 1000+ stores DE)** — самая важная пропущенная новость
 2. 🔥 **PreciTaste — Vision AI in kitchen** — новый CV vendor для kitchen ops
 3. 🔧 **iFixAi — open-source diagnostic для AI agents** — связан с Pizza Hut Dragontail case
 4. 📋 **Crunchtime Voice-Based Inventory operational detail** — операторская перспектива продукта который у нас был только в PR-форме
@@ -18,9 +18,9 @@ LinkedIn keyword-search через Apify supreme_coder/linkedin-post подтв�
 
 ## 🔥 Новые critical signals (Apify discovery)
 
-### 1. allO — $14M Series A для AI Restaurant Operating System (Германия)
+### 1. allO — \$14M Series A для AI Restaurant Operating System (Германия)
 
-- **Что**: Munich-based стартап **allO** получил **$14M Series A** во главе с **Zigg Capital** (LifeX Ventures, Aperture, Wecken & Cie, 20VC, Keen Venture Partners as co-investors).
+- **Что**: Munich-based стартап **allO** получил **\$14M Series A** во главе с **Zigg Capital** (LifeX Ventures, Aperture, Wecken & Cie, 20VC, Keen Venture Partners as co-investors).
 - **Traction**: 1000+ активных точек в Германии, **revenue tripled** с seed round 2024.
 - **Product**: «Unified AI operating system for restaurants». AI agents автоматизируют bookings, orders, inventory, menu updates. **Founding insight** (per Tech Lens Media): «restaurant owners want the work done. They do not want to learn another piece of software.»
 - **Когда**: report 26 мая 2026 (Tech Funding News). LinkedIn posts 27-28 мая.
@@ -87,7 +87,7 @@ LinkedIn keyword-search через Apify supreme_coder/linkedin-post подтв�
 ## 📋 Дополнительные сигналы (medium)
 
 - **Self-service kiosk uplift data**: «1 in 3 consumers prefer self-service kiosk over counter ordering, McDonald's customers spend +30% via kiosk» ([Mahdi Iraqi LinkedIn](https://www.linkedin.com/posts/mahdi-iraqi-1231aa169_self-service-kiosks-activity-7464343859775488001-Qvln))
-- **Agentic Commerce $1T projection by 2030** — broader AI agent trend (US-focused) ([Keith Siedentop LinkedIn](https://www.linkedin.com/posts/keithsiedentop_us-agentic-commerce-revenue-forecast-to-reach-activity-7463952878802726912-xKjd))
+- **Agentic Commerce \$1T projection by 2030** — broader AI agent trend (US-focused) ([Keith Siedentop LinkedIn](https://www.linkedin.com/posts/keithsiedentop_us-agentic-commerce-revenue-forecast-to-reach-activity-7463952878802726912-xKjd))
 - **Workday Sana expansion to IT/travel + Microsoft 365 Copilot** — HR-tech adjacency ([Rick Weijers LinkedIn](https://www.linkedin.com/posts/rickweijers_ai-agents-are-moving-into-your-employee-activity-7464922101209194496-OH1p))
 
 ---
@@ -99,7 +99,7 @@ LinkedIn keyword-search через Apify supreme_coder/linkedin-post подтв�
 |---|---|
 | **Total посты получено** | 290 |
 | **Unique авторы** | 277 |
-| **Cost** | $0.29 |
+| **Cost** | \$0.29 |
 | **Time** | ~2 мин на actor + 1-2 мин на анализ |
 | **High-signal items** | 5 (1.7%) |
 | **Medium signal** | ~10 |
@@ -108,7 +108,7 @@ LinkedIn keyword-search через Apify supreme_coder/linkedin-post подтв�
 ### Что работает
 
 - **Keyword search** через native LinkedIn URL — точно targeted
-- **Multiple sources в одном run** — все 7 domain queries в одну посылку, $0.29 за full digest
+- **Multiple sources в одном run** — все 7 domain queries в одну посылку, \$0.29 за full digest
 - **Author metadata богатый** — позволяет фильтровать по `authorHeadline` (followers count, role)
 - **Engagement metrics** включены — можно sortировать по traction
 
@@ -130,19 +130,19 @@ LinkedIn keyword-search через Apify supreme_coder/linkedin-post подтв�
 ./apify-linkedin-fetch.sh search "PreciTaste vision AI kitchen" past-month 30
 ```
 
-Cost: ~$0.06. Получим deeper context на 2 newly-discovered vendors.
+Cost: ~\$0.06. Получим deeper context на 2 newly-discovered vendors.
 
 ---
 
 ## ROI verdict для Apify integration
 
-✅ **Confirmed.** За $0.30 в одном run'е получили 5 high-signal items включая **критический пропущенный signal** (allO $14M в Германии).
+✅ **Confirmed.** За \$0.30 в одном run'е получили 5 high-signal items включая **критический пропущенный signal** (allO \$14M в Германии).
 
 **Production cost projection updated**:
-- Weekly preset: $0.30 × 4 = **$1.20/мес**
-- Plus ad-hoc deep-dives (~$1-2/мес)
-- **Total: ~$3/мес**, в 1.7× ниже моего initial estimate $5
+- Weekly preset: \$0.30 × 4 = **\$1.20/мес**
+- Plus ad-hoc deep-dives (~\$1-2/мес)
+- **Total: ~\$3/мес**, в 1.7× ниже моего initial estimate \$5
 
-Free tier Apify ($5/мес credit) **полностью покрывает**.
+Free tier Apify (\$5/мес credit) **полностью покрывает**.
 
 → Promotion в overlay ai-hub производственный режим: GO.

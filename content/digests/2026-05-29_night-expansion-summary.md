@@ -91,7 +91,7 @@ Single script polls all 9 US public QSR-tech atom feeds. Test caught **65 filing
 - 14 vendor companies (включая newly-discovered allO, PreciTaste, Solink, Eatch, Otto AI, Foodics)
 - 9 thought leaders (включая 7 из v2.2 filter analysis)
 
-**Estimated cost**: $0.66 per run (still в $5 free credit).
+**Estimated cost**: \$0.66 per run (still в \$5 free credit).
 
 ## 📋 Key strategic insights surfaced
 
@@ -108,7 +108,7 @@ Single script polls all 9 US public QSR-tech atom feeds. Test caught **65 filing
 
 ### MENA patterns to copy
 - **3 concurrent regulatory forces driving POS upgrade**: (a) 70% cashless mandate, (b) SFDA labeling July 2025, (c) ZATCA Phase 2 FATOORA e-invoicing
-- **Saudi $51.6B foodservice market by 2033, 150m visitors by 2030** — macro tailwind
+- **Saudi \$51.6B foodservice market by 2033, 150m visitors by 2030** — macro tailwind
 - **Foodics implementing TabSense 6000-store rollout** — biggest single AI-POS deployment globally
 - **Maestro Pizza low-price strategy displaced Pizza Hut** — direct Dodo competitive case
 
@@ -141,7 +141,7 @@ Single script polls all 9 US public QSR-tech atom feeds. Test caught **65 filing
 ## ⏭️ What's left for next time
 
 1. **Прогнать SEC EDGAR script production** — manual cron setup (Mon 09:00 UTC by Task Scheduler по образцу IT-mentions weekly refresh)
-2. **Прогнать Apify expanded preset** на новых 33 URLs — $0.66, должен подсветить India/Saudi/LatAm signals
+2. **Прогнать Apify expanded preset** на новых 33 URLs — \$0.66, должен подсветить India/Saudi/LatAm signals
 3. **Filter v2.4** — Shop Smart Autos edge case + дополнительные patterns если появятся в Apify output
 4. **Maestro Pizza Sage Journal deep-read** — найти DOI + получить через library access
 5. **Promote regions/{india,latam,mena}.md в overlay** (sync references/)
@@ -162,7 +162,7 @@ Single script polls all 9 US public QSR-tech atom feeds. Test caught **65 filing
 - 28 priority entries в registry (84 total)
 - 11 quick-win sources (Reddit + Substacks + podcasts + SEC EDGAR)
 - 1 ключевая discovery: **Maestro Pizza Saudi = direct Dodo competitor с Sage Journal case study**
-- $0 spent (всё в free credit / native RSS / SEC public data)
+- \$0 spent (всё в free credit / native RSS / SEC public data)
 - 5 commits в repos
 
 Доброе утро 🌅

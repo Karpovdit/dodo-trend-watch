@@ -112,7 +112,7 @@ GitHub: `github.com/NoBanks/sevenshifts-mcp` (тэгнут Jordan Boesch — CEO
 За прошедшие 7 дней:
 
 - **Justine Padilla — переход в Dutch Bros** на роль Occupational Safety Compliance Manager (1 июня) — career signal, не корпоративная новость
-- **Plot raised $10M seed** (2 июня, [пост](https://www.linkedin.com/company/plotworkspace)) — pure adjacent (social listening для marketing), но интересно для B2C
+- **Plot raised \$10M seed** (2 июня, [пост](https://www.linkedin.com/company/plotworkspace)) — pure adjacent (social listening для marketing), но интересно для B2C
 - Dutch Bros real estate listings (8 постов о продаваемой недвижимости у Dutch Bros) — noise
 
 Остальное — Tropical Smoothie Cafe (не наш конкурент), Blair Church Consulting (welcome-aboard пост), donate-blood-get-free-Dutch promo.

@@ -1,13 +1,13 @@
 # Trend Watch QSR — Неделя 22–28 мая 2026 (synthesis RU)
 
-> Синтез из 745 LinkedIn-постов (Apify), 12 SEC EDGAR filings, 533 catalogued sources. Window: 7 дней. Cost run: $0.66.
+> Синтез из 745 LinkedIn-постов (Apify), 12 SEC EDGAR filings, 533 catalogued sources. Window: 7 дней. Cost run: \$0.66.
 >
 > Это **читаемый** дайджест с группировкой по Dodo-доменам — не сырой tier-list. Raw данные → [2026-05-29-weekly.md](2026-05-29-weekly.md).
 
 ## TL;DR — 5 главных сигналов недели
 
-1. **🔥 allO $14M Series A — расширенный context** через **Elizabeth Chrystal** (Zigg Capital Principal, **ex-CFO of Momofuku**). Её цитата = главное VC-side обоснование: «Most restaurant software is bad. Few entrepreneurs have the blend of industry know-how, technology expertise, and ruthless practicality». Это **insider validation** уровнем выше чем просто press releases.
-2. **🔴 «AI failure» narrative crystallizes** — три independent voices за неделю синтезировали Starbucks + Pizza Hut + healthcare AI inside одного фрейма «AI failing inside live business systems». Главный teardown — **Brian Deck (CEO Smooth Commerce)**: Yum! купил Dragontail за $72M в сентябре 2021, mandated в 2024, **сейчас иск Chaac Pizza Northeast на $100M** — «AI worked exactly as designed, that's what makes it scary».
+1. **🔥 allO \$14M Series A — расширенный context** через **Elizabeth Chrystal** (Zigg Capital Principal, **ex-CFO of Momofuku**). Её цитата = главное VC-side обоснование: «Most restaurant software is bad. Few entrepreneurs have the blend of industry know-how, technology expertise, and ruthless practicality». Это **insider validation** уровнем выше чем просто press releases.
+2. **🔴 «AI failure» narrative crystallizes** — три independent voices за неделю синтезировали Starbucks + Pizza Hut + healthcare AI inside одного фрейма «AI failing inside live business systems». Главный teardown — **Brian Deck (CEO Smooth Commerce)**: Yum! купил Dragontail за \$72M в сентябре 2021, mandated в 2024, **сейчас иск Chaac Pizza Northeast на \$100M** — «AI worked exactly as designed, that's what makes it scary».
 3. **📊 Carl Orsbourn: «85% restaurant AI projects fail. When bad data meets good AI in a fight, the data always wins.»** — самый цитируемый sound bite недели. **73% restaurant brands invest in AI, only 9% report meaningful difference**. Это не tech problem — execution problem.
 4. **🤝 Papa Johns × Deliverect deal** — 3 500 точек PJ переходят на Deliverect к концу 2027. **Не software news, control play**: unified dispatch / delivery management layer. _Не было в наших источниках раньше._
 5. **🚀 Deliverect AI launch** (11 апреля, deeper look) — Jelte Vrijhoef описывает переход «from plumbing to agent»: 95k locations, 1B+ orders. Drowning operators в manual ops → AI agent layer. **Это direct EU-foodtech AI agent platform** на уровне Toast IQ Grow.
@@ -47,7 +47,7 @@ Carl продолжает: «When bad data meets good AI in a fight, the data al
 
 > «AI is no longer failing in experiments. It's failing inside live business systems. This week alone:
 > 🔴 Starbucks withdrew its AI inventory system after operational breakdowns.
-> 🔴 Pizza Hut faces a $100M lawsuit linked to AI delivery failures.
+> 🔴 Pizza Hut faces a \$100M lawsuit linked to AI delivery failures.
 > 🔴 Healthcare researchers warned AI-enabled medical devices may fail on real-world patients.»
 
 → **Dodo relevance**: добавить в quarterly review checklist — «sanity check: AI feature inside live business system, не lab». Quote-worthy. Direct в Buildin для AI Hub discussions.
@@ -80,10 +80,10 @@ Carl продолжает: «When bad data meets good AI in a fight, the data al
 **💥 Brian Deck (CEO Smooth Commerce) — лучший Dragontail teardown недели**
 
 Полный timeline:
-- **Сентябрь 2021**: Yum! купил Dragontail Systems за $72M USD
+- **Сентябрь 2021**: Yum! купил Dragontail Systems за \$72M USD
 - Промис: «super manager» — AI optimization kitchen flow, never pizza waiting for driver
 - **2024**: Yum mandated rollout to all Pizza Hut franchisees
-- **2025-2026**: Chaac Pizza Northeast (110 точек) sues for $100M damages
+- **2025-2026**: Chaac Pizza Northeast (110 точек) sues for \$100M damages
 - **Critical insight**: «AI didn't malfunction. It worked exactly as designed. That's what makes it scary.»
 - Drivers видели kitchen queues и оптимизировали под их KPI, не под operator KPI
 
@@ -94,7 +94,7 @@ Carl продолжает: «When bad data meets good AI in a fight, the data al
 
 ### Domain 5: ERP / POS Platforms
 
-**🔥 allO $14M Series A — insider validation от Elizabeth Chrystal** (Zigg Capital, ex-CFO Momofuku)
+**🔥 allO \$14M Series A — insider validation от Elizabeth Chrystal** (Zigg Capital, ex-CFO Momofuku)
 
 NEW QUOTE для нашего allO scout:
 
@@ -154,7 +154,7 @@ NEW QUOTE для нашего allO scout:
 
 - **Matthew Fitzpatrick (Invisible Technologies)** — позиционирование «most enterprises talk about AI in production, very few actually shipping». Strong CEO-facing thought leadership voice.
 - **DineFlow** (Aditya Raj, student JECRC University) — production-ready open-source SaaS restaurant OS (QR-table ordering + AI VoiceOrder + KDS + reception). Student project но architecturally complete. Worth bookmark.
-- **Anguilla .ai domain revenue $230M** (John Cutter) — fun fact, не QSR-specific но illustrates AI hype scale.
+- **Anguilla .ai domain revenue \$230M** (John Cutter) — fun fact, не QSR-specific но illustrates AI hype scale.
 - **Aimee Smith (Workday) — CHRO → Chief People-AI Officer** — HR-tech reframing, релевантно через connection к Workday-как-vendor для restaurant chains.
 - **Meliá Hotels Q1 2025 results** (Gabriel Escarrer) — hospitality macro, not QSR specifically.
 
@@ -209,7 +209,7 @@ LLM-pass должен:
 
 **Implementation**: добавить шаг в `weekly-digest.sh` который вызывает Claude API через `anthropic` CLI (или curl на messages API) с system prompt = «ты PM Dodo Pizza, синтезируй weekly digest на русском по образцу формата X».
 
-Cost: ~$0.10-0.30 per run на Claude API (Sonnet). Total monthly: ~$3.50 (Apify $2.64 + Claude $0.50-1.20).
+Cost: ~\$0.10-0.30 per run на Claude API (Sonnet). Total monthly: ~\$3.50 (Apify \$2.64 + Claude \$0.50-1.20).
 
 → **Сделать в следующей сессии** как part v1.1 release.
 

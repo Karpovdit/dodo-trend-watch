@@ -11,7 +11,7 @@ title: "Дайджест из новых Substack-источников · 3–9 
 
 ## Краткое содержание
 
-**Главное.** В новых Substack-источниках мы получаем то, чего не хватало в RSS обычных медиа — **глубокий разбор McDonald's NEXT от операторской команды Savor.fm**, **независимая аналитика Long Yield по AI-экономике** ("Inference economy: OpenAI теряет $14 млрд на $25 млрд выручки"), и **прикладные playbooks от Ad Valorem** про автоматизацию AP, расходов, прогноза кэша для малого бизнеса. Это контент, который индустриальные журналисты обычно не публикуют — потому что слишком конкретно про деньги или слишком неудобно про AI-revolution.
+**Главное.** В новых Substack-источниках мы получаем то, чего не хватало в RSS обычных медиа — **глубокий разбор McDonald's NEXT от операторской команды Savor.fm**, **независимая аналитика Long Yield по AI-экономике** ("Inference economy: OpenAI теряет \$14 млрд на \$25 млрд выручки"), и **прикладные playbooks от Ad Valorem** про автоматизацию AP, расходов, прогноза кэша для малого бизнеса. Это контент, который индустриальные журналисты обычно не публикуют — потому что слишком конкретно про деньги или слишком неудобно про AI-revolution.
 
 **Параллельно** Michael Parekh публикует ежедневный AI-RTZ обзор геополитики ИИ: Apple WWDC 2026 запустит Siri на Google Gemini, Google + Anthropic поддерживают SpaceX/xAI IPO, "промпт-инъекции" становятся постоянной проблемой пост-chatbot эры. Это макро-картина для Dodo IS и AI Lab Drinkit.
 
@@ -31,11 +31,11 @@ title: "Дайджест из новых Substack-источников · 3–9 
 
 **Значение для Dodo:** регулярно мониторить Savor.fm и его подкасты — это самый ценный operator-источник в нашем pipeline. Стоит рассмотреть paid подписку для доступа к Restaurant Power Index research.
 
-### 2. Long Yield: "OpenAI потеряет $14 млрд на $25 млрд выручки в 2026"
+### 2. Long Yield: "OpenAI потеряет \$14 млрд на \$25 млрд выручки в 2026"
 
 **Long Yield**, [9 июня](https://longyield.substack.com/p/inference-economics-the-hidden-war): "Inference Economics: The Hidden War Nobody Is Talking About". 🔒 Аналитический разбор экономики inference (выполнения запросов к AI-моделям).
 
-Ключевая цифра: **OpenAI прогнозирует $14 млрд убытков** на $25 млрд аннуализированной выручки в 2026. Это значит, что компании-пользователи AI (включая Dodo) сейчас платят за inference сильно ниже себестоимости — субсидирование Microsoft. Long Yield ставит вопрос: что произойдёт, когда субсидии закончатся, и какие модели выживут.
+Ключевая цифра: **OpenAI прогнозирует \$14 млрд убытков** на \$25 млрд аннуализированной выручки в 2026. Это значит, что компании-пользователи AI (включая Dodo) сейчас платят за inference сильно ниже себестоимости — субсидирование Microsoft. Long Yield ставит вопрос: что произойдёт, когда субсидии закончатся, и какие модели выживут.
 
 **Значение для Dodo IS / AI Lab Drinkit:** при планировании AI-проектов на горизонте 12–24 месяца учитывать, что **цены на inference могут вырасти в 2-5 раз**, когда инвесторы потребуют от OpenAI/Anthropic перехода к unit-economics. Дублировать ставку на одну модель — высокий риск. Параллельно держать DeepSeek/MiniMax в pilot-режиме (см. weekly про China AI > US 6 weeks).
 
@@ -65,7 +65,7 @@ title: "Дайджест из новых Substack-источников · 3–9 
 
 - [#1112: AI Siri ready for takeoff this Fall — Apple WWDC 2026 + Google Gemini engines](https://michaelparekh.substack.com/p/ai-ai-siri-ready-for-takeoff-this) (9 июня)
 - [#1111: 'Prompt Injections', the other 'Forever Problem' beyond 'AI Hallucinations'](https://michaelparekh.substack.com/p/ai-prompt-injections-the-other-forever) (8 июня)
-- [#1110: Google + Anthropic help paint Elon's SpaceX/xAI IPO fence](https://michaelparekh.substack.com/p/ai-google-and-anthropic-help-paint) (7 июня): "каждая компания платит $30 и $40+ млрд за избыток дата-центров SpaceX/xAI"
+- [#1110: Google + Anthropic help paint Elon's SpaceX/xAI IPO fence](https://michaelparekh.substack.com/p/ai-google-and-anthropic-help-paint) (7 июня): "каждая компания платит \$30 и \$40+ млрд за избыток дата-центров SpaceX/xAI"
 - [ARD #92: Fear & Greed Drive Risk Mitigation Around Global AI Infrastructure](https://michaelparekh.substack.com/p/fear-and-greed-drive-risk-mitigation): "США взвешивают доли в AI-компаниях, банки укрощают AI-долги, и 'frenemies' спешат с резервными чип-сделками"
 
 **Значение для Dodo IS / R&D:** хороший daily-pulse про AI-инфраструктуру и геополитику. Полезно для понимания макро-картины при принятии long-term AI-решений.

@@ -1,6 +1,6 @@
 # Отраслевой обзор за май 2026 — Dodo Brands (Pizza + Drinkit)
 
-> Период: 28 апреля — 28 мая 2026. Покрытие: 608 источников (US/EU/SEA + Япония + Китай + Индия + Латинская Америка + MENA + beverage-вертикаль). LinkedIn-сигналы — 745 постов через Apify, отфильтровано до 594. SEC EDGAR — 12 регуляторных подач за неделю. Затраты на сбор: $0,66 (Apify) + бесплатные публичные ленты.
+> Период: 28 апреля — 28 мая 2026. Покрытие: 608 источников (US/EU/SEA + Япония + Китай + Индия + Латинская Америка + MENA + beverage-вертикаль). LinkedIn-сигналы — 745 постов через Apify, отфильтровано до 594. SEC EDGAR — 12 регуляторных подач за неделю. Затраты на сбор: \$0,66 (Apify) + бесплатные публичные ленты.
 >
 > Документ написан как читаемый отраслевой обзор, не как сырой список. Все ключевые утверждения — со ссылками на источники. Цитаты переведены на русский, оригинал сохранён в скобках где смысл критичен.
 
@@ -8,7 +8,7 @@
 
 ### 1. 🍕 В Германии вырос прямой конкурент-платформа для пиццерий
 
-**[allO](https://www.linkedin.com/company/allo-app)** — мюнхенский стартап, поднял **€12 млн** (около $14 млн) Series A под предводительством Zigg Capital ([EU-Startups, 27 мая](https://www.eu-startups.com/2026/05/munichs-allo-raises-e12-million-series-a-to-expand-its-ai-operating-system-for-restaurants-across-europe/)). Сейчас обслуживают **1000+ ресторанов в Германии**, выручка выросла в **3,5×** за год, точки — в **6×**.
+**[allO](https://www.linkedin.com/company/allo-app)** — мюнхенский стартап, поднял **€12 млн** (около \$14 млн) Series A под предводительством Zigg Capital ([EU-Startups, 27 мая](https://www.eu-startups.com/2026/05/munichs-allo-raises-e12-million-series-a-to-expand-its-ai-operating-system-for-restaurants-across-europe/)). Сейчас обслуживают **1000+ ресторанов в Германии**, выручка выросла в **3,5×** за год, точки — в **6×**.
 
 Принципиальный сигнал — состав совета директоров и инвесторов:
 - **Элизабет Кристал** (Principal в Zigg Capital, **бывший CFO Momofuku**, см. её [пост на LinkedIn от 27 мая](https://www.linkedin.com/in/elizabethchrystal)) с прямой цитатой: «За время работы CFO в Momofuku я искала инструменты, которых не было. **Большинство ресторанного софта — плохое.** Cancan Liu, Teodor Rupi и Benedikt von Lewinski — другие. Они строят POS будущего.»
@@ -33,12 +33,12 @@
 
 ---
 
-### 3. 🚨 Иск на $100 млн против AI-системы доставки Pizza Hut стал главным предупреждением месяца
+### 3. 🚨 Иск на \$100 млн против AI-системы доставки Pizza Hut стал главным предупреждением месяца
 
-Франчайзи **Chaac Pizza Northeast** (110 точек Pizza Hut в Нью-Йорке, Нью-Джерси, Мэриленде, Вашингтоне, Пенсильвании) подал иск на **$100 млн** против Yum! Brands и системы **Dragontail AI**. Аргумент: после внедрения AI-диспетчера время доставки выросло с менее 30 минут (в 90 % заказов) до более 45 минут (в 50 % заказов), сравнимые продажи в Нью-Йорке упали с +10 % до **−9,78 %**. Сюжет освещён в [Fortune от 19 мая](https://fortune.com/2026/05/19/pizza-hut-franchisee-lawsuit-ai-adoption-doordash-delivery-drivers/) и в [Restaurant Dive от 27 мая](https://www.restaurantdive.com/news/restaurant-technology-executives-warn-against-ai-overdependence/821024/).
+Франчайзи **Chaac Pizza Northeast** (110 точек Pizza Hut в Нью-Йорке, Нью-Джерси, Мэриленде, Вашингтоне, Пенсильвании) подал иск на **\$100 млн** против Yum! Brands и системы **Dragontail AI**. Аргумент: после внедрения AI-диспетчера время доставки выросло с менее 30 минут (в 90 % заказов) до более 45 минут (в 50 % заказов), сравнимые продажи в Нью-Йорке упали с +10 % до **−9,78 %**. Сюжет освещён в [Fortune от 19 мая](https://fortune.com/2026/05/19/pizza-hut-franchisee-lawsuit-ai-adoption-doordash-delivery-drivers/) и в [Restaurant Dive от 27 мая](https://www.restaurantdive.com/news/restaurant-technology-executives-warn-against-ai-overdependence/821024/).
 
 Лучший разбор сюжета сделал **Брайан Дек** (CEO Smooth Commerce) в [LinkedIn-посте от 23 мая](https://www.linkedin.com/in/briandeck). Хронология:
-- Сентябрь 2021 — Yum! купил Dragontail Systems за **$72 млн**, обещая «супер-менеджера»: AI оптимизирует кухонный поток, чтобы пицца не ждала курьера
+- Сентябрь 2021 — Yum! купил Dragontail Systems за **\$72 млн**, обещая «супер-менеджера»: AI оптимизирует кухонный поток, чтобы пицца не ждала курьера
 - 2024 — Yum! сделал внедрение обязательным для всех Pizza Hut франчайзи
 - 2026 — иск Chaac
 
@@ -134,7 +134,7 @@
 | Игрок | Размер / факты | Источник |
 |---|---|---|
 | **Dutch Bros (BROS, NYSE)** | 830+ точек drive-thru формат, **публичная компания с детализированной отчётностью** | Section D §c в beverage scout |
-| **CHAGEE (CHA, Nasdaq)** | IPO в апреле 2026 при оценке **$6,2 млрд**, 208 точек SEA+US | Section D §d |
+| **CHAGEE (CHA, Nasdaq)** | IPO в апреле 2026 при оценке **\$6,2 млрд**, 208 точек SEA+US | Section D §d |
 | **Joe & The Juice** | Датский premium кофе+смузи, **готовит IPO в 2026**, миноритарий EIIC | Section D §h |
 | **Boba Guys** | Premium bubble tea, San Francisco origin | Section A |
 | **Gong Cha USA** | Франчайзи-структура bubble tea | Section A |
@@ -168,7 +168,7 @@
 
 ### Технологические вендоры для Drinkit-вертикали
 
-**[Botrista](https://www.linkedin.com/company/botrista-technology)** — главное технологическое открытие. Серия C на **$120 млн+**, ведущий инвестор — **Jollibee Foods**. Их **DrinkBot** делает специальные холодные напитки (boba, cold brew, smoothies) **за ~20 секунд без подготовленного бариста**. Прямое пересечение с меню Drinkit. API-friendly POS-интеграция. Подробно — в Section C [beverage scout](../regions/beverage-vertical.md).
+**[Botrista](https://www.linkedin.com/company/botrista-technology)** — главное технологическое открытие. Серия C на **\$120 млн+**, ведущий инвестор — **Jollibee Foods**. Их **DrinkBot** делает специальные холодные напитки (boba, cold brew, smoothies) **за ~20 секунд без подготовленного бариста**. Прямое пересечение с меню Drinkit. API-friendly POS-интеграция. Подробно — в Section C [beverage scout](../regions/beverage-vertical.md).
 
 **Прочие вендоры**:
 - **Cafe X Robotics** — роботизированный кофе-бар
@@ -203,7 +203,7 @@
 ### 🇨🇳 Китай
 
 - **Pizza Hut China (Yum China)** — **13-й квартал подряд** роста SSS-transactions (+5 % в Q1 2026), операционная прибыль +18 % поверх +27 % годом ранее. **KPRO** (модуль кофе внутри KFC) масштабируется 200→280 точек за квартал, **+20 % к продажам host-KFC**. Это **прямой кейс side-by-side формата** для дискуссий внутри Dodo. Источник — [Yum China Q1 2026 IR](https://yumchinaholdingsinc.gcs-web.com/news-releases/news-release-details/yum-china-reports-first-quarter-2026-results).
-- **Luckin Coffee Q1 2026** — выручка **¥12 млрд (+35,3 %)**, MAU **93 млн**, +2 548 точек чистого роста за квартал (включая 13 в Малайзии и 1 в Сингапуре). Первый в истории компании buyback на **$300 млн**. Подача — [SEC 6-K от 29 апреля](https://www.sec.gov/Archives/edgar/data/0001767582/000110465926050790/tm2612798d1_ex99-1.htm).
+- **Luckin Coffee Q1 2026** — выручка **¥12 млрд (+35,3 %)**, MAU **93 млн**, +2 548 точек чистого роста за квартал (включая 13 в Малайзии и 1 в Сингапуре). Первый в истории компании buyback на **\$300 млн**. Подача — [SEC 6-K от 29 апреля](https://www.sec.gov/Archives/edgar/data/0001767582/000110465926050790/tm2612798d1_ex99-1.htm).
 - **Mixue (HK 2097) FY25 результаты** — выручка **+35,2 % до ¥33,56 млрд**, чистая прибыль **+33,1 %**, **~60 000 точек** (с 46 000 годом раньше). **94 % выручки = продажа ингредиентов франчайзи**. Это самый чистый Mixue-style supply-chain-as-business артефакт в публичном доступе.
 
 ### 🇮🇳 Индия
@@ -228,7 +228,7 @@
 - **70 % безналичных транзакций** — мандат
 - **SFDA с июля 2025** — обязательное отображение калорий, натрия (saltshaker), кофеина, времени сжигания на всех меню (физических, онлайн, в delivery-приложениях)
 - **ZATCA Phase 2 FATOORA** — обязательное e-invoicing для всех VAT-registered
-- **Рынок foodservice достигнет $51,6 млрд к 2033 году**
+- **Рынок foodservice достигнет \$51,6 млрд к 2033 году**
 - **150 миллионов туристов к 2030**
 
 Три одновременных силы давят на upgrade POS + menu-data + tax-stack. **Foodics** (саудовский POS) делает развёртывание TabSense на 6 000 точек — крупнейший single AI-POS rollout в мире сейчас.
@@ -275,19 +275,19 @@
 - **DOI Sage Journal Maestro Pizza case** — нужен доступ через библиотеку (университет или работа)
 - **Nikkei xTREND (Япония, paywall)** — ~¥4 400/мес. Если решим инвестировать в japan-coverage — отдельная подписка
 - **DACH paywall (food-service.de, gv-praxis.de)** — ~€200/год. Релевантно для allO мониторинга
-- **Caixin Global Premium** — китайские глубокие материалы, ~$200/год
-- **WeChat-аккаунты ресторанной отрасли** (餐饮老板内参 и др.) — требует self-deploy [Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) на $5–10/мес VPS
+- **Caixin Global Premium** — китайские глубокие материалы, ~\$200/год
+- **WeChat-аккаунты ресторанной отрасли** (餐饮老板内参 и др.) — требует self-deploy [Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) на \$5–10/мес VPS
 
 ---
 
 ## Технические факты сборки
 
-- Запуск Apify: 745 LinkedIn-постов, $0,66
+- Запуск Apify: 745 LinkedIn-постов, \$0,66
 - Фильтр v2.3: оставлено 594 (T1: 64, T2: 332, T3: 198), отброшено 151 (промо/реклама/найм)
 - SEC EDGAR: 12 подач за неделю
 - Запланированный cron: **каждый понедельник 09:00 локального времени** через Windows Task Scheduler (`TrendWatch-QSR-Weekly`)
 - Следующий автозапуск: **1 июня 2026, 09:00**
-- Стоимость месяца: ~$2,64 (4 weekly runs × $0,66) — полностью покрывается бесплатным кредитом Apify $5/мес
+- Стоимость месяца: ~\$2,64 (4 weekly runs × \$0,66) — полностью покрывается бесплатным кредитом Apify \$5/мес
 
 ---
 

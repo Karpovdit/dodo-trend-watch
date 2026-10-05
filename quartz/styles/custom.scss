@@ -232,16 +232,17 @@ body[data-slug="index"] {
 // Garden hubs — 2 главных дайджеста с attached-материалами
 // -----------------------------------------------------------------------------
 
+// minmax(0, …): с голым 1fr колонка растягивается до самого широкого неразрывного блока в карточке
 .garden-hubs {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 2.5rem;
   margin: 2rem 0 3rem 0;
 }
 
 @media (max-width: 960px) {
   .garden-hubs {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     gap: 2.5rem;
   }
 }
@@ -250,6 +251,7 @@ body[data-slug="index"] {
   display: flex;
   flex-direction: column;
   gap: 1.4rem;
+  min-width: 0;
 }
 
 .garden-hub-card {

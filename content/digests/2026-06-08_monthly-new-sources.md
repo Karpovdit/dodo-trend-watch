@@ -349,7 +349,7 @@ title: "Дайджест за месяц · 4 мая – 3 июня 2026 · из
 
 ### 1. [@foodtechonline](https://t.me/foodtechonline/6587) · 2026-05-12 · 👁 4 340
 
-> Сеть Target инвестирует (https://www.supermarketnews.com/company-news/target-to-invest-5b-in-130-store-remodels-this-year-and-some-will-have-expanded-grocery) $5 млрд в развитие магазинов в 2026 году. Компания планирует провести реконструкцию более 130 торговых точек, а часть обновленных магазинов получит расширенные продуктовые отделы с увеличенным ассортиментом свежих продуктов, мяса и молочной…
+> Сеть Target инвестирует (https://www.supermarketnews.com/company-news/target-to-invest-5b-in-130-store-remodels-this-year-and-some-will-have-expanded-grocery) \$5 млрд в развитие магазинов в 2026 году. Компания планирует провести реконструкцию более 130 торговых точек, а часть обновленных магазинов получит расширенные продуктовые отделы с увеличенным ассортиментом свежих продуктов, мяса и молочной…
 
 ### 2. [@club_automate](https://t.me/club_automate/3505) · 2026-05-08 · 👁 1 080
 

@@ -118,7 +118,7 @@ SMM-fone: партнёрства, акции, события в Омске, Бе
 - **@opeskink (Константин Опескин, CHEF.X/RestUp)**: Запустил **Ресториум в web-версии** [08.05](https://t.me/opeskink/943); анонс панели «ИИ на кухне» 15.05 [11.05](https://t.me/opeskink/944)
 - **@restserov**: ChatGPT добавил «Балтику 3» на вирусное видео из тренда про стадионы. *«Такие AI-фишки могут залетать»* [14.05](https://t.me/restserov/413)
 - **@itskovserge (Сергей Ицков, Mozg)**: *«Тупик финансовой модели ресторана. Часть 1»* + *«Индекс Цезаря» новый рекорд +4%* [18.05](https://t.me/itskovserge/314)
-- **@starostin_creator**: *«Как нейронки спасли ларёк шаурмы от банкротства»* — кейс ребрендинга шаурмичной в Новосибирске за 3 месяца [11.05](https://t.me/starostin_creator/2759). Ищет тестировщика в Сабку: *«Claude Code за $200 и токены — без ограничений»* [05.05](https://t.me/starostin_creator/2756). **Сигнал**: малые рестораны выдают Claude Code сотрудникам как стандарт.
+- **@starostin_creator**: *«Как нейронки спасли ларёк шаурмы от банкротства»* — кейс ребрендинга шаурмичной в Новосибирске за 3 месяца [11.05](https://t.me/starostin_creator/2759). Ищет тестировщика в Сабку: *«Claude Code за \$200 и токены — без ограничений»* [05.05](https://t.me/starostin_creator/2756). **Сигнал**: малые рестораны выдают Claude Code сотрудникам как стандарт.
 - **@mobilefiction (разработчик Drinkit)**: Анонс **Mobius 2026 Spring** [11.05](https://t.me/mobilefiction/430) — Drinkit публично продвигает AI Lab. *«Первая фича Drinkit на Kotlin Multiplatform»* [06.05](https://t.me/mobilefiction/427)
 - **@dododev**: Описание фичи нейробариста (выбор по «вайбу») [22.05](https://t.me/dododev/1771)
 
@@ -126,7 +126,7 @@ SMM-fone: партнёрства, акции, события в Омске, Бе
 
 - **@aialphacom (105K)** — кейс **Andon Cafe в Стокгольме, где CEO — ИИ** (24.05–01.06); *«Эра белых воротничков заканчивается. В Citadel команды PhD стали бесполезными за 1 неделю использования AI-агентов»* [18.05](https://t.me/aialphacom/929)
 - **@data_fish (142 subs!)**: *«Нейробариста: ИИ знает, что вам нужно, лучше вас»* (про нас!) + *«Роботы, 550 млн и одна пицца. Picnic (53M, партнёрство Domino's) и Zume Pizza (~500M потрачено) — крах»*
-- **@kgrbnv (14.9K)**: *«ИИ у всех будет одинаковым»* [21.05](https://t.me/kgrbnv/1152); *«Anthropic строит AI-аналог McKinsey: $1.5B JV с Blackstone, Hellman & Friedman, Goldman Sachs»* [08.05](https://t.me/kgrbnv/1145)
+- **@kgrbnv (14.9K)**: *«ИИ у всех будет одинаковым»* [21.05](https://t.me/kgrbnv/1152); *«Anthropic строит AI-аналог McKinsey: \$1.5B JV с Blackstone, Hellman & Friedman, Goldman Sachs»* [08.05](https://t.me/kgrbnv/1145)
 - **@nklypsernk_zttlkstn (11.9K)**: *«AI Job Apocalypse — это полная фантастика»* (a16z манифест) [12.05](https://t.me/nklypsernk_zttlkstn/1182); *«Allbirds переименовался в AI-компанию, капитализация выросла в 7 раз»* [07.05](https://t.me/nklypsernk_zttlkstn/1175)
 - **@ProductsAndStartups (14.6K)**: *«CEO vs CTO: CEO с Claude Code давит на автономную разработку»* [14.05](https://t.me/ProductsAndStartups/1748); *«Generative UI: дизайн-система больше не для людей»* [10.05](https://t.me/ProductsAndStartups/1746)
 - **@productdo (21.2K)**: запустил курс Claude Code для продактов [15.05](https://t.me/productdo/918) — Pro-курс с симулятором Big Tech.
